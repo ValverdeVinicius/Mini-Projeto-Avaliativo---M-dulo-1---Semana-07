@@ -1,0 +1,1501 @@
+pedido_id,data_venda,produto,categoria,canal_venda,cidade,quantidade,preco_unitario,custo_unitario,desconto_pct,status_pedido,publico,tamanho,data_entrega
+844,2025-11-21 18:02:35,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,132.5,72.08,15,Cancelado,Adulto,G,
+378,2024-10-29 18:41:26,Fantasia de bruxa,  FANTASIA!!!  ,Loja física,Maringá,3,110,57,5,Concluído,Adulto,M,2024-11-03 18:41:26
+953,2025-09-05 21:16:09,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,5,Concluído,Adulto,M,2025-09-10 21:16:09
+11,2024-11-08 11:29:44,Mascara assustadora,Acessorio,Loja física,Cascavel,1,35,12,15,Concluído,Todos,Unico,2024-11-11 11:29:44
+1335,2025-08-23 11:22:05,Mascara assustadora,Acessorio,Mercado,Curitiba,3,37.1,12.72,0,Concluído,Todos,Unico,2025-08-25 11:22:05
+359,2024-10-01 15:00:11,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,75,39,10,Concluído,Infantil,M,2024-10-07 15:00:11
+1066,2025-08-26 19:49:13,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,5,Devolvido,Adulto,G,2025-08-29 19:49:13
+556,2024-10-12 14:13:18,Mascara assustadora,Acessorio,Loja física,Curitiba,2,35,12,0,Concluído,Todos,Unico,2024-10-15 14:13:18
+186,2024-08-17 22:17:18,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,0,Cancelado,Infantil,M,
+823,2025-10-11 19:01:38,Fantasia de fantasma,Fantasia,Loja física,Londrina,2,79.5,41.34,10,Concluído,Infantil,M,2025-10-16 19:01:38
+888,2025-09-05 12:33:29,Fantasia de vampiro,Fantasia,Mercado,Cascavel,7,132.5,72.08,0,Concluído,Adulto,G,2025-09-10 12:33:29
+1084,2025-10-31 16:45:07,Mascara assustadora,Acessorio,Mercado,Londrina,7,37.1,12.72,0,Concluído,Todos,Unico,2025-11-06 16:45:07
+608,2024-10-05 19:16:31,Fantasia de fantasma, Fantasia ,Web,Londrina,2,75,39,0,Concluído,Infantil,M,2024-10-10 19:16:31
+726,2024-10-21 18:22:50,Fantasia de vampiro,Fantasia, loja física ,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-24 18:22:50
+796,2025-10-12 18:49:53,Mascara assustadora,Acessorio,Mercado,Curitiba,4,37.1,12.72,0,Concluído,Todos,Unico,2025-10-15 18:49:53
+478,2024-10-27 22:27:42,Fantasia de fantasma,Fantasia,Web,Cascavel,3,75,39,0,Concluído,Infantil,M,2024-11-01 22:27:42
+267,2024-10-16 14:09:47,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,125,68,5,Concluído,Adulto,G,2024-10-20 14:09:47
+748,2024-11-11 12:31:07,Fantasia de vampiro,Fantasia,Mercado,Cascavel,4,125,68,25,Concluído,Adulto,G,2024-11-16 12:31:07
+162,2024-11-03 19:04:42,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Curitiba,2,22,8,10,Concluído,Todos,Unico,2024-11-07 19:04:42
+549,2024-11-11 19:08:43,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,20,Devolvido,Adulto,G,2024-11-17 19:08:43
+1417,2025-10-10 19:47:21,Fantasia de bruxa,Fantasia,Web,Londrina,1,116.6,60.42,10,Concluído,Adulto,M,2025-10-14 19:47:21
+662,2024-10-21 19:27:01,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,0,Cancelado,Adulto,G,
+266,2024-09-20 13:22:44,Chapeu de bruxa, Acessorio ,Mercado,Maringá,7,22,8,0,Concluído,Todos,Unico,2024-09-23 13:22:44
+1500,2025-11-04 16:44:22,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,,8.48,0,Concluído,Todos,Unico,2025-11-06 16:44:22
+4,2024-11-28 18:46:22,Fantasia de abobora,Fantasia,Loja física,Maringá,2,85,44,10,Concluído,Infantil,P,2024-12-04 18:46:22
+93,2024-08-03 11:25:58,Fantasia de fantasma,Fantasia,Mercado,Londrina,3,75,39,0,Concluído,Infantil,M,2024-08-08 11:25:58
+610,2024-09-29 17:36:14,Mascara assustadora,Acessorio,Loja física,Maringá,2,35,12,0,Concluído,Todos,Unico,2024-10-01 17:36:14
+56,2024-11-02 18:57:40,Chapeu de bruxa,Acessorio,Mercado,Londrina,6,22,8,10,Concluído,Todos,Unico,2024-11-05 18:57:40
+217,2024-10-19 18:09:59,Fantasia de bruxa,Fantasia,Loja física,Curitiba,1,110,57,5,Concluído,Adulto,M,2024-10-23 18:09:59
+1398,2025-10-12 20:54:40,Fantasia de fantasma,Fantasia,Web,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 20:54:40
+672,2024-10-22 16:05:27,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-10-26 16:05:27
+979,2025-09-23 19:45:02,Chapeu de bruxa,Acessorio,Web,Londrina,1,23.32,8.48,0,Concluído,Todos,Unico,2025-09-29 19:45:02
+669,2024-10-30 19:22:33,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,5,Concluído,Todos,Unico,2024-11-05 19:22:33
+813,2025-11-07 21:49:22,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,25,Concluído,Infantil,M,2025-11-12 21:49:22
+1137,2025-10-09 14:17:11,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,23.32,8.48,10,Concluído,Todos,Unico,2025-10-13 14:17:11
+1001,2025-10-01 22:13:38,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,5,Concluído,Infantil,M,2025-10-04 22:13:38
+679,2024-10-27 11:39:53,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,85,44,10,Concluído,Infantil,P,2024-11-02 11:39:53
+1216,2025-11-05 10:02:21,Fantasia de fantasma, Fantasia ,Loja física,Curitiba,3,79.5,41.34,20,Concluído,Infantil,M,2025-11-08 10:02:21
+178,2024-10-13 18:07:56,Fantasia de vampiro,Fantasia,Web,Cascavel,1,125,68,10,Concluído,Adulto,G,2024-10-18 18:07:56
+80,2024-09-09 19:01:07,Mascara assustadora,,Web,Maringá,3,35,12,0,Concluído,Todos,Unico,2024-09-11 19:01:07
+620,2024-11-03 15:15:57,Fantasia de abobora,Fantasia,Loja física,Maringá,2,85,44,15,Concluído,Infantil,P,2024-11-05 15:15:57
+787,2025-09-21 20:56:30,Fantasia de fantasma,Fantasia,Web,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-09-25 20:56:30
+283,2024-10-03 12:12:27,Mascara assustadora,Acessorio,Mercado,Cascavel,6,35,12,0,Concluído,Todos,Unico,2024-10-08 12:12:27
+227,2024-10-20 21:14:09,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,0,Concluído,Adulto,G,2024-10-24 21:14:09
+790,2025-10-15 09:48:54,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,5,Concluído,Adulto,G,2025-10-17 09:48:54
+1194,2025-10-06 20:13:12,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-12 20:13:12
+15,2024-11-13 10:48:22,Fantasia de fantasma,Fantasia,Loja física,Maringá,3,75,39,0,Concluído,Infantil,M,2024-11-15 10:48:22
+1145,2025-08-11 22:35:59,Fantasia de bruxa,Fantasia,Web,Cascavel,1,116.6,60.42,0,Concluído,Adulto,M,2025-08-13 22:35:59
+1428,2025-10-14 15:00:53,Fantasia de vampiro,Fantasia,Mercado,Maringá,4,132.5,72.08,10,Concluído,Adulto,G,2025-10-19 15:00:53
+1170,2025-08-19 22:20:19,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,0,Concluído,Infantil,P,
+1202,2025-10-02 09:13:02,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,2025-10-06 09:13:02
+1294,2025-10-18 19:08:34,Fantasia de vampiro,Fantasia,Web,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-24 19:08:34
+674,2024-11-22 16:27:37,Fantasia de vampiro,Fantasia,Loja física,Cascavel,3,125,68,25,Concluído,Adulto,G,2024-11-28 16:27:37
+1406,2025-10-22 13:57:58,Mascara assustadora, Acessorio ,Mercado,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-25 13:57:58
+269,2024-09-28 19:00:38,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,75,39,0,Concluído,Infantil,M,2024-10-04 19:00:38
+1040,2025-11-04 21:49:35,Fantasia de bruxa,,Web,Maringá,2,116.6,60.42,20,Concluído,Adulto,M,2025-11-06 21:49:35
+421,2024-10-29 11:41:45,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,22,8,0,Concluído,Todos,Unico,2024-11-01 11:41:45
+161,2024-10-11 09:41:44,Mascara assustadora,Acessorio,Loja física,Maringá,2,35,12,10,Concluído,Todos,Unico,2024-10-14 09:41:44
+1306,2025-10-21 17:25:22,Fantasia de abobora,Fantasia,Mercado,Curitiba,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-24 17:25:22
+896,2025-09-25 21:51:50,Fantasia de fantasma,Fantasia,Web,Maringá,2,79.5,41.34,0,Cancelado,Infantil,M,
+1206,2025-08-01 18:45:22,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,23.32,8.48,0,Concluído,Todos,Unico,2025-08-04 18:45:22
+119,2024-08-22 22:28:50,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,10,Cancelado,Adulto,M,
+1244,2025-10-16 18:46:18,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-22 18:46:18
+1096,2025-09-25 17:31:27,Mascara assustadora,Acessorio,Mercado,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-09-28 17:31:27
+350,2024-11-05 18:50:31,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-11-07 18:50:31
+1265,2025-08-09 19:10:30,Mascara assustadora,Acessorio,Mercado,Maringá,2,37.1,12.72,10,Concluído,Todos,Unico,2025-08-11 19:10:30
+1387,2025-11-07 09:54:02,Chapeu de bruxa, Acessorio ,Mercado,Cascavel,6,23.32,8.48,25,Concluído,Todos,Unico,2025-11-11 09:54:02
+506,2024-10-13 19:40:40,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-10-16 19:40:40
+1008,2025-11-02 21:03:35,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,10,Cancelado,Adulto,M,
+993,2025-08-24 20:34:49,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-08-29 20:34:49
+649,2024-10-30 15:33:30,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,22,8,10,Concluído,Todos,Unico,2024-11-05 15:33:30
+454,2024-09-26 20:34:35,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,10,Concluído,Todos,Unico,2024-10-02 20:34:35
+930,2025-10-05 21:14:03,Mascara assustadora,Acessorio,Web,Curitiba,3,37.1,12.72,10,Devolvido,Todos,Unico,2025-10-07 21:14:03
+829,2025-10-10 21:53:48,Fantasia de abobora,Fantasia,Web,Cascavel,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-16 21:53:48
+1092,2025-09-09 17:46:53,Fantasia de bruxa,Fantasia,Mercado,Curitiba,7,116.6,60.42,0,Concluído,Adulto,M,2025-09-13 17:46:53
+204,2024-10-21 13:18:39,Mascara assustadora,Acessorio,Loja física,Cascavel,2,35,12,0,Devolvido,Todos,Unico,2024-10-27 13:18:39
+932,2025-11-03 17:32:39,Mascara assustadora,Acessorio,Loja física,Londrina,3,37.1,12.72,20,Devolvido,Todos,Unico,2025-11-07 17:32:39
+419,2024-11-15 18:09:16,Fantasia de vampiro,Fantasia,Web,Maringá,1,125,68,15,Concluído,Adulto,G,2024-11-21 18:09:16
+949,2025-11-11 11:15:39,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,90.1,46.64,25,Concluído,Infantil,P,2025-11-17 11:15:39
+1211,2025-11-12 14:37:39,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,90.1,46.64,0,Concluído,Infantil,P,2025-11-15 14:37:39
+939,2025-10-12 21:22:18,Mascara assustadora,Acessorio,Web,Londrina,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-18 21:22:18
+1134,2025-11-30 21:50:07,Fantasia de vampiro,  FANTASIA!!!  ,Web,Curitiba,1,132.5,72.08,20,Concluído,Adulto,G,2025-12-06 21:50:07
+9,2024-10-02 20:49:29,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,10,Concluído,Adulto,M,2024-10-08 20:49:29
+489,2024-09-23 18:10:47,Mascara assustadora,Acessorio,Web,Maringá,3,35,12,0,Concluído,Todos,Unico,2024-09-29 18:10:47
+808,2025-10-05 15:02:25,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,5,Concluído,Infantil,M,2025-10-10 15:02:25
+1063,2025-09-10 20:33:26,Chapeu de bruxa,Acessorio,Web,Maringá,3,23.32,8.48,5,Concluído,Todos,Unico,2025-09-15 20:33:26
+591,2024-11-13 20:06:09,Fantasia de fantasma,Fantasia,Web,Maringá,3,75,39,20,Concluído,Infantil,M,2024-11-16 20:06:09
+1074,2025-11-09 19:51:29,Fantasia de bruxa,Fantasia,Loja física,Curitiba,2,116.6,60.42,15,Concluído,Adulto,M,2025-11-15 19:51:29
+1499,2025-11-20 19:56:29,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,20,Concluído,Infantil,M,2025-11-26 19:56:29
+1002,2025-11-04 14:54:28,Fantasia de abobora,Fantasia,Mercado,Londrina,5,90.1,46.64,15,Concluído,Infantil,P,2025-11-08 14:54:28
+1318,2025-11-11 14:28:49,Fantasia de abobora,Fantasia,Mercado,Maringá,2,90.1,46.64,20,Concluído,Infantil,P,2025-11-16 14:28:49
+1483,2025-10-10 09:02:41,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,23.32,8.48,0,Concluído,Todos,Unico,2025-10-15 09:02:41
+440,2024-11-21 21:01:40,Fantasia de fantasma,Fantasia,Web,Londrina,3,75,39,0,Cancelado,Infantil,M,
+1261,2025-10-05 18:22:33,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-08 18:22:33
+159,2024-10-09 10:39:26,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,22,8,0,Concluído,Todos,Unico,2024-10-15 10:39:26
+1168,2025-10-10 18:27:53,Chapeu de bruxa,Acessorio,Mercado,Maringá,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-15 18:27:53
+1347,2025-11-06 11:15:03,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,116.6,60.42,20,Concluído,Adulto,M,2025-11-10 11:15:03
+1108,2025-10-21 09:10:28,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-26 09:10:28
+35,2024-11-12 18:28:19,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,20,Cancelado,Adulto,G,
+115,2024-11-06 22:38:43,Fantasia de vampiro,Fantasia,Web,Curitiba,3,125,68,25,Concluído,Adulto,G,2024-11-08 22:38:43
+799,2025-10-22 18:49:17,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-28 18:49:17
+175,2024-09-07 20:32:49,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-09-09 20:32:49
+607,2024-10-09 18:49:12,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,5,Concluído,Infantil,P,2024-10-13 18:49:12
+859,2025-11-04 12:56:33,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,2025-11-10 12:56:33
+396,2024-09-20 11:34:06,Chapeu de bruxa,Acessorio, mercado ,Londrina,2,22,8,5,Concluído,Todos,Unico,2024-09-23 11:34:06
+429,2024-10-17 17:12:27,Fantasia de fantasma,Fantasia, loja física ,Londrina,2,75,39,5,Concluído,Infantil,M,2024-10-23 17:12:27
+1174,2025-10-20 22:32:07,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-26 22:32:07
+533,2024-10-22 10:21:22,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-10-27 10:21:22
+243,2024-10-14 20:16:13,Fantasia de vampiro,  FANTASIA!!!  ,Web,Maringá,3,125,68,5,Concluído,Adulto,G,2024-10-19 20:16:13
+737,2024-09-09 21:19:55,Fantasia de fantasma,Fantasia,Web,Cascavel,1,75,39,0,Concluído,Infantil,M,2024-09-13 21:19:55
+1405,2025-10-14 22:42:17,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,5,Concluído,Adulto,G,2025-10-16 22:42:17
+1474,2025-09-20 22:26:43,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,0,Concluído,Adulto,G,2025-09-26 22:26:43
+307,2024-10-21 18:25:19,Chapeu de bruxa,Acessorio,Mercado,Cascavel,5,22,8,0,Concluído,Todos,Unico,2024-10-25 18:25:19
+455,2024-10-22 17:25:57,Chapeu de bruxa,Acessorio,Loja física,Curitiba,1,22,8,0,Concluído,Todos,Unico,2024-10-24 17:25:57
+5,2024-08-09 21:09:41,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,10,Concluído,Infantil,P,2024-08-11 21:09:41
+837,2025-09-16 19:43:52,Chapeu de bruxa,  ACESSORIO!!!  ,Web,Maringá,1,23.32,8.48,0,Cancelado,Todos,Unico,
+885,2025-10-21 09:11:44,Mascara assustadora,Acessorio,Loja física,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-23 09:11:44
+990,2025-10-13 20:00:16,Fantasia de fantasma,Fantasia, web ,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,
+144,2024-11-03 20:24:11,Fantasia de vampiro,Fantasia,Web,Maringá,2,125,68,0,Cancelado,Adulto,G,
+165,2024-08-14 11:03:48,Fantasia de bruxa,Fantasia, mercado ,Londrina,5,110,57,0,Concluído,Adulto,M,2024-08-16 11:03:48
+354,2024-11-14 18:36:50,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,85,44,15,Concluído,Infantil,P,2024-11-20 18:36:50
+929,2025-10-13 09:06:40,Fantasia de fantasma,Fantasia,Loja física,Curitiba,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-19 09:06:40
+339,2024-11-08 15:21:48,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,125,68,15,Concluído,Adulto,G,2024-11-14 15:21:48
+1419,2025-10-28 14:46:48,Fantasia de abobora,Fantasia, loja física ,Curitiba,2,90.1,46.64,0,Concluído,Infantil,P,2025-11-03 14:46:48
+64,2024-10-15 19:46:20,Fantasia de vampiro,Fantasia,Web,Maringá,3,125,68,5,Concluído,Adulto,G,2024-10-21 19:46:20
+522,2024-11-01 20:34:20,Fantasia de bruxa,Fantasia,Web,Cascavel,3,110,57,20,Concluído,Adulto,M,2024-11-05 20:34:20
+504,2024-08-26 22:39:27,Fantasia de vampiro,Fantasia,Web,Cascavel,1,125,68,0,Concluído,Adulto,G,2024-09-01 22:39:27
+671,2024-09-19 09:32:45,Mascara assustadora,Acessorio,Mercado,Londrina,5,35,12,10,Concluído,Todos,Unico,2024-09-22 09:32:45
+1058,2025-10-09 14:31:44,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-14 14:31:44
+681,2024-10-02 15:50:45,Fantasia de abobora,Fantasia,Loja física,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-05 15:50:45
+188,2024-11-10 12:35:06,Mascara assustadora,Acessorio,Loja física,Maringá,3,35,12,25,Concluído,Todos,Unico,2024-11-15 12:35:06
+1427,2025-10-26 19:36:04,Mascara assustadora,Acessorio,Web,Maringá,1,37.1,12.72,5,Devolvido,Todos,Unico,2025-10-30 19:36:04
+255,2024-08-18 22:17:13,Fantasia de bruxa,Fantasia,Web,Curitiba,2,110,57,5,Concluído,Adulto,M,2024-08-20 22:17:13
+1271,2025-10-26 18:37:45,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,0,Cancelado,Adulto,G,
+1016,2025-09-21 19:33:41,Mascara assustadora,Acessorio,Web,Cascavel,2,37.1,12.72,10,Concluído,Todos,Unico,2025-09-24 19:33:41
+235,2024-10-26 15:39:55,Fantasia de abobora,Fantasia,Loja física,Maringá,1,85,44,10,Concluído,Infantil,P,2024-10-28 15:39:55
+379,2024-11-02 18:43:39,Mascara assustadora,Acessorio,Web,Cascavel,1,35,12,20,Concluído,Todos,Unico,2024-11-08 18:43:39
+149,2024-10-23 12:05:49,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,22,8,0,Concluído,Todos,Unico,2024-10-29 12:05:49
+1189,2025-10-18 22:25:07,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-24 22:25:07
+268,2024-11-01 19:26:43,Fantasia de abobora,Fantasia,Loja física,Curitiba,1,85,44,0,Concluído,Infantil,P,2024-11-06 19:26:43
+53,2024-11-03 21:12:35,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,20,Concluído,Adulto,G,2024-11-08 21:12:35
+1376,2025-10-03 19:30:38,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-06 19:30:38
+183,2024-10-09 18:59:10,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,5,Concluído,Infantil,P,2024-10-14 18:59:10
+805,2025-10-23 19:10:51,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-25 19:10:51
+1104,2025-10-18 09:09:14,Fantasia de abobora,Fantasia,Loja física,Londrina,1,90.1,46.64,10,Concluído,Infantil,P,2025-10-24 09:09:14
+741,2024-09-29 22:18:53,Fantasia de abobora, Fantasia ,Web,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-10-02 22:18:53
+1116,2025-10-27 15:44:55,Mascara assustadora,Acessorio,Loja física,Curitiba,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-30 15:44:55
+780,2025-11-01 22:51:30,Fantasia de fantasma,Fantasia,Web,Londrina,2,79.5,41.34,20,Concluído,Infantil,M,2025-11-03 22:51:30
+17,2024-10-20 19:42:34,Chapeu de bruxa,Acessorio,Web,Cascavel,2,22,8,5,Cancelado,Todos,Unico,
+222,2024-11-14 22:57:40,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Concluído,Adulto,M,2024-11-18 22:57:40
+1341,2025-11-01 09:07:59,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-11-04 09:07:59
+1135,2025-10-30 21:28:34,Fantasia de bruxa,Fantasia,Web,Maringá,1,116.6,60.42,0,Concluído,Adulto,M,2025-11-01 21:28:34
+740,data_invalida,Fantasia de abobora,Fantasia,Web,Curitiba,2,85,44,25,Concluído,Infantil,P,
+644,2024-11-09 16:51:06,Mascara assustadora,Acessorio,Loja física,Curitiba,2,35,12,20,Concluído,Todos,Unico,2024-11-15 16:51:06
+273,2024-10-27 11:11:05,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,75,39,5,Concluído,Infantil,M,2024-11-01 11:11:05
+486,2024-10-21 22:18:17,Fantasia de bruxa,  FANTASIA!!!  ,Web,Londrina,2,110,57,10,Concluído,Adulto,M,2024-10-24 22:18:17
+156,2024-09-28 18:50:28,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,5,Concluído,Todos,Unico,2024-10-01 18:50:28
+320,2024-08-21 14:30:09,Chapeu de bruxa,,Mercado,Londrina,6,22,8,0,Concluído,Todos,Unico,2024-08-23 14:30:09
+1444,2025-11-05 16:11:48,Mascara assustadora, Acessorio ,Mercado,Maringá,7,37.1,12.72,15,Concluído,Todos,Unico,2025-11-11 16:11:48
+28,2024-08-02 21:28:37,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-08-07 21:28:37
+1385,2025-10-18 18:06:40,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,10,Concluído,Adulto,M,2025-10-20 18:06:40
+635,2024-10-19 09:50:07,Mascara assustadora,Acessorio,Loja física,Cascavel,2,35,12,10,Concluído,Todos,Unico,2024-10-21 09:50:07
+632,2024-10-31 14:12:56,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,5,Cancelado,Todos,Unico,
+889,2025-10-31 09:49:01,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,5,Concluído,Adulto,G,2025-11-06 09:49:01
+630,2024-11-03 12:14:23,Chapeu de bruxa,Acessorio,Mercado,Londrina,-1,22,8,10,Concluído,Todos,Unico,
+925,2025-11-17 15:21:25,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,116.6,60.42,10,Concluído,Adulto,M,2025-11-19 15:21:25
+1144,2025-10-13 18:51:01,Chapeu de bruxa,Acessorio,Web,Londrina,2,23.32,8.48,10,Cancelado,Todos,Unico,
+1298,2025-10-31 10:19:37,Fantasia de abobora,Fantasia,Loja física,Maringá,2,90.1,46.64,5,Concluído,Infantil,P,2025-11-05 10:19:37
+99,2024-10-17 16:24:15,Fantasia de bruxa,Fantasia, loja física ,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-10-23 16:24:15
+1158,2025-10-09 21:27:29,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-14 21:27:29
+1392,2025-11-06 18:24:40,Mascara assustadora,Acessorio,Mercado,Londrina,5,37.1,12.72,20,Concluído,Todos,Unico,2025-11-10 18:24:40
+147,2024-11-06 21:57:30,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,10,Concluído,Adulto,M,2024-11-10 21:57:30
+1311,2025-10-29 21:18:29,Fantasia de fantasma, Fantasia ,Web,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-11-01 21:18:29
+836,2025-10-26 20:16:07,Fantasia de vampiro, Fantasia ,Web,Cascavel,2,132.5,72.08,10,Cancelado,Adulto,G,
+1386,2025-10-21 20:30:26,Fantasia de fantasma,Fantasia, web ,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-24 20:30:26
+1446,2025-10-14 20:03:23,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-17 20:03:23
+1255,2025-09-21 20:08:02,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,0,Concluído,Infantil,M,2025-09-23 20:08:02
+516,2024-10-20 20:02:54,Fantasia de fantasma,Fantasia,Web,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-10-23 20:02:54
+97,2024-10-28 19:33:28,Mascara assustadora,Acessorio,Mercado,Curitiba,2,35,12,5,Concluído,Todos,Unico,2024-11-01 19:33:28
+1225,2025-10-18 20:44:10,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-20 20:44:10
+228,2024-11-01 14:46:20,Mascara assustadora, Acessorio ,Loja física,Maringá,2,35,12,10,Concluído,Todos,Unico,2024-11-06 14:46:20
+412,2024-10-30 16:42:43,Fantasia de vampiro,Fantasia,Loja física,Maringá,3,125,68,0,Concluído,Adulto,G,2024-11-03 16:42:43
+1340,2025-10-30 16:17:05,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,2025-11-01 16:17:05
+176,2024-09-11 19:37:46,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,75,39,0,Concluído,Infantil,M,2024-09-14 19:37:46
+1436,2025-10-28 22:47:51,Fantasia de bruxa,Fantasia,Web,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-31 22:47:51
+130,2024-09-30 18:21:48,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Cancelado,Adulto,G,
+554,2024-10-11 19:23:54,Fantasia de fantasma,Fantasia,Web,Londrina,3,75,39,10,Concluído,Infantil,M,2024-10-17 19:23:54
+832,2025-09-27 18:43:04,Fantasia de bruxa,Fantasia,Web,Cascavel,2,116.6,60.42,10,Concluído,Adulto,M,2025-10-01 18:43:04
+629,2024-11-03 18:17:44,Mascara assustadora,Acessorio,Mercado,Maringá,3,35,12,20,Concluído,Todos,Unico,2024-11-09 18:17:44
+340,2024-08-17 21:14:33,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Devolvido,Adulto,G,2024-08-19 21:14:33
+828,2025-10-19 09:56:57,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-24 09:56:57
+961,2025-10-12 21:00:07,Fantasia de abobora,Fantasia,Web,Maringá,1,90.1,46.64,5,Concluído,Infantil,P,2025-10-15 21:00:07
+318,2024-10-20 10:09:12,Mascara assustadora,Acessorio,Loja física,Londrina,1,35,12,0,Concluído,Todos,Unico,2024-10-25 10:09:12
+1237,2025-11-01 16:39:46,Mascara assustadora,Acessorio,Mercado,Cascavel,4,37.1,12.72,0,Concluído,Todos,Unico,2025-11-05 16:39:46
+1369,2025-10-27 12:18:52,Mascara assustadora,Acessorio,Loja física,Londrina,1,37.1,12.72,0,Concluído,Todos,Unico,2025-11-02 12:18:52
+172,2024-10-05 12:21:25,Fantasia de fantasma,Fantasia,Mercado,Maringá,2,75,39,0,Concluído,Infantil,M,2024-10-09 12:21:25
+408,2024-11-13 18:20:53,Fantasia de abobora,Fantasia,Loja física,Maringá,3,85,44,20,Concluído,Infantil,P,2024-11-18 18:20:53
+1297,2025-10-27 19:37:19,Fantasia de fantasma,Fantasia,Web,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-31 19:37:19
+914,2025-10-26 14:58:18,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-11-01 14:58:18
+625,2024-08-25 22:22:42,Fantasia de fantasma,Fantasia,Web,Curitiba,2,,39,10,Concluído,Infantil,M,2024-08-27 22:22:42
+1373,2025-10-25 19:35:16,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-30 19:35:16
+29,2024-11-04 14:05:52,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,22,8,20,Concluído,Todos,Unico,2024-11-10 14:05:52
+122,2024-08-27 18:30:29,Fantasia de fantasma,Fantasia,Web,Cascavel,1,75,39,10,Cancelado,Infantil,M,
+893,2025-10-04 11:02:34,Mascara assustadora, Acessorio ,Loja física,Cascavel,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-09 11:02:34
+1494,2025-09-28 21:06:38,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,10,Concluído,Adulto,G,2025-10-04 21:06:38
+1165,2025-11-02 16:00:01,Fantasia de abobora,Fantasia,Loja física,Cascavel,3,90.1,46.64,15,Concluído,Infantil,P,2025-11-04 16:00:01
+646,2024-11-17 22:08:28,Fantasia de vampiro, Fantasia ,Web,Londrina,1,125,68,10,Concluído,Adulto,G,2024-11-20 22:08:28
+166,2024-10-27 10:08:28,Mascara assustadora,Acessorio,Loja física,Curitiba,2,35,12,10,Concluído,Todos,Unico,2024-10-30 10:08:28
+1177,2025-10-29 13:37:39,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,0,Concluído,Infantil,M,2025-11-02 13:37:39
+1438,2025-08-08 18:58:17,Fantasia de vampiro,Fantasia,Loja física,Maringá,1,132.5,72.08,5,Concluído,Adulto,G,2025-08-13 18:58:17
+820,2025-10-19 22:43:15,Fantasia de fantasma,Fantasia,Web,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-21 22:43:15
+182,2024-10-19 11:58:16,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,22,8,0,Concluído,Todos,Unico,2024-10-23 11:58:16
+242,2024-10-18 09:27:10,Fantasia de abobora,Fantasia,Loja física,Londrina,3,85,44,5,Concluído,Infantil,P,2024-10-22 09:27:10
+1397,2025-10-26 15:02:15,Chapeu de bruxa,Acessorio,Mercado,Londrina,6,23.32,8.48,5,Concluído,Todos,Unico,2025-10-30 15:02:15
+1448,2025-10-12 18:08:05,Fantasia de fantasma,Fantasia,Web,Cascavel,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 18:08:05
+933,2025-10-31 09:29:24,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,90.1,46.64,0,Concluído,Infantil,P,2025-11-05 09:29:24
+1000,2025-09-18 19:48:22,Fantasia de abobora,Fantasia,Web,Curitiba,1,,46.64,10,Concluído,Infantil,P,2025-09-20 19:48:22
+1155,2025-10-20 17:36:08,Chapeu de bruxa,Acessorio, mercado ,Maringá,4,23.32,8.48,0,Concluído,Todos,Unico,2025-10-22 17:36:08
+1130,2025-10-13 13:32:42,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-15 13:32:42
+1371,2025-09-12 16:11:53,Fantasia de vampiro,Fantasia,Mercado,Cascavel,4,132.5,72.08,0,Concluído,Adulto,G,2025-09-15 16:11:53
+1123,2025-10-14 12:21:48,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-19 12:21:48
+1420,2025-11-10 13:55:03,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,23.32,8.48,20,Concluído,Todos,Unico,2025-11-12 13:55:03
+1439,2025-10-24 20:53:40,Fantasia de fantasma,Fantasia,Web,Maringá,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-30 20:53:40
+494,2024-10-28 10:05:28,Fantasia de fantasma, Fantasia ,Loja física,Curitiba,2,75,39,0,Concluído,Infantil,M,2024-11-03 10:05:28
+418,2024-10-15 10:04:51,Mascara assustadora, Acessorio ,Mercado,Maringá,5,35,12,10,Concluído,Todos,Unico,2024-10-20 10:04:51
+133,2024-10-12 19:40:22,Fantasia de abobora, Fantasia ,Loja física,Maringá,3,85,44,0,Concluído,Infantil,P,2024-10-17 19:40:22
+45,2024-11-15 12:17:08,Mascara assustadora,Acessorio,Mercado,Maringá,4,35,12,15,Concluído,Todos,Unico,
+61,2024-10-09 22:58:28,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Devolvido,Infantil,M,2024-10-12 22:58:28
+1342,2025-10-06 18:24:57,Fantasia de bruxa,Fantasia,Web,Londrina,3,116.6,60.42,5,Concluído,Adulto,M,2025-10-10 18:24:57
+1339,2025-10-29 22:22:29,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,10,Cancelado,Adulto,G,
+1077,2025-09-29 19:19:06,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,0,Devolvido,Infantil,M,2025-10-03 19:19:06
+436,2024-08-06 17:55:43,Mascara assustadora,Acessorio,Mercado,Londrina,2,35,12,5,Concluído,Todos,Unico,2024-08-09 17:55:43
+1046,2025-10-21 19:30:45,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,90.1,46.64,0,Cancelado,Infantil,P,
+960,2025-11-01 16:57:10,Fantasia de bruxa,,Loja física,Maringá,1,116.6,60.42,15,Concluído,Adulto,M,2025-11-03 16:57:10
+1353,2025-10-18 10:18:08,Chapeu de bruxa,Acessorio, mercado ,Maringá,4,23.32,8.48,5,Concluído,Todos,Unico,2025-10-23 10:18:08
+306,2024-10-29 17:17:44,Chapeu de bruxa,Acessorio,Mercado,Cascavel,3,22,8,5,Cancelado,Todos,Unico,
+562,2024-10-27 14:06:25,Mascara assustadora,Acessorio,Mercado,Cascavel,2,35,12,10,Concluído,Todos,Unico,2024-10-31 14:06:25
+1150,2025-10-21 20:14:46,Fantasia de bruxa,Fantasia,Web,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-23 20:14:46
+1354,2025-10-13 21:26:31,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,10,Concluído,Adulto,G,2025-10-19 21:26:31
+1250,2025-10-07 19:21:37,Fantasia de bruxa,Fantasia,Web,Curitiba,1,,60.42,0,Concluído,Adulto,M,2025-10-09 19:21:37
+720,2024-08-05 21:36:11,Fantasia de fantasma,,Web,Cascavel,2,75,39,0,Concluído,Infantil,M,
+406,2024-10-24 12:01:05,Chapeu de bruxa,Acessorio,Mercado,Curitiba,5,22,8,0,Devolvido,Todos,Unico,2024-10-27 12:01:05
+767,2025-11-20 13:06:24,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,23.32,8.48,15,Concluído,Todos,Unico,2025-11-24 13:06:24
+173,2024-10-25 21:03:06,Chapeu de bruxa,Acessorio,Web,Curitiba,1,22,8,0,Concluído,Todos,Unico,2024-10-30 21:03:06
+1383,2025-10-14 11:44:40,Mascara assustadora,Acessorio,Mercado,Londrina,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-19 11:44:40
+1184,2025-09-18 18:26:36,Fantasia de vampiro,Fantasia,Web,Maringá,1,132.5,72.08,0,Concluído,Adulto,G,2025-09-24 18:26:36
+1,2024-10-14 22:54:50,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-10-17 22:54:50
+1121,2025-10-06 22:27:44,Fantasia de bruxa, Fantasia ,Web,Maringá,1,116.6,60.42,5,Concluído,Adulto,M,2025-10-09 22:27:44
+742,2024-11-16 13:42:01,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,15,Cancelado,Adulto,M,
+1097,2025-11-07 19:01:27,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,20,Cancelado,Adulto,G,
+95,2024-11-02 12:46:02,Mascara assustadora, Acessorio ,Mercado,Maringá,2,35,12,15,Concluído,Todos,Unico,2024-11-04 12:46:02
+196,2024-08-08 19:21:29,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,110,57,10,Concluído,Adulto,M,2024-08-11 19:21:29
+1186,2025-10-27 18:08:10,Fantasia de abobora,Fantasia,Web,Londrina,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-30 18:08:10
+499,2024-10-05 11:05:15,Mascara assustadora,Acessorio,Mercado,Cascavel,7,35,12,0,Concluído,Todos,Unico,2024-10-11 11:05:15
+1394,2025-10-28 18:40:41,Fantasia de abobora,Fantasia,Web,Londrina,1,90.1,46.64,5,Concluído,Infantil,P,2025-11-03 18:40:41
+370,data_invalida,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,
+938,2025-10-06 19:10:38,Chapeu de bruxa,Acessorio,Web,Londrina,1,23.32,8.48,5,Concluído,Todos,Unico,2025-10-11 19:10:38
+1047,2025-10-11 10:41:54,Mascara assustadora,Acessorio,Mercado,Curitiba,2,37.1,12.72,10,Concluído,Todos,Unico,2025-10-15 10:41:54
+280,2024-09-03 11:14:42,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,75,39,10,Concluído,Infantil,M,2024-09-05 11:14:42
+1323,2025-11-24 13:41:10,Fantasia de bruxa,  FANTASIA!!!  ,Loja física,Londrina,2,116.6,60.42,15,Concluído,Adulto,M,2025-11-29 13:41:10
+33,2024-09-30 19:40:19,Fantasia de bruxa,Fantasia, web ,Londrina,2,110,57,0,Concluído,Adulto,M,2024-10-05 19:40:19
+215,2024-10-19 20:18:16,Mascara assustadora,Acessorio,Web,Cascavel,3,35,12,0,Concluído,Todos,Unico,2024-10-21 20:18:16
+678,2024-10-22 15:46:18,Fantasia de abobora,Fantasia,Loja física,Londrina,1,85,44,5,Concluído,Infantil,P,2024-10-27 15:46:18
+492,2024-10-04 19:02:27,Mascara assustadora,Acessorio,Web,Cascavel,1,35,12,10,Concluído,Todos,Unico,2024-10-08 19:02:27
+1086,2025-10-23 15:03:36,Fantasia de fantasma,Fantasia,Loja física,Maringá,3,79.5,41.34,5,Concluído,Infantil,M,2025-10-26 15:03:36
+1203,2025-10-31 22:52:40,Fantasia de fantasma,Fantasia,Web,Curitiba,1,79.5,41.34,10,Cancelado,Infantil,M,
+351,2024-10-19 10:12:23,Fantasia de vampiro,  FANTASIA!!!  ,Loja física,Cascavel,2,125,68,0,Concluído,Adulto,G,2024-10-22 10:12:23
+773,2025-10-25 18:12:26,Chapeu de bruxa,Acessorio,Web,Londrina,3,23.32,8.48,0,Cancelado,Todos,Unico,
+112,2024-11-13 15:25:15,Fantasia de abobora,Fantasia,Loja física,Maringá,3,85,44,25,Concluído,Infantil,P,2024-11-17 15:25:15
+863,2025-09-30 09:16:02,Mascara assustadora,Acessorio,Loja física,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-05 09:16:02
+158,2024-08-12 12:53:34,Chapeu de bruxa,Acessorio,Loja física,Maringá,2,22,8,5,Devolvido,Todos,Unico,2024-08-17 12:53:34
+358,2024-11-09 15:53:44,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,125,68,0,Concluído,Adulto,G,2024-11-14 15:53:44
+942,2025-11-01 09:58:24,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,10,Concluído,Adulto,G,2025-11-05 09:58:24
+521,2024-11-23 18:28:53,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,22,8,20,Cancelado,Todos,Unico,
+219,2024-10-29 21:37:21,Fantasia de abobora,Fantasia,Web,Curitiba,1,85,44,0,Cancelado,Infantil,P,
+609,2024-11-06 18:39:22,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,22,8,25,Concluído,Todos,Unico,2024-11-12 18:39:22
+481,2024-11-12 19:11:13,Mascara assustadora,Acessorio,Mercado,Maringá,7,35,12,0,Concluído,Todos,Unico,2024-11-15 19:11:13
+792,2025-10-31 18:23:32,Chapeu de bruxa,Acessorio, web ,Cascavel,3,23.32,8.48,0,Cancelado,Todos,Unico,
+1227,2025-09-13 18:14:47,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,0,Concluído,Infantil,P,2025-09-17 18:14:47
+853,2025-10-10 21:06:11,Fantasia de bruxa,Fantasia,Web,Maringá,1,116.6,60.42,10,Cancelado,Adulto,M,
+1401,2025-10-18 12:25:19,Mascara assustadora,Acessorio,Loja física,Curitiba,1,37.1,12.72,10,Concluído,Todos,Unico,2025-10-21 12:25:19
+459,2024-10-19 12:18:50,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Londrina,2,22,8,0,Concluído,Todos,Unico,2024-10-25 12:18:50
+509,2024-10-28 18:07:00,Chapeu de bruxa,Acessorio,Web,Londrina,2,22,8,10,Concluído,Todos,Unico,2024-11-03 18:07:00
+727,2024-11-01 12:27:48,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,25,Concluído,Todos,Unico,2024-11-05 12:27:48
+367,2024-10-22 09:45:31,Chapeu de bruxa,Acessorio,Mercado,Cascavel,4,22,8,10,Devolvido,Todos,Unico,2024-10-26 09:45:31
+361,2024-10-21 18:23:21,Mascara assustadora, Acessorio ,Loja física,Londrina,3,35,12,5,Concluído,Todos,Unico,2024-10-24 18:23:21
+1495,2025-10-07 22:57:56,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-09 22:57:56
+673,2024-10-11 22:41:40,Fantasia de bruxa,Fantasia,Web,Curitiba,2,110,57,0,Concluído,Adulto,M,2024-10-16 22:41:40
+602,2024-10-21 22:57:45,Chapeu de bruxa,Acessorio,Web,Cascavel,2,22,8,0,Concluído,Todos,Unico,2024-10-25 22:57:45
+226,2024-11-14 16:34:02,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,15,Concluído,Adulto,M,2024-11-17 16:34:02
+300,2024-11-07 21:54:49,Fantasia de abobora,Fantasia,Web,Cascavel,2,85,44,0,Concluído,Infantil,P,2024-11-09 21:54:49
+1023,2025-08-16 21:52:28,Fantasia de abobora,Fantasia, web ,Maringá,2,90.1,46.64,0,Concluído,Infantil,P,2025-08-21 21:52:28
+154,2024-11-29 09:36:54,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,22,8,0,Concluído,Todos,Unico,2024-12-05 09:36:54
+500,2024-10-09 18:26:36,Fantasia de abobora,Fantasia,Loja física,Maringá,1,,44,10,Concluído,Infantil,P,2024-10-11 18:26:36
+1259,2025-10-28 18:35:33,Mascara assustadora,Acessorio,Web,Londrina,2,37.1,12.72,5,Concluído,Todos,Unico,2025-11-03 18:35:33
+958,2025-10-10 14:17:58,Chapeu de bruxa,Acessorio,Loja física,Curitiba,1,23.32,8.48,0,Concluído,Todos,Unico,2025-10-15 14:17:58
+1062,2025-10-25 10:16:53,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-29 10:16:53
+338,2024-10-22 20:47:23,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,10,Concluído,Infantil,M,2024-10-27 20:47:23
+1248,2025-10-13 19:21:04,Fantasia de vampiro,Fantasia,Loja física,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-18 19:21:04
+1263,2025-10-05 21:48:08,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-10 21:48:08
+856,2025-11-30 13:25:24,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,23.32,8.48,0,Concluído,Todos,Unico,2025-12-03 13:25:24
+270,2024-10-27 09:44:47,Fantasia de abobora,  FANTASIA!!!  ,Mercado,Curitiba,5,85,44,0,Concluído,Infantil,P,
+804,2025-10-26 12:14:40,Mascara assustadora,Acessorio,Mercado,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-11-01 12:14:40
+757,2025-10-10 20:12:38,Mascara assustadora,Acessorio,Web,Maringá,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-14 20:12:38
+507,2024-11-06 12:12:58,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,22,8,15,Concluído,Todos,Unico,2024-11-10 12:12:58
+258,2024-10-21 11:28:17,Mascara assustadora,Acessorio,Mercado,Curitiba,6,35,12,0,Concluído,Todos,Unico,2024-10-26 11:28:17
+768,2025-10-02 19:58:49,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,5,Concluído,Adulto,M,2025-10-07 19:58:49
+1359,2025-11-22 19:15:34,Fantasia de abobora,Fantasia,Web,Curitiba,3,90.1,46.64,10,Concluído,Infantil,P,2025-11-28 19:15:34
+1313,2025-10-25 10:46:46,Mascara assustadora,Acessorio,Mercado,Maringá,2,37.1,12.72,5,Concluído,Todos,Unico,2025-10-30 10:46:46
+1299,2025-10-08 19:41:18,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,5,Concluído,Infantil,M,2025-10-14 19:41:18
+600,2024-10-22 18:09:29,Mascara assustadora,Acessorio,Mercado,Londrina,7,35,12,0,Concluído,Todos,Unico,2024-10-24 18:09:29
+729,2024-08-31 15:37:45,Fantasia de abobora,  FANTASIA!!!  ,Mercado,Londrina,7,85,44,0,Concluído,Infantil,P,2024-09-06 15:37:45
+1006,2025-10-12 18:28:39,Chapeu de bruxa,Acessorio,Mercado,Maringá,4,23.32,8.48,0,Concluído,Todos,Unico,2025-10-15 18:28:39
+264,2024-09-15 15:40:54,Chapeu de bruxa,Acessorio, mercado ,Londrina,7,22,8,0,Concluído,Todos,Unico,2024-09-21 15:40:54
+1391,2025-10-22 20:23:54,Fantasia de abobora,Fantasia,Web,Cascavel,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-25 20:23:54
+91,2024-11-07 10:54:37,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,75,39,15,Concluído,Infantil,M,2024-11-10 10:54:37
+614,2024-10-25 11:12:24,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,75,39,0,Concluído,Infantil,M,2024-10-31 11:12:24
+811,2025-09-11 12:33:56,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-09-14 12:33:56
+842,2025-10-05 18:03:22,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-09 18:03:22
+137,2024-10-22 16:25:41,Mascara assustadora,Acessorio,Loja física,Cascavel,1,35,12,5,Concluído,Todos,Unico,2024-10-26 16:25:41
+810,2025-10-25 19:29:32,Fantasia de vampiro,  FANTASIA!!!  ,Web,Curitiba,3,132.5,72.08,0,Concluído,Adulto,G,
+195,2024-10-28 13:43:46,Fantasia de bruxa,Fantasia,Mercado,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-10-30 13:43:46
+770,2025-09-08 19:18:20,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,0,Cancelado,Adulto,G,
+1242,2025-09-17 20:18:56,Fantasia de bruxa,  FANTASIA!!!  ,Web,Curitiba,3,116.6,60.42,5,Concluído,Adulto,M,2025-09-21 20:18:56
+1482,2025-10-31 13:46:53,Fantasia de vampiro, Fantasia ,Loja física,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-11-04 13:46:53
+108,2024-11-01 18:15:07,Fantasia de abobora,  FANTASIA!!!  ,Loja física,Curitiba,1,85,44,15,Concluído,Infantil,P,2024-11-06 18:15:07
+663,2024-11-09 09:37:00,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,125,68,15,Concluído,Adulto,G,2024-11-14 09:37:00
+622,2024-09-04 18:59:55,Chapeu de bruxa,Acessorio,Web,Cascavel,2,22,8,5,Concluído,Todos,Unico,2024-09-08 18:59:55
+1199,2025-10-16 21:47:15,Fantasia de fantasma,Fantasia,Web,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-22 21:47:15
+1434,2025-10-05 19:10:42,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,79.5,41.34,0,Cancelado,Infantil,M,
+325,2024-10-25 15:34:01,Mascara assustadora,Acessorio,Mercado,Cascavel,2,35,12,0,Concluído,Todos,Unico,2024-10-27 15:34:01
+1030,2025-10-08 22:10:13,Mascara assustadora,Acessorio,Web,Maringá,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-10 22:10:13
+1471,2025-10-30 12:56:24,Fantasia de vampiro,Fantasia,Loja física,Maringá,1,132.5,72.08,0,Concluído,Adulto,G,2025-11-02 12:56:24
+22,2024-10-22 18:23:20,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,5,Concluído,Adulto,M,2024-10-26 18:23:20
+493,2024-11-18 18:10:14,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,125,68,15,Concluído,Adulto,G,2024-11-23 18:10:14
+446,2024-10-25 10:29:48,Fantasia de bruxa,Fantasia,Mercado,Maringá,2,110,57,0,Concluído,Adulto,M,2024-10-28 10:29:48
+1393,2025-10-28 14:03:20,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,23.32,8.48,0,Concluído,Todos,Unico,2025-11-02 14:03:20
+736,2024-10-02 22:02:23,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,0,Concluído,Infantil,P,2024-10-05 22:02:23
+1316,2025-10-12 19:44:27,Mascara assustadora,Acessorio,Web,Londrina,1,37.1,12.72,10,Concluído,Todos,Unico,2025-10-15 19:44:27
+749,2024-08-17 21:23:43,Chapeu de bruxa,Acessorio,Web,Maringá,1,22,8,0,Concluído,Todos,Unico,2024-08-23 21:23:43
+1007,2025-08-16 19:32:06,Fantasia de abobora, Fantasia ,Web,Curitiba,1,90.1,46.64,10,Concluído,Infantil,P,2025-08-20 19:32:06
+945,2025-10-27 18:18:33,Fantasia de bruxa,  FANTASIA!!!  ,Web,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,
+969,2025-10-16 18:20:35,Chapeu de bruxa, Acessorio ,Web,Cascavel,3,23.32,8.48,5,Concluído,Todos,Unico,2025-10-22 18:20:35
+1281,2025-11-22 09:14:09,Fantasia de bruxa,Fantasia,Loja física,Curitiba,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-25 09:14:09
+411,2024-11-10 11:38:26,Mascara assustadora,Acessorio,Loja física,Maringá,3,35,12,20,Concluído,Todos,Unico,2024-11-13 11:38:26
+286,2024-10-21 13:36:06,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,0,Concluído,Todos,Unico,2024-10-24 13:36:06
+760,2025-11-12 19:27:12,Fantasia de vampiro, Fantasia ,Web,Maringá,2,132.5,,15,Concluído,Adulto,G,2025-11-14 19:27:12
+996,2025-10-09 21:25:47,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-12 21:25:47
+1156,2025-11-02 09:44:00,Mascara assustadora,Acessorio,Loja física,Cascavel,2,37.1,12.72,0,Cancelado,Todos,Unico,
+525,2024-10-19 21:49:21,Fantasia de fantasma,Fantasia,Web,Londrina,3,75,39,5,Concluído,Infantil,M,2024-10-21 21:49:21
+1469,2025-09-30 18:57:36,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-06 18:57:36
+349,2024-11-02 18:11:48,Mascara assustadora,Acessorio,Loja física,Londrina,1,35,12,20,Devolvido,Todos,Unico,2024-11-08 18:11:48
+864,2025-11-16 12:18:43,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Maringá,2,23.32,8.48,15,Concluído,Todos,Unico,2025-11-22 12:18:43
+502,2024-09-19 20:38:34,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,5,Concluído,Adulto,M,2024-09-23 20:38:34
+291,2024-10-02 21:55:25,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,0,Concluído,Adulto,G,2024-10-05 21:55:25
+1300,2025-11-03 22:12:36,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,25,Concluído,Infantil,M,2025-11-05 22:12:36
+589,2024-11-02 17:14:25,Fantasia de fantasma, Fantasia ,Mercado,Londrina,5,75,39,20,Concluído,Infantil,M,2024-11-08 17:14:25
+675,2024-10-15 11:07:27,Mascara assustadora,  ACESSORIO!!!  ,Loja física,Londrina,3,35,12,0,Concluído,Todos,Unico,
+530,2024-10-04 10:47:11,Fantasia de fantasma,Fantasia,Mercado,Cascavel,3,75,39,0,Concluído,Infantil,M,2024-10-06 10:47:11
+666,2024-09-23 18:32:33,Fantasia de vampiro,Fantasia,Web,Maringá,2,125,68,5,Concluído,Adulto,G,2024-09-26 18:32:33
+1197,2025-09-24 18:12:26,Chapeu de bruxa, Acessorio ,Loja física,Cascavel,3,23.32,8.48,5,Concluído,Todos,Unico,2025-09-28 18:12:26
+838,2025-10-13 18:56:29,Fantasia de fantasma,Fantasia,Mercado,Maringá,6,79.5,41.34,0,Concluído,Infantil,M,2025-10-18 18:56:29
+827,2025-11-04 09:34:44,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,15,Concluído,Todos,Unico,2025-11-08 09:34:44
+824,2025-10-19 13:40:10,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,23.32,8.48,0,Concluído,Todos,Unico,2025-10-25 13:40:10
+1285,2025-11-26 16:02:45,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,90.1,46.64,10,Concluído,Infantil,P,2025-11-28 16:02:45
+965,2025-09-04 20:36:50,Fantasia de abobora,Fantasia,Web,Londrina,2,90.1,46.64,0,Concluído,Infantil,P,2025-09-06 20:36:50
+701,2024-11-03 15:56:50,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,22,8,10,Concluído,Todos,Unico,2024-11-06 15:56:50
+1169,2025-08-18 18:32:53,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,23.32,8.48,0,Concluído,Todos,Unico,2025-08-24 18:32:53
+87,2024-10-15 19:51:26,Mascara assustadora,Acessorio,Mercado,Curitiba,5,35,12,0,Concluído,Todos,Unico,2024-10-19 19:51:26
+1295,2025-10-13 10:19:44,Fantasia de vampiro,Fantasia,Loja física,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-15 10:19:44
+289,2024-11-04 12:26:20,Chapeu de bruxa,Acessorio,Mercado,Cascavel,5,22,8,25,Concluído,Todos,Unico,2024-11-10 12:26:20
+1120,2025-11-06 14:30:43,Fantasia de fantasma,,Loja física,Londrina,3,79.5,41.34,25,Concluído,Infantil,M,2025-11-08 14:30:43
+297,2024-10-02 21:28:42,Fantasia de fantasma,  FANTASIA!!!  , web ,Maringá,2,75,39,0,Concluído,Infantil,M,2024-10-06 21:28:42
+819,2025-11-26 09:53:16,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,23.32,8.48,10,Concluído,Todos,Unico,2025-12-02 09:53:16
+710,2024-10-29 09:14:59,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,75,39,0,Concluído,Infantil,M,2024-10-31 09:14:59
+1302,2025-09-15 13:55:55,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,5,Concluído,Adulto,G,2025-09-19 13:55:55
+1396,2025-11-05 20:46:05,Fantasia de abobora,Fantasia,Web,Maringá,1,90.1,46.64,20,Cancelado,Infantil,P,
+685,2024-11-24 21:33:02,Chapeu de bruxa,Acessorio,Web,Cascavel,2,22,8,20,Concluído,Todos,Unico,2024-11-26 21:33:02
+883,2025-11-01 19:27:51,Mascara assustadora,Acessorio,Loja física,Londrina,1,37.1,12.72,10,Concluído,Todos,Unico,2025-11-06 19:27:51
+365,2024-11-11 13:47:31,Chapeu de bruxa,Acessorio,Mercado,Curitiba,4,22,8,15,Concluído,Todos,Unico,2024-11-13 13:47:31
+135,2024-10-22 18:44:20,Fantasia de vampiro,  FANTASIA!!!  ,Web,Londrina,1,125,68,0,Concluído,Adulto,G,
+579,2024-10-05 21:24:52,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,5,Concluído,Adulto,M,2024-10-11 21:24:52
+852,2025-10-25 22:05:26,Mascara assustadora,Acessorio,Web,Cascavel,2,37.1,12.72,5,Concluído,Todos,Unico,2025-10-29 22:05:26
+1445,2025-08-20 10:18:35,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,5,Concluído,Infantil,M,2025-08-22 10:18:35
+977,2025-08-31 18:47:18,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,0,Concluído,Infantil,P,2025-09-04 18:47:18
+1053,2025-10-25 11:22:22,Fantasia de fantasma,  FANTASIA!!!  ,Loja física,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-30 11:22:22
+764,2025-10-23 16:40:10,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,5,Concluído,Infantil,P,2025-10-29 16:40:10
+1274,2025-11-20 20:17:55,Fantasia de abobora,Fantasia,Web,Curitiba,2,90.1,46.64,20,Concluído,Infantil,P,2025-11-26 20:17:55
+987,2025-08-14 19:10:11,Fantasia de bruxa,Fantasia,Web,Londrina,2,116.6,60.42,0,Devolvido,Adulto,M,2025-08-18 19:10:11
+519,2024-11-10 14:37:37,Fantasia de vampiro,Fantasia,Loja física,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-11-16 14:37:37
+142,2024-09-28 16:55:09,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-10-02 16:55:09
+786,2025-11-06 21:25:21,Mascara assustadora,Acessorio,Web,Maringá,1,37.1,12.72,10,Concluído,Todos,Unico,2025-11-09 21:25:21
+523,2024-10-13 21:05:07,Fantasia de abobora,Fantasia,Web,Curitiba,3,85,44,0,Concluído,Infantil,P,2024-10-18 21:05:07
+292,2024-11-01 19:29:17,Fantasia de abobora,Fantasia,Loja física,Curitiba,1,85,44,15,Concluído,Infantil,P,2024-11-05 19:29:17
+1468,2025-10-27 19:47:01,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,5,Concluído,Adulto,G,2025-11-01 19:47:01
+1200,2025-09-23 11:28:37,Fantasia de vampiro,,Loja física,Maringá,2,132.5,72.08,0,Cancelado,Adulto,G,
+1175,2025-10-04 19:48:47,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-06 19:48:47
+924,2025-10-22 22:51:47,Fantasia de fantasma,Fantasia, web ,Cascavel,1,79.5,41.34,10,Concluído,Infantil,M,2025-10-28 22:51:47
+1039,2025-10-12 11:36:15,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,5,Concluído,Todos,Unico,2025-10-18 11:36:15
+621,2024-10-06 18:50:34,Fantasia de abobora,  FANTASIA!!!  ,Web,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-09 18:50:34
+1164,2025-09-15 18:40:02,Chapeu de bruxa,Acessorio,Mercado,Curitiba,3,23.32,8.48,10,Concluído,Todos,Unico,2025-09-21 18:40:02
+1045,2025-10-30 09:57:14,Fantasia de bruxa, Fantasia ,Mercado,Maringá,7,116.6,60.42,5,Concluído,Adulto,M,2025-11-01 09:57:14
+206,2024-10-17 19:01:25,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,10,Concluído,Todos,Unico,2024-10-20 19:01:25
+882,2025-11-27 15:19:22,Chapeu de bruxa,Acessorio,Mercado,Londrina,7,23.32,8.48,20,Concluído,Todos,Unico,2025-12-01 15:19:22
+1407,2025-10-07 20:03:12,Fantasia de vampiro,Fantasia,Web,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-11 20:03:12
+1146,2025-09-22 12:11:10,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,0,Concluído,Infantil,P,2025-09-25 12:11:10
+78,2024-08-27 18:00:02,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,0,Concluído,Infantil,M,2024-09-01 18:00:02
+707,2024-11-03 15:09:21,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,85,44,20,Concluído,Infantil,P,2024-11-07 15:09:21
+759,2025-10-22 19:49:38,Chapeu de bruxa,Acessorio, mercado ,Cascavel,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-28 19:49:38
+1238,2025-09-01 19:07:26,Fantasia de bruxa,Fantasia,Web,Curitiba,1,116.6,60.42,0,Concluído,Adulto,M,2025-09-06 19:07:26
+430,2024-11-05 15:38:06,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,0,Concluído,Adulto,M,2024-11-07 15:38:06
+117,2024-09-08 14:51:01,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,0,Concluído,Todos,Unico,2024-09-12 14:51:01
+1344,2025-11-05 11:58:02,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,79.5,41.34,20,Concluído,Infantil,M,2025-11-11 11:58:02
+315,2024-10-12 18:09:59,Mascara assustadora,Acessorio,Mercado,Maringá,3,35,12,0,Concluído,Todos,Unico,
+806,2025-10-14 22:01:14,Mascara assustadora,Acessorio,Web,Curitiba,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-17 22:01:14
+1415,2025-11-04 12:32:20,Chapeu de bruxa,Acessorio,Mercado,Maringá,4,23.32,8.48,10,Devolvido,Todos,Unico,2025-11-06 12:32:20
+692,2024-11-13 13:20:36,Fantasia de bruxa,Fantasia,Loja física,Curitiba,1,110,57,0,Concluído,Adulto,M,2024-11-17 13:20:36
+1457,2025-09-03 18:49:56,Chapeu de bruxa,Acessorio,Web,Curitiba,3,23.32,8.48,0,Concluído,Todos,Unico,2025-09-07 18:49:56
+480,2024-10-24 18:22:52,Fantasia de vampiro,,Web,Maringá,1,125,68,0,Concluído,Adulto,G,2024-10-26 18:22:52
+73,2024-10-13 19:51:13,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,10,Concluído,Adulto,G,2024-10-18 19:51:13
+1060,2025-10-22 15:36:27,Chapeu de bruxa,Acessorio,Mercado,Curitiba,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-24 15:36:27
+1247,2025-09-28 21:10:46,Fantasia de bruxa,Fantasia,Web,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-02 21:10:46
+276,2024-11-12 19:40:54,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,75,39,10,Concluído,Infantil,M,2024-11-15 19:40:54
+865,2025-10-19 18:12:33,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,5,Concluído,Adulto,G,2025-10-21 18:12:33
+437,2024-09-21 22:19:26,Fantasia de vampiro, Fantasia ,Web,Maringá,1,125,68,10,Concluído,Adulto,G,2024-09-25 22:19:26
+613,2024-09-24 18:17:13,Fantasia de abobora,Fantasia,Web,Cascavel,1,85,44,10,Cancelado,Infantil,P,
+426,2024-09-20 20:40:34,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-09-23 20:40:34
+1458,2025-11-01 15:27:19,Fantasia de abobora,  FANTASIA!!!  ,Loja física,Curitiba,2,90.1,46.64,10,Concluído,Infantil,P,2025-11-06 15:27:19
+50,2024-10-20 11:27:23,Mascara assustadora,Acessorio,Mercado,Maringá,7,35,12,0,Concluído,Todos,Unico,2024-10-22 11:27:23
+272,2024-10-10 20:31:52,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,0,Concluído,Infantil,M,2024-10-14 20:31:52
+652,2024-09-16 19:27:23,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,22,8,0,Concluído,Todos,Unico,2024-09-20 19:27:23
+1486,2025-10-04 21:30:22,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,10,Concluído,Infantil,M,2025-10-07 21:30:22
+980,2025-11-06 11:22:16,Fantasia de vampiro,Fantasia,Loja física,Curitiba,1,132.5,72.08,25,Concluído,Adulto,G,2025-11-08 11:22:16
+505,2024-11-17 12:47:19,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,25,Concluído,Infantil,M,2024-11-19 12:47:19
+1278,2025-10-29 17:10:16,Chapeu de bruxa,Acessorio,Loja física,Curitiba,1,23.32,8.48,0,Concluído,Todos,Unico,2025-11-03 17:10:16
+60,2024-11-10 12:39:24,Chapeu de bruxa,Acessorio,Loja física,Maringá,2,22,8,15,Concluído,Todos,Unico,2024-11-12 12:39:24
+834,2025-11-12 12:48:38,Fantasia de fantasma,Fantasia,Loja física,Curitiba,3,79.5,41.34,20,Concluído,Infantil,M,2025-11-18 12:48:38
+611,2024-10-25 13:39:05,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,22,8,10,Concluído,Todos,Unico,2024-10-28 13:39:05
+861,2025-10-14 13:32:56,Mascara assustadora,Acessorio,Loja física,Maringá,3,37.1,12.72,10,Concluído,Todos,Unico,2025-10-17 13:32:56
+537,2024-09-17 16:16:06,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-09-21 16:16:06
+461,2024-08-13 15:48:20,Mascara assustadora,Acessorio,Mercado,Cascavel,7,35,12,0,Concluído,Todos,Unico,2024-08-16 15:48:20
+1351,2025-11-08 20:47:59,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,25,Concluído,Infantil,P,2025-11-11 20:47:59
+229,2024-10-18 20:51:21,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,0,Concluído,Infantil,P,2024-10-24 20:51:21
+676,2024-10-08 20:48:46,Chapeu de bruxa,Acessorio,Web,Curitiba,3,22,8,0,Concluído,Todos,Unico,2024-10-11 20:48:46
+858,2025-11-29 19:37:36,Mascara assustadora,Acessorio, mercado ,Cascavel,4,37.1,12.72,20,Concluído,Todos,Unico,2025-12-04 19:37:36
+12,2024-11-06 18:26:17,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,110,57,25,Concluído,Adulto,M,2024-11-10 18:26:17
+807,2025-09-27 20:52:47,Fantasia de bruxa,Fantasia,Web,Londrina,3,116.6,60.42,10,Concluído,Adulto,M,2025-10-01 20:52:47
+360,2024-10-27 15:54:17,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,22,8,10,Concluído,Todos,Unico,
+1473,2025-10-27 18:58:31,Fantasia de bruxa,Fantasia,Web,Curitiba,1,116.6,60.42,0,Concluído,Adulto,M,2025-11-01 18:58:31
+464,2024-09-21 18:36:10,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-09-27 18:36:10
+1472,2025-10-25 18:48:46,Fantasia de bruxa,Fantasia,Web,Londrina,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-29 18:48:46
+84,2024-10-11 09:06:02,Fantasia de bruxa,Fantasia,Mercado,Curitiba,5,110,57,0,Devolvido,Adulto,M,2024-10-17 09:06:02
+124,2024-11-18 17:33:44,Mascara assustadora,Acessorio,Loja física,Curitiba,2,35,12,15,Concluído,Todos,Unico,2024-11-24 17:33:44
+449,2024-08-03 16:45:16,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,75,39,5,Concluído,Infantil,M,2024-08-09 16:45:16
+1166,2025-10-05 17:03:57,Chapeu de bruxa,Acessorio,Mercado,Maringá,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-08 17:03:57
+424,2024-10-21 12:40:31,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,22,8,5,Concluído,Todos,Unico,2024-10-27 12:40:31
+752,2025-09-16 18:26:15,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Concluído,Infantil,P,2025-09-20 18:26:15
+1048,2025-10-06 21:04:56,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-11 21:04:56
+1442,2025-10-27 13:10:23,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-31 13:10:23
+497,2024-11-08 12:34:20,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,15,Concluído,Todos,Unico,2024-11-12 12:34:20
+1176,2025-11-01 10:32:19,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,20,Concluído,Infantil,P,2025-11-04 10:32:19
+47,2024-11-01 11:19:01,Chapeu de bruxa,Acessorio,Mercado,Londrina,7,22,8,10,Concluído,Todos,Unico,2024-11-05 11:19:01
+1118,2025-08-24 16:42:29,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,116.6,60.42,10,Concluído,Adulto,M,2025-08-29 16:42:29
+590,2024-10-26 13:47:12,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,110,57,0,Concluído,Adulto,M,2024-10-28 13:47:12
+1423,2025-11-17 11:58:30,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,90.1,46.64,0,Concluído,Infantil,P,2025-11-22 11:58:30
+571,2024-08-09 16:55:43,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,110,57,5,Concluído,Adulto,M,2024-08-12 16:55:43
+714,2024-10-19 15:38:09,Mascara assustadora,Acessorio,Loja física,Londrina,3,35,12,0,Concluído,Todos,Unico,2024-10-25 15:38:09
+550,2024-11-02 20:55:28,Fantasia de abobora,Fantasia,Web,Maringá,3,85,44,15,Devolvido,Infantil,P,2024-11-04 20:55:28
+1136,2025-11-21 17:20:22,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,116.6,60.42,15,Devolvido,Adulto,M,2025-11-24 17:20:22
+576,2024-10-22 22:27:28,Fantasia de abobora,Fantasia,Web,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-25 22:27:28
+588,2024-10-26 20:58:17,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,0,Concluído,Adulto,M,2024-10-31 20:58:17
+575,2024-10-22 18:45:56,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,0,Concluído,Adulto,G,2024-10-24 18:45:56
+1348,2025-10-17 22:33:35,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-22 22:33:35
+872,2025-08-17 11:11:03,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,79.5,41.34,0,Concluído,Infantil,M,2025-08-21 11:11:03
+817,2025-10-24 19:50:39,Fantasia de bruxa, Fantasia ,Mercado,Cascavel,3,116.6,60.42,10,Concluído,Adulto,M,2025-10-28 19:50:39
+279,2024-10-25 18:26:50,Fantasia de abobora,Fantasia,Web,Londrina,3,85,44,0,Concluído,Infantil,P,2024-10-31 18:26:50
+382,2024-10-01 19:37:00,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,0,Concluído,Adulto,M,2024-10-05 19:37:00
+1403,2025-08-24 10:25:21,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,23.32,8.48,0,Concluído,Todos,Unico,2025-08-29 10:25:21
+503,2024-11-03 11:04:20,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,15,Concluído,Todos,Unico,2024-11-08 11:04:20
+612,2024-08-17 11:53:12,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,22,8,0,Concluído,Todos,Unico,2024-08-21 11:53:12
+1467,2025-10-09 14:37:48,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-13 14:37:48
+94,2024-10-24 16:19:27,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,22,8,10,Concluído,Todos,Unico,2024-10-30 16:19:27
+6,2024-08-19 19:31:46,Fantasia de bruxa,Fantasia,Web,Cascavel,3,110,57,10,Cancelado,Adulto,M,
+1171,2025-11-17 20:37:14,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,15,Concluído,Infantil,M,2025-11-20 20:37:14
+448,2024-11-13 20:36:11,Mascara assustadora,Acessorio,Web,Maringá,1,35,12,20,Concluído,Todos,Unico,2024-11-18 20:36:11
+732,2024-08-10 18:12:16,Mascara assustadora,Acessorio,Mercado,Cascavel,4,35,12,5,Concluído,Todos,Unico,2024-08-14 18:12:16
+1390,2025-10-23 12:57:22,Mascara assustadora,Acessorio,Mercado,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-25 12:57:22
+224,2024-09-28 19:49:59,Fantasia de abobora,Fantasia,Web,Maringá,1,85,44,0,Cancelado,Infantil,P,
+141,2024-08-26 10:07:43,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,110,57,0,Concluído,Adulto,M,2024-08-29 10:07:43
+668,2024-10-15 19:56:26,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,0,Concluído,Todos,Unico,2024-10-20 19:56:26
+680,2024-10-08 18:17:13,Mascara assustadora,Acessorio,Mercado,Maringá,2,35,12,0,Concluído,Todos,Unico,2024-10-10 18:17:13
+1456,2025-10-30 18:22:21,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,5,Cancelado,Adulto,G,
+164,2024-10-17 09:38:11,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,22,8,0,Concluído,Todos,Unico,2024-10-23 09:38:11
+1273,2025-11-04 19:08:24,Fantasia de bruxa, Fantasia ,Loja física,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-11-09 19:08:24
+563,2024-11-20 15:36:40,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,20,Concluído,Infantil,M,2024-11-25 15:36:40
+721,2024-11-08 15:07:53,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,20,Concluído,Todos,Unico,2024-11-11 15:07:53
+821,2025-11-05 09:24:43,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,15,Concluído,Adulto,G,2025-11-08 09:24:43
+376,2024-10-16 18:39:15,Mascara assustadora,Acessorio,Web,Londrina,1,35,12,0,Concluído,Todos,Unico,2024-10-19 18:39:15
+1411,2025-08-06 11:43:34,Fantasia de bruxa,Fantasia,Mercado,Curitiba,5,116.6,60.42,10,Concluído,Adulto,M,2025-08-09 11:43:34
+244,2024-09-27 20:45:59,Fantasia de bruxa,Fantasia,Web,Londrina,3,110,57,0,Concluído,Adulto,M,2024-10-03 20:45:59
+1360,2025-10-14 10:19:55,Mascara assustadora,,Mercado,Londrina,4,37.1,12.72,0,Concluído,Todos,Unico,2025-10-16 10:19:55
+380,2024-10-09 20:40:03,Fantasia de fantasma, Fantasia ,Web,Curitiba,2,75,,5,Concluído,Infantil,M,2024-10-11 20:40:03
+1036,2025-10-26 19:19:55,Mascara assustadora,Acessorio,Mercado,Curitiba,6,37.1,12.72,10,Concluído,Todos,Unico,2025-10-29 19:19:55
+375,2024-08-28 18:59:14,Fantasia de vampiro,Fantasia,Web,Maringá,3,,68,0,Concluído,Adulto,G,2024-08-30 18:59:14
+653,2024-08-09 20:00:22,Fantasia de fantasma,Fantasia,Web,Cascavel,3,75,39,10,Concluído,Infantil,M,2024-08-14 20:00:22
+372,2024-11-07 12:29:26,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,85,44,10,Concluído,Infantil,P,2024-11-11 12:29:26
+654,2024-10-29 21:12:27,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,5,Concluído,Adulto,G,2024-11-04 21:12:27
+1430,2025-10-31 14:05:57,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,79.5,41.34,0,Concluído,Infantil,M,2025-11-02 14:05:57
+404,2024-10-18 18:02:30,Mascara assustadora,Acessorio,Mercado,Curitiba,6,35,12,0,Concluído,Todos,Unico,2024-10-24 18:02:30
+1477,2025-11-04 20:00:51,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,25,Concluído,Infantil,M,2025-11-08 20:00:51
+342,2024-11-13 12:16:50,Mascara assustadora, Acessorio ,Loja física,Cascavel,3,35,12,0,Concluído,Todos,Unico,2024-11-17 12:16:50
+1101,2025-11-05 11:24:23,Fantasia de abobora,Fantasia,Mercado,Londrina,3,90.1,46.64,25,Concluído,Infantil,P,2025-11-08 11:24:23
+902,2025-11-05 20:57:53,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Cancelado,Adulto,M,
+984,2025-10-03 21:08:44,Fantasia de fantasma,Fantasia,Web,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-09 21:08:44
+443,2024-09-07 10:51:17,Fantasia de vampiro,Fantasia,Mercado,Maringá,7,125,68,0,Concluído,Adulto,G,2024-09-12 10:51:17
+10,2024-11-18 17:15:29,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,20,Concluído,Todos,Unico,2024-11-20 17:15:29
+992,2025-10-18 20:46:45,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-22 20:46:45
+631,2024-09-05 09:36:10,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,75,39,5,Concluído,Infantil,M,2024-09-08 09:36:10
+501,2024-10-13 12:27:21,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,10,Concluído,Adulto,M,2024-10-16 12:27:21
+910,2025-10-31 09:17:16,Fantasia de abobora,Fantasia,Loja física,Londrina,1,90.1,46.64,10,Concluído,Infantil,P,2025-11-02 09:17:16
+1141,2025-10-30 13:33:27,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,79.5,41.34,0,Concluído,Infantil,M,2025-11-02 13:33:27
+895,2025-10-19 20:08:20,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-21 20:08:20
+348,2024-10-18 20:49:37,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,5,Concluído,Adulto,M,2024-10-23 20:49:37
+386,2024-09-26 21:57:47,Chapeu de bruxa,Acessorio,Web,Cascavel,3,22,8,0,Concluído,Todos,Unico,2024-09-29 21:57:47
+1159,2025-10-18 22:47:19,Fantasia de fantasma, Fantasia ,Web,Cascavel,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-24 22:47:19
+606,2024-10-23 21:25:09,Fantasia de abobora,Fantasia,Web,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-26 21:25:09
+641,2024-10-16 18:25:14,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,85,44,0,Concluído,Infantil,P,2024-10-19 18:25:14
+71,2024-08-05 19:51:09,Fantasia de fantasma,Fantasia,Web,Maringá,2,75,39,10,Concluído,Infantil,M,2024-08-08 19:51:09
+1014,2025-10-16 13:09:33,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-22 13:09:33
+926,2025-08-29 14:57:36,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,23.32,8.48,10,Concluído,Todos,Unico,2025-09-01 14:57:36
+1485,2025-08-31 19:38:12,Fantasia de abobora,  FANTASIA!!!  , web ,Maringá,1,90.1,46.64,0,Concluído,Infantil,P,
+1321,2025-10-13 20:51:24,Fantasia de fantasma,Fantasia,Web,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-16 20:51:24
+319,2024-08-31 10:09:00,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,22,8,0,Concluído,Todos,Unico,2024-09-06 10:09:00
+498,2024-10-28 10:38:47,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,75,39,0,Concluído,Infantil,M,2024-11-02 10:38:47
+870,2025-10-25 18:43:39,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,10,Concluído,Adulto,G,2025-10-27 18:43:39
+456,2024-08-10 22:31:22,Chapeu de bruxa, Acessorio ,Web,Curitiba,2,22,8,5,Concluído,Todos,Unico,2024-08-13 22:31:22
+890,2025-10-24 18:42:34,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-26 18:42:34
+1243,2025-10-15 20:34:58,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-20 20:34:58
+527,2024-10-27 20:56:19,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,5,Concluído,Adulto,G,2024-10-31 20:56:19
+245,2024-11-20 21:21:50,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,10,Concluído,Adulto,M,2024-11-22 21:21:50
+688,2024-08-13 16:02:36,Fantasia de abobora,Fantasia,Mercado,Maringá,6,85,44,0,Concluído,Infantil,P,2024-08-18 16:02:36
+395,2024-11-15 18:08:25,Mascara assustadora,Acessorio,Web,Cascavel,3,35,12,15,Concluído,Todos,Unico,2024-11-17 18:08:25
+904,2025-10-10 21:22:06,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-16 21:22:06
+1356,2025-10-14 21:14:19,Fantasia de fantasma,Fantasia,Web,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 21:14:19
+1312,2025-11-04 19:21:37,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-11-08 19:21:37
+472,2024-10-20 19:52:33,Chapeu de bruxa,Acessorio,Web,Curitiba,1,22,8,0,Concluído,Todos,Unico,2024-10-24 19:52:33
+605,2024-11-09 22:43:12,Fantasia de abobora,Fantasia,Web,Curitiba,3,85,44,10,Concluído,Infantil,P,2024-11-11 22:43:12
+352,2024-08-26 17:59:10,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,10,Concluído,Todos,Unico,2024-08-30 17:59:10
+433,2024-09-14 12:03:58,Fantasia de fantasma,Fantasia,Loja física,Cascavel,3,75,39,0,Concluído,Infantil,M,2024-09-19 12:03:58
+1078,2025-10-28 10:38:32,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,0,Concluído,Todos,Unico,2025-11-02 10:38:32
+597,2024-11-27 10:03:17,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,25,Concluído,Adulto,M,2024-12-01 10:03:17
+1336,2025-08-18 16:12:49,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,23.32,8.48,0,Concluído,Todos,Unico,2025-08-21 16:12:49
+1269,2025-11-25 16:07:22,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Maringá,1,23.32,8.48,15,Concluído,Todos,Unico,2025-12-01 16:07:22
+41,2024-11-13 19:25:40,Mascara assustadora,Acessorio,Loja física,Curitiba,3,35,12,20,Concluído,Todos,Unico,2024-11-16 19:25:40
+442,2024-11-07 11:57:21,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,110,57,10,Concluído,Adulto,M,2024-11-11 11:57:21
+994,2025-11-13 17:00:28,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,25,Concluído,Todos,Unico,2025-11-19 17:00:28
+39,2024-10-21 19:14:16,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,0,Concluído,Adulto,G,2024-10-27 19:14:16
+468,2024-09-16 18:42:08,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,0,Concluído,Adulto,M,2024-09-21 18:42:08
+1187,2025-08-10 18:08:53,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,0,Concluído,Infantil,M,2025-08-14 18:08:53
+321,2024-10-19 20:22:32,Fantasia de bruxa,Fantasia,Web,Curitiba,2,110,57,0,Concluído,Adulto,M,2024-10-22 20:22:32
+314,2024-08-13 19:14:59,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,0,Concluído,Adulto,M,2024-08-19 19:14:59
+1033,2025-10-03 22:29:54,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-08 22:29:54
+317,2024-09-09 20:29:37,Fantasia de fantasma,Fantasia,Web,Maringá,1,75,39,10,Concluído,Infantil,M,2024-09-13 20:29:37
+909,2025-09-27 20:48:31,Fantasia de fantasma,Fantasia,Web,Maringá,1,79.5,41.34,5,Concluído,Infantil,M,2025-10-03 20:48:31
+236,2024-10-01 20:37:17,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,0,Concluído,Adulto,G,2024-10-04 20:37:17
+594,2024-10-09 21:12:43,Fantasia de fantasma,  FANTASIA!!!  , web ,Londrina,2,75,39,0,Concluído,Infantil,M,2024-10-15 21:12:43
+469,2024-10-14 14:40:30,Mascara assustadora,Acessorio,Mercado,Londrina,7,35,12,5,Concluído,Todos,Unico,2024-10-20 14:40:30
+878,2025-11-11 10:09:29,Mascara assustadora,Acessorio,Mercado,Londrina,4,37.1,12.72,10,Concluído,Todos,Unico,2025-11-16 10:09:29
+43,2024-09-20 11:11:35,Fantasia de bruxa,Fantasia,Loja física,Curitiba,2,110,57,0,Concluído,Adulto,M,2024-09-25 11:11:35
+389,2024-10-26 21:00:23,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,10,Concluído,Adulto,M,2024-11-01 21:00:23
+170,2024-11-04 13:27:18,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,125,68,15,Concluído,Adulto,G,2024-11-06 13:27:18
+250,2024-10-17 09:43:43,Mascara assustadora,Acessorio,Mercado,Cascavel,4,,12,0,Concluído,Todos,Unico,2024-10-19 09:43:43
+397,2024-10-28 15:38:03,Mascara assustadora,Acessorio,Mercado,Cascavel,2,35,12,0,Concluído,Todos,Unico,2024-11-01 15:38:03
+1441,2025-10-17 15:54:24,Mascara assustadora,Acessorio,Mercado,Curitiba,6,37.1,12.72,10,Concluído,Todos,Unico,2025-10-20 15:54:24
+542,2024-09-08 21:04:10,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,5,Concluído,Infantil,M,2024-09-12 21:04:10
+1322,2025-10-12 16:34:12,Mascara assustadora,Acessorio,Mercado,Londrina,4,37.1,12.72,5,Concluído,Todos,Unico,2025-10-16 16:34:12
+580,2024-10-31 09:13:37,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,110,57,0,Concluído,Adulto,M,2024-11-02 09:13:37
+659,2024-09-01 22:17:28,Fantasia de fantasma,Fantasia,Web,Maringá,1,75,39,10,Concluído,Infantil,M,2024-09-07 22:17:28
+1129,2025-10-05 10:11:59,Fantasia de bruxa,Fantasia,Loja física,Curitiba,2,116.6,60.42,5,Concluído,Adulto,M,2025-10-11 10:11:59
+670,2024-10-27 14:17:55,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,22,8,0,Concluído,Todos,Unico,2024-10-29 14:17:55
+1453,2025-10-01 12:26:26,Chapeu de bruxa,Acessorio,Mercado,Cascavel,5,23.32,8.48,0,Concluído,Todos,Unico,2025-10-06 12:26:26
+540,2024-10-02 21:09:13,Fantasia de vampiro,  FANTASIA!!!  ,Web,Maringá,3,125,68,5,Concluído,Adulto,G,
+27,2024-10-27 19:41:28,Mascara assustadora,  ACESSORIO!!!  ,Web,Londrina,2,35,12,0,Concluído,Todos,Unico,2024-10-31 19:41:28
+125,2024-10-31 13:59:44,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,,8,5,Concluído,Todos,Unico,2024-11-02 13:59:44
+700,2024-09-24 13:34:02,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,85,44,5,Concluído,Infantil,P,2024-09-26 13:34:02
+1071,2025-11-15 12:36:49,Mascara assustadora,Acessorio,Mercado,Curitiba,6,37.1,12.72,15,Concluído,Todos,Unico,2025-11-18 12:36:49
+970,2025-10-06 14:47:16,Mascara assustadora,Acessorio,Loja física,Curitiba,2,37.1,12.72,10,Concluído,Todos,Unico,2025-10-08 14:47:16
+213,2024-10-19 18:25:16,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,0,Cancelado,Infantil,M,
+730,2024-09-22 18:52:12,Fantasia de abobora,Fantasia,Web,Maringá,1,85,44,0,Concluído,Infantil,P,2024-09-24 18:52:12
+1153,2025-09-04 22:49:14,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,0,Concluído,Adulto,G,2025-09-09 22:49:14
+809,2025-10-20 11:26:13,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-26 11:26:13
+1224,2025-10-21 19:39:19,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-27 19:39:19
+254,2024-10-17 10:59:44,Fantasia de abobora,Fantasia,Mercado,Maringá,6,85,44,5,Concluído,Infantil,P,2024-10-23 10:59:44
+1179,2025-11-06 11:39:24,Fantasia de abobora,Fantasia,Loja física,Londrina,3,90.1,46.64,20,Concluído,Infantil,P,2025-11-12 11:39:24
+205,2024-08-03 11:45:52,Fantasia de abobora,Fantasia,Loja física,Maringá,1,85,44,0,Concluído,Infantil,P,2024-08-05 11:45:52
+801,2025-11-12 10:00:08,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,25,Concluído,Adulto,G,2025-11-15 10:00:08
+1095,2025-10-25 22:10:52,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-27 22:10:52
+363,2024-11-20 22:40:21,Fantasia de vampiro,Fantasia, web ,Maringá,3,125,68,15,Concluído,Adulto,G,2024-11-25 22:40:21
+177,2024-10-07 19:56:11,Fantasia de vampiro,Fantasia,Web,Maringá,1,125,68,0,Concluído,Adulto,G,2024-10-11 19:56:11
+59,2024-08-01 12:51:27,Chapeu de bruxa,Acessorio,Mercado,Curitiba,6,22,8,10,Concluído,Todos,Unico,2024-08-07 12:51:27
+377,2024-11-07 10:50:16,Fantasia de fantasma,Fantasia,Loja física,Curitiba,1,75,39,0,Concluído,Infantil,M,2024-11-11 10:50:16
+1326,2025-09-03 10:44:37,Fantasia de abobora,Fantasia,Loja física,Maringá,3,90.1,46.64,10,Concluído,Infantil,P,2025-09-06 10:44:37
+1350,2025-09-23 16:24:37,Fantasia de vampiro,  FANTASIA!!!  ,Loja física,Curitiba,1,132.5,72.08,10,Concluído,Adulto,G,
+544,2024-10-31 18:26:56,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,10,Concluído,Adulto,M,2024-11-06 18:26:56
+623,2024-10-02 11:02:55,Mascara assustadora,Acessorio,Mercado,Curitiba,2,35,12,0,Concluído,Todos,Unico,2024-10-07 11:02:55
+1379,2025-11-01 15:21:32,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,10,Concluído,Todos,Unico,2025-11-07 15:21:32
+346,2024-10-16 21:04:35,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,5,Concluído,Adulto,G,2024-10-19 21:04:35
+928,2025-10-09 18:09:07,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,5,Concluído,Infantil,M,2025-10-14 18:09:07
+1072,2025-10-21 20:34:07,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-25 20:34:07
+1320,2025-10-22 21:01:47,Fantasia de vampiro,Fantasia, web ,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-24 21:01:47
+684,2024-10-22 20:55:39,Mascara assustadora, Acessorio ,Web,Cascavel,1,35,12,0,Concluído,Todos,Unico,2024-10-28 20:55:39
+655,2024-10-17 20:30:23,Chapeu de bruxa,Acessorio,Web,Londrina,3,22,8,0,Concluído,Todos,Unico,2024-10-19 20:30:23
+1304,2025-10-14 19:11:47,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-20 19:11:47
+1028,2025-10-22 12:35:07,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,116.6,60.42,10,Concluído,Adulto,M,2025-10-27 12:35:07
+1034,2025-11-18 11:05:39,Mascara assustadora,Acessorio,Loja física,Cascavel,3,37.1,12.72,0,Concluído,Todos,Unico,2025-11-24 11:05:39
+364,2024-11-29 22:57:19,Mascara assustadora,Acessorio,Web,Cascavel,1,35,12,20,Concluído,Todos,Unico,2024-12-05 22:57:19
+874,2025-09-15 22:54:23,Fantasia de bruxa, Fantasia ,Web,Londrina,1,116.6,60.42,5,Concluído,Adulto,M,2025-09-21 22:54:23
+917,2025-10-24 19:55:51,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-28 19:55:51
+959,2025-10-03 19:16:51,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-09 19:16:51
+1173,2025-11-06 22:19:03,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,10,Concluído,Infantil,P,2025-11-11 22:19:03
+295,2024-11-12 11:56:28,Mascara assustadora,Acessorio,Mercado,Londrina,4,35,12,15,Concluído,Todos,Unico,2024-11-14 11:56:28
+1293,2025-11-09 16:34:13,Fantasia de abobora,Fantasia,Mercado,Curitiba,4,90.1,46.64,20,Concluído,Infantil,P,2025-11-14 16:34:13
+539,2024-10-30 20:05:55,Fantasia de vampiro,Fantasia,Web,Curitiba,3,125,68,5,Concluído,Adulto,G,2024-11-05 20:05:55
+1061,2025-10-13 19:15:12,Mascara assustadora,Acessorio,Web,Cascavel,2,37.1,12.72,10,Concluído,Todos,Unico,2025-10-16 19:15:12
+1037,2025-11-11 11:55:21,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,20,Concluído,Adulto,G,2025-11-15 11:55:21
+841,2025-10-24 09:26:11,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-27 09:26:11
+911,2025-10-12 18:14:15,Fantasia de vampiro,Fantasia,Web,Curitiba,2,132.5,72.08,5,Concluído,Adulto,G,2025-10-15 18:14:15
+1478,2025-11-17 21:05:35,Fantasia de bruxa,Fantasia,Web,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-22 21:05:35
+246,2024-10-23 20:14:15,Chapeu de bruxa,Acessorio,Web,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-10-26 20:14:15
+48,2024-10-10 21:12:09,Mascara assustadora,Acessorio,Web,Maringá,1,35,12,0,Concluído,Todos,Unico,2024-10-15 21:12:09
+1317,2025-09-13 12:40:12,Mascara assustadora,Acessorio,Mercado,Londrina,3,37.1,12.72,0,Concluído,Todos,Unico,2025-09-17 12:40:12
+999,2025-10-23 17:09:09,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Maringá,1,23.32,8.48,0,Devolvido,Todos,Unico,2025-10-29 17:09:09
+577,2024-11-11 10:27:18,Mascara assustadora,Acessorio,Mercado,Curitiba,7,35,12,10,Concluído,Todos,Unico,2024-11-15 10:27:18
+1043,2025-10-17 09:51:57,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,10,Concluído,Adulto,M,2025-10-22 09:51:57
+514,2024-10-04 18:10:17,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,0,Concluído,Infantil,P,2024-10-10 18:10:17
+355,2024-10-20 20:11:34,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Concluído,Infantil,M,2024-10-22 20:11:34
+592,2024-10-25 14:21:53,Fantasia de vampiro,Fantasia,Loja física,Londrina,3,125,68,0,Concluído,Adulto,G,2024-10-29 14:21:53
+553,2024-10-18 17:34:58,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-23 17:34:58
+417,2024-10-25 17:12:04,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,0,Concluído,Todos,Unico,2024-10-29 17:12:04
+816,2025-10-03 22:22:02,Fantasia de abobora,Fantasia,Web,Maringá,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-06 22:22:02
+1234,2025-10-17 18:39:33,Chapeu de bruxa,Acessorio,Web,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-23 18:39:33
+998,2025-10-24 22:22:47,Fantasia de vampiro,Fantasia,Web,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-29 22:22:47
+567,2024-10-28 10:31:25,Fantasia de vampiro,  FANTASIA!!!  ,Loja física,Maringá,1,125,68,0,Cancelado,Adulto,G,
+1254,2025-11-08 15:05:18,Mascara assustadora, Acessorio , loja física ,Maringá,1,37.1,12.72,15,Concluído,Todos,Unico,2025-11-14 15:05:18
+508,2024-10-18 12:23:45,Fantasia de abobora,Fantasia,Loja física,Maringá,2,85,44,5,Concluído,Infantil,P,2024-10-23 12:23:45
+696,2024-09-26 22:45:49,Chapeu de bruxa,Acessorio,Web,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-09-29 22:45:49
+719,2024-11-29 09:48:16,Fantasia de vampiro,Fantasia,Loja física,Maringá,2,125,68,0,Concluído,Adulto,G,2024-12-05 09:48:16
+1475,2025-10-24 17:03:29,Mascara assustadora,Acessorio,Mercado,Londrina,4,37.1,12.72,0,Concluído,Todos,Unico,2025-10-26 17:03:29
+329,2024-10-19 09:17:14,Fantasia de vampiro,Fantasia,Mercado,Curitiba,2,125,68,0,Concluído,Adulto,G,2024-10-25 09:17:14
+1004,2025-09-30 20:39:39,Fantasia de abobora,Fantasia,Web,Cascavel,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-06 20:39:39
+1329,2025-10-10 19:08:16,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,0,Devolvido,Infantil,P,2025-10-16 19:08:16
+690,2024-10-24 18:38:09,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,10,Cancelado,Infantil,M,
+1319,2025-08-08 21:42:21,Fantasia de bruxa,Fantasia,Web,Cascavel,2,116.6,60.42,5,Concluído,Adulto,M,2025-08-14 21:42:21
+677,2024-10-29 20:54:47,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,5,Concluído,Adulto,G,2024-11-02 20:54:47
+735,2024-10-20 22:55:38,Fantasia de fantasma,Fantasia,Web,Maringá,3,75,39,10,Concluído,Infantil,M,2024-10-22 22:55:38
+1011,2025-11-10 19:23:53,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,15,Concluído,Adulto,M,2025-11-13 19:23:53
+57,2024-10-21 10:18:57,Fantasia de abobora, Fantasia ,Loja física,Cascavel,2,85,44,0,Concluído,Infantil,P,2024-10-25 10:18:57
+1111,2025-10-26 16:43:10,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,23.32,8.48,10,Concluído,Todos,Unico,2025-10-29 16:43:10
+425,2024-10-15 17:38:00,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,5,Concluído,Todos,Unico,2024-10-17 17:38:00
+123,2024-10-29 19:11:55,Fantasia de abobora,Fantasia,Loja física,Londrina,3,85,44,0,Concluído,Infantil,P,2024-11-03 19:11:55
+2,2024-11-02 12:11:41,Fantasia de abobora,Fantasia,Mercado,Cascavel,6,85,44,10,Concluído,Infantil,P,2024-11-06 12:11:41
+879,2025-10-27 09:53:14,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-11-02 09:53:14
+275,2024-09-26 19:56:10,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,0,Concluído,Infantil,M,2024-09-28 19:56:10
+473,2024-11-01 10:35:08,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,22,8,20,Concluído,Todos,Unico,2024-11-06 10:35:08
+100,2024-10-18 10:48:33,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-10-20 10:48:33
+975,2025-11-03 15:36:16,Fantasia de abobora,Fantasia,Loja física,Londrina,3,90.1,46.64,20,Concluído,Infantil,P,2025-11-05 15:36:16
+1029,2025-09-03 11:47:26,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-09-09 11:47:26
+1151,2025-09-20 19:13:06,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-09-23 19:13:06
+1235,2025-11-07 18:38:01,Fantasia de bruxa, Fantasia ,Web,Curitiba,2,116.6,60.42,20,Concluído,Adulto,M,2025-11-09 18:38:01
+1190,2025-11-20 12:59:17,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,15,Cancelado,Adulto,G,
+1083,2025-10-18 17:31:39,Fantasia de bruxa, Fantasia ,Loja física,Curitiba,1,116.6,60.42,5,Concluído,Adulto,M,2025-10-23 17:31:39
+193,2024-10-23 19:20:26,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Concluído,Adulto,M,2024-10-28 19:20:26
+840,2025-11-05 16:16:55,Chapeu de bruxa,Acessorio,Mercado,Maringá,-1,23.32,8.48,10,Concluído,Todos,Unico,2025-11-07 16:16:55
+434,2024-10-25 18:47:49,Mascara assustadora,Acessorio,Mercado,Maringá,2,35,12,0,Concluído,Todos,Unico,2024-10-31 18:47:49
+587,2024-10-02 22:45:46,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,0,Concluído,Adulto,M,2024-10-06 22:45:46
+1018,2025-10-10 18:29:13,Fantasia de bruxa,Fantasia,Web,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-15 18:29:13
+574,2024-10-27 18:06:29,Mascara assustadora,Acessorio,Loja física,Maringá,1,35,12,0,Concluído,Todos,Unico,2024-11-02 18:06:29
+475,2024-10-04 09:31:24,Fantasia de bruxa, Fantasia ,Loja física,Cascavel,1,110,57,5,Concluído,Adulto,M,2024-10-06 09:31:24
+627,2024-10-02 17:01:20,Mascara assustadora, Acessorio , mercado ,Cascavel,4,35,12,0,Concluído,Todos,Unico,2024-10-06 17:01:20
+515,2024-10-23 18:42:49,Fantasia de bruxa,Fantasia,Web,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-10-25 18:42:49
+238,2024-09-07 09:36:09,Mascara assustadora,Acessorio,Mercado,Londrina,5,35,12,0,Concluído,Todos,Unico,2024-09-12 09:36:09
+414,2024-10-08 17:35:35,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,110,57,10,Concluído,Adulto,M,2024-10-14 17:35:35
+136,2024-09-07 10:08:37,Chapeu de bruxa,Acessorio,Mercado,Maringá,4,22,8,10,Cancelado,Todos,Unico,
+1279,2025-10-30 19:45:24,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-05 19:45:24
+7,2024-11-01 22:20:23,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,0,Concluído,Infantil,M,2024-11-05 22:20:23
+216,2024-10-23 18:01:51,Fantasia de vampiro,  FANTASIA!!!  ,Web,Cascavel,3,125,68,0,Concluído,Adulto,G,2024-10-26 18:01:51
+1378,2025-10-16 17:26:47,Fantasia de bruxa,Fantasia,Mercado,Londrina,2,116.6,60.42,5,Concluído,Adulto,M,2025-10-21 17:26:47
+1362,2025-11-18 11:22:06,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,0,Concluído,Todos,Unico,2025-11-22 11:22:06
+557,2024-11-03 17:43:56,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,125,68,25,Concluído,Adulto,G,2024-11-07 17:43:56
+405,2024-10-14 12:59:10,Chapeu de bruxa,  ACESSORIO!!!  ,Mercado,Londrina,2,22,8,10,Cancelado,Todos,Unico,
+76,2024-11-05 16:50:58,Fantasia de fantasma, Fantasia ,Loja física,Londrina,3,75,39,10,Concluído,Infantil,M,2024-11-08 16:50:58
+850,2025-09-27 09:01:03,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,23.32,8.48,0,Concluído,Todos,Unico,2025-09-29 09:01:03
+335,2024-09-22 17:48:13,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,110,57,0,Concluído,Adulto,M,2024-09-24 17:48:13
+356,2024-10-01 12:51:20,Mascara assustadora,Acessorio,Mercado,Curitiba,6,35,12,0,Concluído,Todos,Unico,2024-10-04 12:51:20
+1115,2025-10-13 20:27:34,Mascara assustadora,Acessorio,Web,Londrina,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-15 20:27:34
+991,2025-11-08 13:34:31,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-11-11 13:34:31
+728,2024-09-20 18:55:30,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,0,Concluído,Adulto,G,2024-09-25 18:55:30
+1431,2025-11-27 22:27:59,Fantasia de bruxa,  FANTASIA!!!  ,Web,Cascavel,1,116.6,60.42,20,Concluído,Adulto,M,2025-11-30 22:27:59
+903,2025-10-24 18:47:30,Chapeu de bruxa,Acessorio,Web,Curitiba,2,23.32,8.48,5,Concluído,Todos,Unico,2025-10-29 18:47:30
+391,2024-10-21 22:21:21,Mascara assustadora,Acessorio,Web,Londrina,1,35,12,10,Concluído,Todos,Unico,2024-10-24 22:21:21
+1207,2025-11-01 16:05:15,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,23.32,8.48,10,Concluído,Todos,Unico,2025-11-05 16:05:15
+26,2024-10-30 11:43:33,Chapeu de bruxa,Acessorio,Mercado,Maringá,7,22,8,0,Concluído,Todos,Unico,2024-11-02 11:43:33
+636,2024-10-22 19:27:04,Fantasia de abobora,Fantasia,Web,Curitiba,1,85,44,10,Concluído,Infantil,P,2024-10-25 19:27:04
+54,2024-09-30 17:14:58,Fantasia de abobora,  FANTASIA!!!  ,Loja física,Cascavel,1,85,44,0,Cancelado,Infantil,P,
+1056,2025-10-15 13:33:00,Fantasia de bruxa,Fantasia, loja física ,Curitiba,1,116.6,60.42,10,Concluído,Adulto,M,2025-10-18 13:33:00
+686,2024-09-15 20:48:22,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-09-18 20:48:22
+69,2024-09-11 22:21:19,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,5,Concluído,Infantil,P,2024-09-17 22:21:19
+1010,2025-08-24 19:09:18,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,5,Devolvido,Infantil,P,2025-08-26 19:09:18
+697,2024-10-04 22:42:36,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-10-08 22:42:36
+1435,2025-11-26 19:54:02,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,20,Concluído,Infantil,M,2025-11-28 19:54:02
+618,2024-11-06 10:36:56,Mascara assustadora,Acessorio,Mercado,Cascavel,7,35,12,0,Concluído,Todos,Unico,2024-11-11 10:36:56
+126,2024-10-07 15:59:12,Fantasia de bruxa,Fantasia,Mercado,Curitiba,6,110,57,0,Concluído,Adulto,M,2024-10-10 15:59:12
+797,2025-10-24 12:40:42,Fantasia de abobora,Fantasia,Mercado,Curitiba,2,90.1,46.64,5,Concluído,Infantil,P,2025-10-28 12:40:42
+127,2024-11-05 18:23:37,Mascara assustadora,Acessorio,Mercado,Curitiba,3,35,12,0,Concluído,Todos,Unico,2024-11-09 18:23:37
+1480,data_invalida,Fantasia de vampiro,Fantasia,Web,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,
+689,2024-11-19 18:28:35,Fantasia de fantasma,Fantasia,Loja física,Curitiba,1,75,39,15,Concluído,Infantil,M,2024-11-25 18:28:35
+871,2025-10-29 19:51:42,Mascara assustadora,Acessorio,Mercado,Maringá,5,37.1,12.72,0,Concluído,Todos,Unico,2025-11-01 19:51:42
+1372,2025-09-01 19:40:53,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Cancelado,Adulto,G,
+1236,2025-10-31 13:10:48,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-03 13:10:48
+471,2024-10-30 17:09:33,Mascara assustadora,Acessorio,Loja física,Cascavel,2,35,12,0,Concluído,Todos,Unico,2024-11-02 17:09:33
+1219,2025-09-30 16:04:59,Mascara assustadora,Acessorio,Mercado,Curitiba,6,37.1,12.72,5,Concluído,Todos,Unico,2025-10-06 16:04:59
+106,2024-08-30 19:06:30,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,125,68,0,Concluído,Adulto,G,2024-09-02 19:06:30
+713,2024-08-06 19:12:03,Fantasia de abobora,Fantasia,Web,Curitiba,1,85,44,0,Concluído,Infantil,P,2024-08-11 19:12:03
+1305,2025-10-02 11:24:13,Chapeu de bruxa,Acessorio,Mercado,Curitiba,4,23.32,8.48,0,Concluído,Todos,Unico,
+309,2024-10-20 22:43:07,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-10-26 22:43:07
+384,2024-10-16 20:13:59,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,0,Concluído,Infantil,P,2024-10-22 20:13:59
+1399,2025-09-26 21:24:49,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-02 21:24:49
+1212,2025-08-10 13:18:01,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,0,Devolvido,Adulto,G,2025-08-14 13:18:01
+551,2024-11-04 17:39:37,Mascara assustadora, Acessorio ,Mercado,Cascavel,2,35,12,0,Concluído,Todos,Unico,2024-11-07 17:39:37
+30,2024-10-22 11:25:44,Chapeu de bruxa,Acessorio,Mercado,Maringá,4,22,8,10,Cancelado,Todos,Unico,
+739,2024-10-06 18:01:37,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-10-12 18:01:37
+388,2024-09-22 19:30:04,Fantasia de abobora,Fantasia,Web,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-09-27 19:30:04
+731,2024-09-29 19:33:29,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,22,8,0,Concluído,Todos,Unico,2024-10-02 19:33:29
+1241,2025-11-03 11:59:15,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-11-06 11:59:15
+711,2024-11-03 20:54:48,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,10,Concluído,Adulto,G,2024-11-06 20:54:48
+1052,2025-08-23 10:11:34,Mascara assustadora,Acessorio,Mercado,Cascavel,6,37.1,12.72,0,Concluído,Todos,Unico,2025-08-27 10:11:34
+1283,2025-10-17 13:24:17,Mascara assustadora,Acessorio,Loja física,Cascavel,3,37.1,12.72,5,Concluído,Todos,Unico,2025-10-22 13:24:17
+1003,2025-10-22 18:43:53,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,0,Cancelado,Todos,Unico,
+470,2024-10-30 19:20:41,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,75,39,0,Concluído,Infantil,M,2024-11-01 19:20:41
+1493,2025-10-06 19:25:46,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-11 19:25:46
+261,2024-10-18 10:48:56,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,22,8,5,Concluído,Todos,Unico,2024-10-21 10:48:56
+1301,2025-10-26 15:05:37,Mascara assustadora,Acessorio,Mercado,Londrina,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-29 15:05:37
+1275,2025-08-12 11:08:28,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,10,Cancelado,Infantil,P,
+1143,2025-11-06 22:17:52,Mascara assustadora,Acessorio,Web,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-11-11 22:17:52
+401,2024-10-24 20:09:39,Mascara assustadora,Acessorio,Web,Londrina,2,35,12,5,Concluído,Todos,Unico,2024-10-27 20:09:39
+1198,2025-08-26 20:36:25,Fantasia de bruxa,Fantasia,Web,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-08-31 20:36:25
+972,2025-10-10 19:17:59,Chapeu de bruxa,  ACESSORIO!!!  ,Web,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,2025-10-14 19:17:59
+839,2025-11-10 12:48:37,Chapeu de bruxa,Acessorio,Mercado,Cascavel,6,23.32,8.48,0,Concluído,Todos,Unico,2025-11-16 12:48:37
+128,2024-10-15 21:45:27,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-20 21:45:27
+1240,2025-09-29 11:29:48,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-01 11:29:48
+1193,2025-11-02 09:22:25,Fantasia de abobora,Fantasia,Loja física,Londrina,3,90.1,46.64,10,Concluído,Infantil,P,2025-11-07 09:22:25
+1382,2025-09-29 20:48:19,Fantasia de abobora,Fantasia,Web,Cascavel,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-03 20:48:19
+1019,2025-11-17 09:20:50,Mascara assustadora,Acessorio,Loja física,Curitiba,3,37.1,12.72,0,Concluído,Todos,Unico,2025-11-23 09:20:50
+237,2024-11-07 16:26:15,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,110,57,10,Concluído,Adulto,M,2024-11-11 16:26:15
+1044,2025-10-05 09:52:26,Chapeu de bruxa,Acessorio,Mercado,Londrina,4,23.32,8.48,0,Concluído,Todos,Unico,2025-10-11 09:52:26
+1414,2025-10-31 14:22:23,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,10,Concluído,Adulto,M,2025-11-06 14:22:23
+1041,2025-10-10 20:49:03,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-13 20:49:03
+1249,2025-11-19 16:38:11,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,10,Concluído,Adulto,G,2025-11-25 16:38:11
+107,2024-10-24 10:33:54,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-10-28 10:33:54
+1377,2025-10-30 18:15:39,Fantasia de fantasma,  FANTASIA!!!  ,Web,Cascavel,3,79.5,41.34,5,Concluído,Infantil,M,2025-11-03 18:15:39
+462,2024-10-20 16:04:20,Fantasia de fantasma,Fantasia, loja física ,Curitiba,1,75,39,5,Concluído,Infantil,M,2024-10-24 16:04:20
+466,2024-11-19 18:11:42,Fantasia de abobora,Fantasia,Web,Maringá,1,85,44,25,Concluído,Infantil,P,2024-11-22 18:11:42
+369,2024-10-17 19:37:34,Fantasia de abobora,Fantasia,Web,Curitiba,3,85,44,10,Concluído,Infantil,P,2024-10-23 19:37:34
+1409,2025-09-15 09:54:49,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,0,Concluído,Todos,Unico,2025-09-21 09:54:49
+1288,2025-10-20 22:34:44,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-25 22:34:44
+952,2025-10-15 20:19:45,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-19 20:19:45
+435,2024-09-09 18:45:03,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,5,Concluído,Infantil,M,2024-09-11 18:45:03
+1113,2025-11-12 18:11:17,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,90.1,46.64,25,Concluído,Infantil,P,2025-11-17 18:11:17
+313,2024-10-27 22:08:01,Fantasia de fantasma,Fantasia,Web,Curitiba,1,75,39,0,Cancelado,Infantil,M,
+559,2024-11-02 14:14:28,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,22,8,15,Concluído,Todos,Unico,2024-11-08 14:14:28
+718,2024-09-09 13:28:38,Fantasia de abobora,Fantasia,Loja física,Maringá,2,85,44,0,Cancelado,Infantil,P,
+299,2024-11-04 13:07:35,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,85,44,10,Concluído,Infantil,P,2024-11-10 13:07:35
+955,2025-08-09 21:40:34,Fantasia de fantasma,Fantasia,Web,Londrina,1,79.5,41.34,10,Concluído,Infantil,M,2025-08-11 21:40:34
+1192,2025-10-08 11:41:04,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,23.32,8.48,0,Devolvido,Todos,Unico,2025-10-12 11:41:04
+234,2024-10-23 20:47:25,Fantasia de abobora,Fantasia,Web,Curitiba,2,85,44,5,Cancelado,Infantil,P,
+1057,2025-10-31 16:10:51,Fantasia de fantasma,Fantasia,Loja física,Curitiba,1,79.5,41.34,10,Concluído,Infantil,M,2025-11-04 16:10:51
+74,2024-08-20 22:42:00,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Cancelado,Adulto,M,
+800,2025-09-12 20:30:20,Fantasia de fantasma,,Web,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-09-14 20:30:20
+416,2024-10-13 19:25:21,Chapeu de bruxa,Acessorio,Web,Londrina,1,22,8,5,Concluído,Todos,Unico,2024-10-16 19:25:21
+1204,2025-11-17 14:08:55,Mascara assustadora,Acessorio,Loja física,Cascavel,2,37.1,12.72,25,Devolvido,Todos,Unico,2025-11-23 14:08:55
+23,2024-10-12 18:00:19,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-10-17 18:00:19
+496,2024-11-02 15:38:42,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-11-05 15:38:42
+203,2024-08-09 11:25:16,Chapeu de bruxa,Acessorio,Mercado,Cascavel,2,22,8,0,Cancelado,Todos,Unico,
+962,2025-10-29 18:23:02,Fantasia de vampiro,Fantasia,Loja física,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-11-02 18:23:02
+782,2025-10-04 21:00:47,Fantasia de bruxa,Fantasia,Web,Londrina,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-08 21:00:47
+651,2024-11-30 17:42:50,Fantasia de abobora,Fantasia,Loja física,Londrina,2,85,44,20,Concluído,Infantil,P,2024-12-03 17:42:50
+954,2025-10-20 17:59:48,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-26 17:59:48
+868,2025-11-01 10:16:01,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,23.32,8.48,20,Devolvido,Todos,Unico,2025-11-06 10:16:01
+1381,2025-11-17 16:31:34,Mascara assustadora,Acessorio,Loja física,Curitiba,1,37.1,12.72,20,Concluído,Todos,Unico,2025-11-20 16:31:34
+114,2024-10-22 10:44:36,Fantasia de bruxa, Fantasia ,Loja física,Maringá,1,110,57,0,Concluído,Adulto,M,2024-10-28 10:44:36
+285,2024-09-26 19:34:39,Fantasia de vampiro, Fantasia ,Web,Londrina,3,125,68,0,Cancelado,Adulto,G,
+1182,2025-10-11 20:54:26,Fantasia de abobora,Fantasia,Web,Curitiba,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-15 20:54:26
+664,2024-10-18 20:30:35,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,0,Concluído,Adulto,M,2024-10-24 20:30:35
+703,2024-10-02 12:46:48,Mascara assustadora, Acessorio ,Loja física,Curitiba,1,35,12,10,Concluído,Todos,Unico,2024-10-07 12:46:48
+1117,2025-10-29 21:27:18,Fantasia de abobora,Fantasia,Web,Londrina,1,90.1,46.64,0,Concluído,Infantil,P,2025-11-02 21:27:18
+316,2024-10-06 20:41:39,Fantasia de fantasma,Fantasia,Web,Cascavel,2,75,39,10,Concluído,Infantil,M,2024-10-09 20:41:39
+88,2024-10-26 13:48:42,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,22,8,5,Concluído,Todos,Unico,2024-10-31 13:48:42
+637,2024-10-29 14:21:12,Mascara assustadora,Acessorio,Mercado,Maringá,3,35,12,5,Devolvido,Todos,Unico,2024-11-02 14:21:12
+968,2025-11-07 10:44:41,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-12 10:44:41
+308,2024-10-07 20:35:51,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,10,Concluído,Adulto,G,2024-10-12 20:35:51
+139,2024-10-31 18:20:03,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,0,Devolvido,Adulto,M,2024-11-06 18:20:03
+491,2024-11-06 16:06:44,Mascara assustadora,Acessorio,Loja física,Curitiba,2,35,12,15,Concluído,Todos,Unico,2024-11-09 16:06:44
+67,2024-10-15 17:20:19,Chapeu de bruxa,Acessorio,Mercado,Maringá,4,22,8,5,Concluído,Todos,Unico,2024-10-19 17:20:19
+593,2024-10-18 18:28:28,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-10-23 18:28:28
+1107,2025-10-20 12:40:00,Fantasia de abobora,  FANTASIA!!!  ,Mercado,Londrina,3,90.1,46.64,5,Concluído,Infantil,P,2025-10-24 12:40:00
+68,2024-09-01 10:18:54,Chapeu de bruxa,Acessorio,Mercado,Curitiba,6,22,8,0,Concluído,Todos,Unico,2024-09-06 10:18:54
+513,2024-10-14 13:25:26,Chapeu de bruxa,  ACESSORIO!!!  ,Mercado,Cascavel,4,22,8,0,Concluído,Todos,Unico,2024-10-19 13:25:26
+1267,2025-10-19 19:18:50,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-23 19:18:50
+1462,2025-11-03 20:03:05,Fantasia de abobora,Fantasia,Web,Londrina,2,90.1,46.64,25,Concluído,Infantil,P,2025-11-07 20:03:05
+450,2024-09-16 19:33:38,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,5,Concluído,Adulto,M,
+722,2024-10-28 22:10:06,Fantasia de vampiro, Fantasia ,Web,Londrina,3,125,68,10,Concluído,Adulto,G,2024-11-01 22:10:06
+343,2024-11-11 18:28:27,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,22,8,10,Concluído,Todos,Unico,2024-11-16 18:28:27
+1286,2025-11-04 18:13:16,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,0,Concluído,Adulto,G,2025-11-07 18:13:16
+547,2024-11-17 13:17:34,Mascara assustadora,Acessorio,Mercado,Cascavel,6,35,12,15,Concluído,Todos,Unico,2024-11-21 13:17:34
+179,2024-10-14 22:11:44,Mascara assustadora,Acessorio,Web,Maringá,1,35,12,10,Concluído,Todos,Unico,2024-10-20 22:11:44
+1181,2025-11-10 21:28:34,Fantasia de fantasma,Fantasia,Web,Curitiba,1,79.5,41.34,10,Concluído,Infantil,M,2025-11-13 21:28:34
+880,2025-11-14 10:55:57,Fantasia de vampiro,,Loja física,Cascavel,2,132.5,72.08,0,Cancelado,Adulto,G,
+848,2025-11-21 17:28:14,Fantasia de bruxa,Fantasia,Mercado,Curitiba,6,116.6,60.42,15,Concluído,Adulto,M,2025-11-26 17:28:14
+528,2024-09-26 19:00:38,Fantasia de vampiro,Fantasia, loja física ,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-10-01 19:00:38
+393,2024-09-19 12:43:14,Fantasia de bruxa,Fantasia,Loja física,Curitiba,1,110,57,0,Concluído,Adulto,M,2024-09-24 12:43:14
+200,2024-10-17 19:39:32,Fantasia de bruxa,Fantasia,Web,Cascavel,3,110,57,10,Concluído,Adulto,M,2024-10-19 19:39:32
+247,2024-10-01 18:06:06,Fantasia de vampiro, Fantasia ,Web,Curitiba,2,125,68,0,Concluído,Adulto,G,2024-10-05 18:06:06
+374,2024-10-12 18:34:42,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-10-18 18:34:42
+103,2024-10-23 14:11:18,Fantasia de abobora,Fantasia,Loja física,Cascavel,3,85,44,0,Concluído,Infantil,P,2024-10-28 14:11:18
+918,2025-10-17 21:44:21,Fantasia de vampiro,  FANTASIA!!!  ,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-22 21:44:21
+1109,2025-11-09 22:34:08,Fantasia de vampiro,Fantasia,Web,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-11-15 22:34:08
+931,2025-10-02 18:37:56,Fantasia de bruxa, Fantasia ,Web,Londrina,1,116.6,60.42,5,Concluído,Adulto,M,2025-10-05 18:37:56
+14,2024-10-29 22:28:37,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Concluído,Infantil,M,2024-11-04 22:28:37
+1487,2025-09-28 17:24:12,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-02 17:24:12
+776,2025-10-14 22:59:45,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-17 22:59:45
+531,2024-10-14 21:57:23,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,0,Cancelado,Adulto,M,
+36,2024-10-11 20:29:50,Fantasia de abobora,Fantasia,Web,Curitiba,3,85,44,0,Concluído,Infantil,P,2024-10-14 20:29:50
+762,2025-10-13 18:53:46,Fantasia de abobora,Fantasia,Web,Curitiba,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-17 18:53:46
+277,2024-08-28 10:50:07,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,10,Concluído,Adulto,M,2024-09-01 10:50:07
+13,2024-11-11 17:47:18,Mascara assustadora,Acessorio,Loja física,Londrina,1,35,12,0,Concluído,Todos,Unico,2024-11-16 17:47:18
+1331,2025-08-22 18:04:57,Mascara assustadora,Acessorio,Mercado,Maringá,4,37.1,12.72,5,Concluído,Todos,Unico,2025-08-25 18:04:57
+1437,2025-10-05 20:28:15,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-09 20:28:15
+1138,2025-11-17 18:01:26,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-11-22 18:01:26
+333,2024-10-15 18:03:23,Fantasia de bruxa,Fantasia,Web,Curitiba,3,110,57,5,Concluído,Adulto,M,2024-10-20 18:03:23
+1332,2025-10-19 21:34:23,Mascara assustadora,Acessorio,Web,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-23 21:34:23
+855,2025-10-03 18:06:38,Chapeu de bruxa, Acessorio ,Web,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,
+756,2025-10-15 19:50:23,Fantasia de abobora,  FANTASIA!!!  ,Loja física,Maringá,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-18 19:50:23
+723,2024-10-28 18:13:08,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,0,Concluído,Adulto,M,2024-11-02 18:13:08
+561,2024-10-30 19:18:30,Fantasia de abobora,Fantasia, web ,Curitiba,3,85,44,0,Concluído,Infantil,P,2024-11-02 19:18:30
+1049,2025-11-05 19:23:44,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,116.6,60.42,25,Devolvido,Adulto,M,2025-11-11 19:23:44
+420,2024-10-30 18:48:52,Mascara assustadora,Acessorio,Mercado,Curitiba,-1,35,12,10,Concluído,Todos,Unico,2024-11-01 18:48:52
+699,2024-09-04 18:03:09,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-09-10 18:03:09
+1208,2025-10-28 19:57:47,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,23.32,8.48,0,Concluído,Todos,Unico,2025-11-02 19:57:47
+601,2024-11-23 19:53:41,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,110,57,25,Concluído,Adulto,M,2024-11-26 19:53:41
+709,2024-08-23 15:25:23,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,5,Concluído,Todos,Unico,2024-08-29 15:25:23
+1447,2025-11-03 15:52:28,Mascara assustadora,Acessorio,Loja física,Cascavel,3,37.1,12.72,20,Concluído,Todos,Unico,2025-11-07 15:52:28
+747,2024-10-17 22:49:46,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,5,Concluído,Adulto,G,2024-10-21 22:49:46
+1257,2025-10-14 21:46:31,Fantasia de abobora,Fantasia,Web,Curitiba,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-18 21:46:31
+1051,2025-11-27 19:24:25,Mascara assustadora,Acessorio,Loja física,Maringá,3,37.1,12.72,20,Concluído,Todos,Unico,2025-11-30 19:24:25
+1352,2025-11-10 19:36:47,Mascara assustadora,Acessorio,Web,Londrina,3,37.1,12.72,0,Cancelado,Todos,Unico,
+584,2024-09-28 20:12:54,Mascara assustadora,Acessorio,Web,Londrina,3,35,12,0,Devolvido,Todos,Unico,2024-10-04 20:12:54
+558,2024-09-25 22:13:04,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-09-30 22:13:04
+536,2024-11-25 18:38:39,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,20,Concluído,Adulto,M,2024-11-28 18:38:39
+1325,2025-09-11 22:43:28,Mascara assustadora,Acessorio,Web,Maringá,2,37.1,12.72,10,Concluído,Todos,Unico,2025-09-13 22:43:28
+1042,2025-10-01 18:15:18,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-05 18:15:18
+922,2025-10-07 20:40:03,Fantasia de vampiro,Fantasia,Web,Maringá,1,132.5,72.08,10,Concluído,Adulto,G,2025-10-11 20:40:03
+1380,2025-10-23 17:43:01,Fantasia de abobora,Fantasia,Loja física,Londrina,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-25 17:43:01
+495,2024-10-15 19:35:05,Fantasia de abobora,Fantasia, web ,Cascavel,2,85,44,5,Concluído,Infantil,P,
+860,2025-08-25 18:43:45,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Cancelado,Adulto,G,
+1309,2025-08-12 21:28:06,Chapeu de bruxa,Acessorio,Web,Cascavel,2,23.32,8.48,5,Concluído,Todos,Unico,2025-08-18 21:28:06
+775,2025-10-29 11:39:10,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-31 11:39:10
+656,2024-10-22 09:36:31,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,110,57,5,Concluído,Adulto,M,2024-10-25 09:36:31
+484,2024-09-23 14:06:33,Chapeu de bruxa,Acessorio,Mercado,Cascavel,5,22,8,0,Concluído,Todos,Unico,2024-09-29 14:06:33
+168,2024-09-16 19:32:11,Fantasia de bruxa,Fantasia,Web,Londrina,3,110,57,0,Concluído,Adulto,M,2024-09-21 19:32:11
+1388,2025-11-15 18:27:08,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,23.32,8.48,15,Concluído,Todos,Unico,2025-11-20 18:27:08
+146,2024-10-26 13:06:40,Chapeu de bruxa,Acessorio,Mercado,Cascavel,3,22,8,0,Concluído,Todos,Unico,2024-10-29 13:06:40
+1413,2025-10-16 12:54:03,Mascara assustadora,Acessorio,Loja física,Maringá,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-21 12:54:03
+648,2024-10-10 15:37:55,Fantasia de vampiro,  FANTASIA!!!  ,Loja física,Maringá,2,125,68,0,Concluído,Adulto,G,2024-10-15 15:37:55
+951,2025-10-15 19:18:12,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-18 19:18:12
+1133,2025-11-22 11:45:34,Mascara assustadora,Acessorio,Loja física,Maringá,2,37.1,12.72,15,Concluído,Todos,Unico,2025-11-27 11:45:34
+1088,2025-08-31 12:15:58,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,90.1,46.64,0,Concluído,Infantil,P,2025-09-05 12:15:58
+18,2024-10-16 18:40:19,Fantasia de vampiro,Fantasia,Mercado,Maringá,3,125,68,0,Concluído,Adulto,G,2024-10-21 18:40:19
+825,2025-10-29 09:59:11,Mascara assustadora,Acessorio, mercado ,Londrina,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-31 09:59:11
+116,2024-09-24 19:25:26,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,0,Concluído,Adulto,M,2024-09-27 19:25:26
+1461,2025-09-29 19:11:43,Chapeu de bruxa,Acessorio,Web,Cascavel,1,23.32,8.48,5,Concluído,Todos,Unico,2025-10-02 19:11:43
+892,2025-10-21 19:51:57,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-25 19:51:57
+294,2024-11-22 19:54:43,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-11-28 19:54:43
+51,2024-10-20 12:45:55,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,10,Concluído,Adulto,M,2024-10-23 12:45:55
+891,2025-10-14 10:27:18,Fantasia de fantasma,  FANTASIA!!!  , loja física ,Londrina,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 10:27:18
+1110,data_invalida,Fantasia de bruxa,Fantasia,Web,Cascavel,1,116.6,60.42,0,Concluído,Adulto,M,
+278,2024-10-08 22:27:39,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-13 22:27:39
+407,2024-10-31 13:26:00,Fantasia de bruxa,Fantasia,Loja física,Curitiba,1,110,57,10,Concluído,Adulto,M,2024-11-04 13:26:00
+31,2024-11-02 14:58:34,Chapeu de bruxa,Acessorio,Mercado,Londrina,6,22,8,10,Concluído,Todos,Unico,2024-11-05 14:58:34
+151,2024-10-31 18:16:43,Fantasia de abobora,Fantasia,Web,Maringá,3,85,44,5,Concluído,Infantil,P,2024-11-03 18:16:43
+445,2024-09-11 15:19:18,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,22,8,0,Concluído,Todos,Unico,2024-09-13 15:19:18
+849,2025-10-05 18:33:15,Fantasia de vampiro,Fantasia,Mercado,Curitiba,6,132.5,72.08,0,Concluído,Adulto,G,2025-10-11 18:33:15
+248,2024-10-12 14:34:09,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,85,44,5,Concluído,Infantil,P,2024-10-17 14:34:09
+212,2024-10-28 12:11:53,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,22,8,0,Cancelado,Todos,Unico,
+1410,2025-10-23 18:46:08,Fantasia de bruxa,Fantasia,Mercado,Cascavel,5,116.6,60.42,10,Concluído,Adulto,M,2025-10-25 18:46:08
+467,2024-09-20 20:15:44,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,5,Cancelado,Adulto,M,
+687,2024-10-30 11:39:55,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-11-03 11:39:55
+867,2025-10-02 22:02:29,Fantasia de vampiro,Fantasia,Web,Maringá,1,132.5,72.08,10,Concluído,Adulto,G,2025-10-06 22:02:29
+1365,2025-11-15 20:42:50,Fantasia de fantasma,Fantasia,Web,Curitiba,2,79.5,41.34,10,Concluído,Infantil,M,2025-11-17 20:42:50
+647,2024-11-20 20:55:58,Fantasia de bruxa,Fantasia,Web,Cascavel,3,110,57,20,Concluído,Adulto,M,2024-11-24 20:55:58
+1026,2025-09-26 22:57:27,Fantasia de abobora,  FANTASIA!!!  ,Web,Maringá,1,90.1,46.64,0,Concluído,Infantil,P,2025-09-29 22:57:27
+862,2025-10-26 14:22:07,Fantasia de bruxa,Fantasia,Loja física,Curitiba,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-30 14:22:07
+642,2024-10-20 13:26:29,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,125,68,0,Devolvido,Adulto,G,2024-10-24 13:26:29
+1264,2025-09-28 18:56:09,Fantasia de fantasma,Fantasia,Web,Maringá,3,79.5,41.34,10,Cancelado,Infantil,M,
+1484,2025-10-09 20:01:50,Fantasia de fantasma,Fantasia,Web,Cascavel,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-15 20:01:50
+1220,2025-11-03 19:37:03,Fantasia de fantasma,Fantasia,Web,Curitiba,3,79.5,41.34,25,Devolvido,Infantil,M,2025-11-05 19:37:03
+973,2025-11-05 18:18:29,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,23.32,8.48,10,Concluído,Todos,Unico,2025-11-10 18:18:29
+1090,2025-10-23 18:54:23,Chapeu de bruxa,Acessorio,Mercado,Curitiba,6,23.32,8.48,0,Concluído,Todos,Unico,2025-10-25 18:54:23
+79,2024-10-18 20:01:29,Mascara assustadora,Acessorio,Web,Curitiba,3,35,12,0,Concluído,Todos,Unico,2024-10-24 20:01:29
+743,2024-08-25 21:10:07,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,10,Concluído,Adulto,G,2024-08-30 21:10:07
+409,2024-08-20 16:00:33,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,22,8,10,Concluído,Todos,Unico,2024-08-26 16:00:33
+981,2025-10-06 19:01:27,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,5,Concluído,Adulto,M,2025-10-09 19:01:27
+1476,2025-10-05 21:47:36,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-08 21:47:36
+633,2024-10-21 11:43:30,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-10-26 11:43:30
+812,2025-10-14 22:21:27,Mascara assustadora,Acessorio,Web,Curitiba,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-18 22:21:27
+1443,2025-11-24 19:45:15,Mascara assustadora,Acessorio,Web,Cascavel,1,37.1,12.72,25,Concluído,Todos,Unico,2025-11-29 19:45:15
+1338,2025-10-12 12:22:33,Mascara assustadora,Acessorio,Mercado,Curitiba,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-17 12:22:33
+239,2024-11-14 18:45:59,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,15,Concluído,Adulto,G,2024-11-20 18:45:59
+510,2024-11-04 17:01:29,Mascara assustadora,Acessorio,Mercado,Curitiba,7,35,12,10,Concluído,Todos,Unico,2024-11-06 17:01:29
+1368,2025-10-10 21:47:59,Fantasia de vampiro, Fantasia ,Web,Cascavel,1,132.5,72.08,10,Cancelado,Adulto,G,
+260,2024-10-08 22:32:19,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-10-10 22:32:19
+927,2025-09-30 10:21:47,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-04 10:21:47
+432,2024-10-19 21:27:37,Mascara assustadora,  ACESSORIO!!!  ,Web,Cascavel,3,35,12,10,Concluído,Todos,Unico,2024-10-23 21:27:37
+332,2024-11-07 14:57:26,Chapeu de bruxa,Acessorio,Mercado,Cascavel,7,22,8,15,Concluído,Todos,Unico,2024-11-11 14:57:26
+1080,2025-10-16 19:54:16,Fantasia de fantasma,  FANTASIA!!!  ,Web,Cascavel,1,79.5,41.34,0,Cancelado,Infantil,M,
+661,2024-10-10 14:34:23,Mascara assustadora,Acessorio,Loja física,Curitiba,1,35,12,10,Concluído,Todos,Unico,2024-10-13 14:34:23
+704,2024-11-16 21:31:05,Fantasia de vampiro,Fantasia,Web,Maringá,2,125,68,15,Concluído,Adulto,G,2024-11-22 21:31:05
+1330,2025-11-16 19:44:19,Mascara assustadora, Acessorio ,Web,Maringá,3,37.1,,20,Concluído,Todos,Unico,2025-11-18 19:44:19
+1258,2025-10-18 13:28:49,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-23 13:28:49
+265,2024-10-26 12:24:02,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,75,39,0,Concluído,Infantil,M,2024-10-28 12:24:02
+460,2024-10-13 22:47:37,Fantasia de fantasma,Fantasia,Web,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-10-15 22:47:37
+474,2024-10-16 09:35:18,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,22,8,0,Cancelado,Todos,Unico,
+37,2024-10-22 17:53:51,Chapeu de bruxa,Acessorio,Mercado,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-10-26 17:53:51
+1395,2025-08-03 19:57:36,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,0,Concluído,Adulto,G,
+694,2024-10-22 16:36:11,Fantasia de abobora,Fantasia,Loja física,Maringá,1,85,44,5,Concluído,Infantil,P,2024-10-28 16:36:11
+1231,2025-10-30 19:15:14,Fantasia de fantasma,Fantasia,Web,Curitiba,1,79.5,41.34,0,Concluído,Infantil,M,2025-11-02 19:15:14
+755,2025-11-06 12:24:53,Mascara assustadora,Acessorio,Mercado,Maringá,3,37.1,12.72,20,Concluído,Todos,Unico,2025-11-08 12:24:53
+62,2024-10-13 18:50:42,Fantasia de abobora,Fantasia,Web,Londrina,3,85,44,0,Concluído,Infantil,P,2024-10-17 18:50:42
+596,2024-10-13 19:15:40,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-10-16 19:15:40
+1232,2025-08-03 11:16:35,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,23.32,8.48,5,Concluído,Todos,Unico,2025-08-07 11:16:35
+706,2024-10-06 16:58:17,Chapeu de bruxa,Acessorio,Mercado,Maringá,2,22,8,10,Concluído,Todos,Unico,2024-10-09 16:58:17
+55,2024-08-31 20:56:10,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,0,Concluído,Adulto,M,2024-09-02 20:56:10
+907,2025-11-10 13:46:05,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,23.32,8.48,10,Concluído,Todos,Unico,2025-11-14 13:46:05
+1075,2025-11-01 19:45:52,Fantasia de bruxa,Fantasia,Mercado,Curitiba,7,116.6,60.42,10,Concluído,Adulto,M,2025-11-03 19:45:52
+1498,2025-10-27 17:48:43,Fantasia de abobora,Fantasia,Mercado,Cascavel,6,90.1,46.64,10,Concluído,Infantil,P,2025-11-01 17:48:43
+876,2025-09-14 13:49:21,Mascara assustadora,Acessorio,Loja física,Cascavel,1,37.1,12.72,10,Concluído,Todos,Unico,2025-09-17 13:49:21
+738,2024-10-06 19:45:53,Fantasia de fantasma,Fantasia,Web,Curitiba,3,75,39,5,Concluído,Infantil,M,2024-10-11 19:45:53
+1459,2025-08-25 13:14:44,Fantasia de vampiro,Fantasia,Loja física,Londrina,3,132.5,72.08,10,Concluído,Adulto,G,2025-08-31 13:14:44
+1221,2025-09-29 19:24:14,Fantasia de vampiro,Fantasia, web ,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-02 19:24:14
+452,2024-10-25 17:45:12,Fantasia de abobora,Fantasia,Loja física,Maringá,3,85,44,0,Concluído,Infantil,P,2024-10-29 17:45:12
+422,2024-10-20 11:16:50,Mascara assustadora,Acessorio,Mercado,Cascavel,3,35,12,5,Concluído,Todos,Unico,2024-10-24 11:16:50
+634,2024-09-09 12:13:49,Fantasia de vampiro,Fantasia,Mercado,Curitiba,7,125,68,5,Concluído,Adulto,G,2024-09-15 12:13:49
+745,2024-10-23 19:46:49,Fantasia de abobora,Fantasia,Mercado,Curitiba,6,85,44,5,Concluído,Infantil,P,2024-10-25 19:46:49
+815,2025-10-27 19:26:23,Fantasia de fantasma,Fantasia,Web,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-29 19:26:23
+901,2025-11-02 21:08:58,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,10,Concluído,Adulto,G,2025-11-05 21:08:58
+913,2025-08-21 11:43:45,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,23.32,8.48,10,Concluído,Todos,Unico,2025-08-26 11:43:45
+337,2024-09-13 09:27:17,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,22,8,10,Concluído,Todos,Unico,2024-09-17 09:27:17
+1432,2025-10-23 22:06:46,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,10,Devolvido,Adulto,G,2025-10-27 22:06:46
+1308,2025-08-13 22:30:15,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Cancelado,Adulto,G,
+81,2024-09-21 18:04:55,Fantasia de abobora,  FANTASIA!!!  ,Web,Maringá,2,85,44,10,Concluído,Infantil,P,2024-09-24 18:04:55
+791,2025-08-15 10:34:14,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,116.6,60.42,0,Concluído,Adulto,M,2025-08-18 10:34:14
+778,2025-11-02 14:26:27,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-11-07 14:26:27
+851,2025-10-17 15:20:15,Mascara assustadora,Acessorio,Loja física,Cascavel,3,37.1,12.72,5,Concluído,Todos,Unico,2025-10-20 15:20:15
+582,2024-09-18 18:01:15,Fantasia de bruxa,Fantasia,Web,Maringá,2,110,57,0,Cancelado,Adulto,M,
+717,2024-08-17 14:07:36,Fantasia de abobora,Fantasia,Loja física,Londrina,3,85,44,10,Concluído,Infantil,P,2024-08-21 14:07:36
+1479,2025-10-16 19:42:47,Mascara assustadora,Acessorio,Web,Maringá,2,37.1,12.72,10,Concluído,Todos,Unico,2025-10-22 19:42:47
+1009,2025-10-03 20:29:09,Fantasia de vampiro,Fantasia,Web,Cascavel,2,132.5,72.08,0,Devolvido,Adulto,G,2025-10-09 20:29:09
+746,2024-10-28 22:19:18,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,10,Concluído,Adulto,M,2024-10-31 22:19:18
+82,2024-08-19 19:21:16,Fantasia de vampiro,Fantasia,Web,Cascavel,3,125,68,0,Cancelado,Adulto,G,
+447,2024-10-25 22:53:47,Fantasia de bruxa,Fantasia,Web,Londrina,2,110,57,5,Concluído,Adulto,M,2024-10-29 22:53:47
+1210,2025-10-22 22:25:42,Fantasia de vampiro,Fantasia,Web,Maringá,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-24 22:25:42
+603,2024-10-11 18:24:17,Fantasia de vampiro,Fantasia,Web,Cascavel,1,125,68,0,Concluído,Adulto,G,2024-10-16 18:24:17
+1491,2025-11-03 13:15:42,Chapeu de bruxa,Acessorio,Mercado,Cascavel,4,23.32,8.48,15,Concluído,Todos,Unico,2025-11-06 13:15:42
+573,2024-10-20 22:39:28,Fantasia de vampiro,Fantasia,Web,Curitiba,3,125,68,0,Concluído,Adulto,G,2024-10-25 22:39:28
+145,2024-10-03 21:25:33,Fantasia de bruxa,Fantasia,Web,Londrina,1,110,57,5,Concluído,Adulto,M,2024-10-05 21:25:33
+1020,2025-09-30 21:27:02,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-02 21:27:02
+324,2024-08-23 09:23:15,Chapeu de bruxa,  ACESSORIO!!!  ,Loja física,Cascavel,1,22,8,10,Concluído,Todos,Unico,2024-08-29 09:23:15
+371,2024-11-03 13:02:39,Mascara assustadora,Acessorio,Loja física,Londrina,1,35,12,0,Concluído,Todos,Unico,2024-11-06 13:02:39
+899,2025-09-13 21:20:29,Fantasia de bruxa,Fantasia,Web,Curitiba,3,116.6,60.42,0,Devolvido,Adulto,M,2025-09-19 21:20:29
+89,2024-10-01 17:34:23,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,110,57,0,Concluído,Adulto,M,2024-10-07 17:34:23
+1172,2025-11-03 14:57:45,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,23.32,8.48,10,Concluído,Todos,Unico,2025-11-07 14:57:45
+241,2024-10-08 22:42:59,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,0,Concluído,Infantil,M,2024-10-11 22:42:59
+218,2024-08-25 16:27:03,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-08-30 16:27:03
+423,2024-10-26 14:08:24,Fantasia de abobora,Fantasia,Loja física,Maringá,3,85,44,0,Concluído,Infantil,P,2024-10-31 14:08:24
+1013,2025-09-07 21:09:48,Chapeu de bruxa,Acessorio,Web,Maringá,1,23.32,8.48,5,Concluído,Todos,Unico,2025-09-12 21:09:48
+415,2024-11-11 13:57:50,Chapeu de bruxa,Acessorio,Loja física,Maringá,2,22,8,0,Concluído,Todos,Unico,2024-11-13 13:57:50
+1492,2025-10-31 18:16:04,Fantasia de bruxa,Fantasia,Web,Cascavel,1,116.6,60.42,0,Cancelado,Adulto,M,
+8,2024-10-03 20:52:45,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,0,Concluído,Adulto,G,2024-10-08 20:52:45
+657,2024-09-25 18:24:23,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,110,57,5,Concluído,Adulto,M,2024-09-29 18:24:23
+937,2025-10-13 18:58:01,Chapeu de bruxa,Acessorio,Web,Maringá,2,23.32,8.48,5,Concluído,Todos,Unico,2025-10-17 18:58:01
+1213,2025-09-16 11:56:59,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,0,Concluído,Infantil,P,2025-09-21 11:56:59
+152,2024-10-28 19:56:49,Fantasia de vampiro, Fantasia ,Web,Curitiba,2,125,68,0,Concluído,Adulto,G,2024-11-01 19:56:49
+698,2024-08-28 19:32:04,Mascara assustadora,Acessorio,Web,Curitiba,2,35,12,5,Concluído,Todos,Unico,2024-09-02 19:32:04
+1465,2025-11-04 19:17:03,Mascara assustadora,Acessorio,Mercado,Londrina,6,37.1,12.72,10,Concluído,Todos,Unico,2025-11-06 19:17:03
+1205,2025-09-28 20:32:49,Mascara assustadora,Acessorio,Web,Cascavel,3,37.1,12.72,0,Concluído,Todos,Unico,2025-09-30 20:32:49
+1209,2025-10-11 15:57:14,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 15:57:14
+118,2024-10-08 18:48:55,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,10,Cancelado,Adulto,G,
+583,2024-09-24 19:38:09,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,10,Concluído,Todos,Unico,2024-09-29 19:38:09
+555,2024-09-02 20:48:02,Fantasia de abobora,Fantasia,Web,Londrina,3,85,44,0,Concluído,Infantil,P,2024-09-04 20:48:02
+410,2024-10-11 21:57:14,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,10,Concluído,Adulto,G,2024-10-13 21:57:14
+541,2024-11-01 17:30:05,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,0,Concluído,Infantil,M,2024-11-04 17:30:05
+274,2024-11-11 11:52:56,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,110,57,15,Concluído,Adulto,M,2024-11-17 11:52:56
+400,2024-10-06 13:18:46,Chapeu de bruxa,,Mercado,Londrina,5,22,8,5,Concluído,Todos,Unico,2024-10-08 13:18:46
+1374,2025-10-11 15:10:55,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-17 15:10:55
+1337,2025-10-21 16:44:05,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-25 16:44:05
+520,2024-11-04 15:39:17,Chapeu de bruxa,Acessorio,Mercado,Curitiba,6,22,8,0,Concluído,Todos,Unico,2024-11-06 15:39:17
+1488,2025-09-22 22:55:35,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,10,Concluído,Adulto,G,2025-09-27 22:55:35
+595,2024-11-03 13:43:20,Fantasia de bruxa,Fantasia,Mercado,Londrina,3,110,57,25,Concluído,Adulto,M,2024-11-05 13:43:20
+1105,2025-10-20 19:00:22,Fantasia de fantasma,Fantasia,Web,Maringá,1,79.5,41.34,10,Concluído,Infantil,M,2025-10-22 19:00:22
+912,2025-10-11 10:45:32,Mascara assustadora, Acessorio ,Mercado,Cascavel,4,37.1,12.72,0,Concluído,Todos,Unico,2025-10-15 10:45:32
+982,2025-08-06 22:10:53,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-08-10 22:10:53
+788,2025-10-18 20:58:37,Fantasia de abobora,Fantasia,Web,Curitiba,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-23 20:58:37
+185,2024-10-18 14:19:30,Fantasia de abobora,Fantasia,Loja física,Londrina,3,85,44,0,Concluído,Infantil,P,2024-10-20 14:19:30
+402,2024-10-31 12:00:33,Fantasia de abobora,Fantasia,Mercado,Maringá,6,85,44,0,Concluído,Infantil,P,2024-11-04 12:00:33
+1276,2025-11-02 17:36:54,Fantasia de vampiro,Fantasia,Loja física,Londrina,3,132.5,72.08,25,Concluído,Adulto,G,2025-11-05 17:36:54
+1370,2025-10-28 22:59:26,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-30 22:59:26
+777,2025-11-30 09:12:44,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,132.5,72.08,20,Concluído,Adulto,G,2025-12-04 09:12:44
+253,2024-08-17 11:42:38,Mascara assustadora,Acessorio,Loja física,Curitiba,3,35,12,0,Cancelado,Todos,Unico,
+626,2024-10-27 12:23:03,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-10-30 12:23:03
+257,2024-11-15 15:43:43,Mascara assustadora,Acessorio,Loja física,Londrina,3,35,12,20,Concluído,Todos,Unico,2024-11-19 15:43:43
+1433,2025-10-26 14:14:22,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,5,Concluído,Adulto,G,2025-10-31 14:14:22
+758,2025-10-18 19:50:49,Fantasia de bruxa,Fantasia,Web,Londrina,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-23 19:50:49
+209,2024-10-16 19:10:33,Fantasia de fantasma, Fantasia ,Mercado,Curitiba,4,75,39,0,Concluído,Infantil,M,2024-10-22 19:10:33
+1082,2025-10-30 21:36:40,Fantasia de bruxa,Fantasia,Web,Maringá,3,116.6,60.42,0,Concluído,Adulto,M,2025-11-03 21:36:40
+120,2024-10-24 09:07:00,Chapeu de bruxa,Acessorio,Mercado,Maringá,7,22,8,10,Concluído,Todos,Unico,2024-10-26 09:07:00
+1256,2025-09-20 11:09:11,Fantasia de vampiro,Fantasia,Mercado,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-09-23 11:09:11
+1054,2025-10-02 22:21:53,Mascara assustadora,Acessorio,Web,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-08 22:21:53
+194,2024-10-16 09:18:40,Chapeu de bruxa,Acessorio,Mercado,Maringá,5,22,8,10,Concluído,Todos,Unico,2024-10-22 09:18:40
+251,2024-10-17 19:43:56,Fantasia de abobora,Fantasia,Web,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-20 19:43:56
+192,2024-10-19 21:07:43,Fantasia de fantasma,Fantasia,Web,Maringá,1,75,39,5,Concluído,Infantil,M,2024-10-23 21:07:43
+615,2024-10-08 22:48:55,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-10 22:48:55
+1139,2025-08-14 19:09:26,Mascara assustadora,Acessorio,Web,Londrina,1,37.1,12.72,0,Concluído,Todos,Unico,2025-08-20 19:09:26
+187,2024-10-06 19:41:04,Mascara assustadora,Acessorio,Web,Curitiba,2,35,12,5,Concluído,Todos,Unico,2024-10-10 19:41:04
+774,2025-11-07 21:20:57,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Cancelado,Infantil,P,
+293,2024-10-17 22:50:38,Fantasia de vampiro,Fantasia,Web,Maringá,3,125,68,10,Cancelado,Adulto,G,
+34,2024-09-03 21:04:44,Fantasia de bruxa,Fantasia,Web,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-09-09 21:04:44
+399,2024-11-04 22:17:39,Fantasia de vampiro, Fantasia ,Web,Cascavel,1,125,68,10,Concluído,Adulto,G,2024-11-10 22:17:39
+428,2024-10-30 14:17:35,Fantasia de abobora,Fantasia,Loja física,Londrina,1,85,44,0,Concluído,Infantil,P,2024-11-04 14:17:35
+1268,2025-10-09 19:38:45,Chapeu de bruxa,Acessorio,Web,Maringá,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-14 19:38:45
+398,2024-11-15 16:32:13,Chapeu de bruxa,Acessorio,Mercado,Curitiba,3,22,8,0,Concluído,Todos,Unico,2024-11-20 16:32:13
+341,2024-11-12 19:27:46,Mascara assustadora,Acessorio,Web,Londrina,2,35,12,10,Concluído,Todos,Unico,2024-11-15 19:27:46
+986,2025-10-08 19:00:34,Mascara assustadora,Acessorio,Loja física,Curitiba,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-11 19:00:34
+1157,2025-10-20 18:52:55,Chapeu de bruxa,Acessorio,Mercado,Maringá,7,23.32,8.48,10,Concluído,Todos,Unico,2025-10-24 18:52:55
+105,2024-10-22 20:12:47,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Concluído,Infantil,M,2024-10-24 20:12:47
+345,2024-10-30 13:49:19,Fantasia de vampiro,Fantasia,Loja física,Cascavel,3,125,68,0,Concluído,Adulto,G,2024-11-01 13:49:19
+552,2024-10-09 21:07:17,Fantasia de fantasma,Fantasia,Web,Maringá,3,75,39,0,Concluído,Infantil,M,2024-10-13 21:07:17
+753,2025-11-09 12:35:06,Chapeu de bruxa,Acessorio,Mercado,Cascavel,7,23.32,8.48,0,Concluído,Todos,Unico,2025-11-14 12:35:06
+392,2024-09-08 11:53:28,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,75,39,5,Concluído,Infantil,M,2024-09-12 11:53:28
+946,2025-09-23 20:13:25,Fantasia de fantasma,Fantasia,Web,Curitiba,1,79.5,41.34,0,Concluído,Infantil,M,2025-09-26 20:13:25
+545,2024-10-18 21:42:17,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,10,Concluído,Infantil,M,2024-10-20 21:42:17
+604,2024-10-25 19:14:58,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,125,68,5,Concluído,Adulto,G,2024-10-31 19:14:58
+985,2025-10-08 22:55:07,Fantasia de fantasma,Fantasia,Web,Curitiba,3,79.5,41.34,5,Concluído,Infantil,M,2025-10-10 22:55:07
+1418,2025-11-11 14:07:12,Fantasia de fantasma,Fantasia,Loja física,Cascavel,2,79.5,41.34,15,Concluído,Infantil,M,2025-11-16 14:07:12
+1327,2025-09-19 15:09:47,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,0,Concluído,Adulto,G,2025-09-23 15:09:47
+1201,2025-10-20 22:35:30,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-23 22:35:30
+311,2024-10-26 13:51:47,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,85,44,0,Concluído,Infantil,P,2024-10-29 13:51:47
+1178,2025-10-22 12:29:07,Fantasia de abobora, Fantasia ,Loja física,Curitiba,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-27 12:29:07
+795,2025-11-14 15:22:21,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,23.32,8.48,0,Concluído,Todos,Unico,2025-11-16 15:22:21
+1452,2025-11-05 22:22:06,Fantasia de abobora,Fantasia, web ,Londrina,2,90.1,46.64,20,Concluído,Infantil,P,2025-11-09 22:22:06
+487,2024-10-24 17:54:46,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,125,68,0,Concluído,Adulto,G,2024-10-28 17:54:46
+240,2024-08-03 12:40:11,Chapeu de bruxa,,Loja física,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-08-05 12:40:11
+310,2024-09-30 19:20:05,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,0,Concluído,Todos,Unico,2024-10-02 19:20:05
+1076,2025-10-06 20:56:56,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-09 20:56:56
+1024,2025-10-04 18:07:32,Fantasia de fantasma,Fantasia,Web,Curitiba,3,79.5,41.34,10,Concluído,Infantil,M,2025-10-10 18:07:32
+1270,2025-08-19 11:48:08,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,116.6,60.42,10,Concluído,Adulto,M,2025-08-21 11:48:08
+1162,2025-10-16 13:04:48,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-20 13:04:48
+1214,2025-10-26 18:45:34,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Devolvido,Adulto,G,2025-11-01 18:45:34
+875,2025-11-03 19:41:04,Chapeu de bruxa,Acessorio,Mercado,Curitiba,6,,8.48,10,Cancelado,Todos,Unico,
+390,2024-11-05 22:09:48,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-11-07 22:09:48
+387,2024-11-12 15:38:55,Fantasia de abobora,Fantasia,Loja física,Cascavel,2,85,44,25,Cancelado,Infantil,P,
+934,2025-10-25 10:26:49,Mascara assustadora,Acessorio,Loja física,Maringá,3,37.1,12.72,0,Concluído,Todos,Unico,2025-10-31 10:26:49
+1416,2025-10-15 19:28:01,Fantasia de fantasma,Fantasia,Web,Cascavel,3,79.5,41.34,10,Concluído,Infantil,M,2025-10-18 19:28:01
+303,2024-10-07 17:10:12,Fantasia de fantasma,Fantasia,Mercado,Londrina,2,75,39,10,Concluído,Infantil,M,2024-10-12 17:10:12
+357,2024-10-16 19:28:10,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-10-20 19:28:10
+1421,2025-11-05 18:29:29,Fantasia de vampiro,Fantasia,Web,Cascavel,2,132.5,72.08,20,Concluído,Adulto,G,2025-11-08 18:29:29
+1191,2025-10-21 19:20:04,Fantasia de vampiro,Fantasia,Web,Maringá,1,132.5,72.08,10,Concluído,Adulto,G,2025-10-24 19:20:04
+802,2025-10-29 11:20:44,Fantasia de abobora,Fantasia,Mercado,Maringá,2,90.1,46.64,10,Concluído,Infantil,P,2025-11-02 11:20:44
+1315,2025-10-21 09:16:58,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-23 09:16:58
+1455,2025-10-15 20:51:11,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-17 20:51:11
+830,2025-10-15 11:13:23,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-17 11:13:23
+328,2024-09-14 15:22:27,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,22,8,5,Concluído,Todos,Unico,2024-09-19 15:22:27
+101,2024-10-16 18:10:55,Fantasia de bruxa,Fantasia,Web,Cascavel,3,110,57,10,Concluído,Adulto,M,2024-10-19 18:10:55
+431,2024-10-16 21:30:53,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,10,Concluído,Adulto,G,2024-10-19 21:30:53
+488,2024-10-12 20:38:51,Fantasia de fantasma,Fantasia,Web,Londrina,3,75,39,10,Concluído,Infantil,M,2024-10-17 20:38:51
+1355,2025-09-12 21:18:32,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,5,Concluído,Infantil,P,2025-09-14 21:18:32
+624,2024-09-26 21:33:50,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,5,Concluído,Adulto,M,2024-10-02 21:33:50
+20,2024-08-30 21:50:15,Mascara assustadora,Acessorio,Web,Londrina,3,35,12,0,Concluído,Todos,Unico,2024-09-01 21:50:15
+77,2024-10-27 22:49:18,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,5,Concluído,Adulto,G,2024-10-31 22:49:18
+207,2024-10-09 09:34:35,Chapeu de bruxa,Acessorio,Mercado,Londrina,7,22,8,0,Concluído,Todos,Unico,2024-10-13 09:34:35
+344,2024-10-04 22:58:08,Fantasia de vampiro,Fantasia,Web,Londrina,3,125,68,5,Concluído,Adulto,G,2024-10-10 22:58:08
+169,2024-11-14 16:43:31,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,110,57,20,Concluído,Adulto,M,2024-11-20 16:43:31
+111,2024-10-31 09:20:23,Chapeu de bruxa,Acessorio,Mercado,Cascavel,3,22,8,10,Concluído,Todos,Unico,2024-11-03 09:20:23
+143,2024-10-11 19:20:31,Chapeu de bruxa,Acessorio,Web,Curitiba,1,22,8,0,Devolvido,Todos,Unico,2024-10-16 19:20:31
+750,2024-10-28 09:26:11,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,,44,0,Concluído,Infantil,P,2024-10-30 09:26:11
+716,2024-10-18 22:30:30,Fantasia de bruxa,Fantasia,Web,Curitiba,2,110,57,0,Concluído,Adulto,M,2024-10-21 22:30:30
+1085,2025-10-20 21:40:52,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-22 21:40:52
+818,2025-10-31 14:05:01,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,10,Concluído,Adulto,G,2025-11-05 14:05:01
+638,2024-08-10 19:39:33,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,0,Concluído,Adulto,G,2024-08-15 19:39:33
+263,2024-09-11 12:43:59,Chapeu de bruxa,Acessorio,Loja física,Cascavel,2,22,8,0,Concluído,Todos,Unico,2024-09-16 12:43:59
+153,2024-10-13 22:09:49,Mascara assustadora,Acessorio,Web,Curitiba,1,35,12,0,Concluído,Todos,Unico,2024-10-18 22:09:49
+826,2025-11-05 12:43:56,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,20,Concluído,Adulto,M,2025-11-08 12:43:56
+1183,2025-08-27 16:44:07,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,2025-09-01 16:44:07
+366,2024-09-22 19:19:06,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,0,Concluído,Adulto,G,2024-09-25 19:19:06
+1233,2025-10-28 18:56:26,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,79.5,41.34,10,Concluído,Infantil,M,2025-11-02 18:56:26
+1357,2025-11-03 15:29:02,Chapeu de bruxa,Acessorio,Mercado,Londrina,6,23.32,8.48,0,Concluído,Todos,Unico,2025-11-07 15:29:02
+1389,2025-10-04 19:29:33,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-10-10 19:29:33
+898,2025-11-30 19:04:08,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,25,Concluído,Adulto,G,2025-12-05 19:04:08
+978,2025-08-15 17:14:17,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,0,Devolvido,Todos,Unico,2025-08-20 17:14:17
+585,2024-08-17 11:04:38,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,125,68,5,Concluído,Adulto,G,
+769,2025-10-10 12:49:40,Fantasia de vampiro,Fantasia,Mercado,Cascavel,6,132.5,72.08,0,Concluído,Adulto,G,2025-10-16 12:49:40
+40,2024-11-13 11:50:33,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,125,68,15,Concluído,Adulto,G,2024-11-15 11:50:33
+822,2025-10-16 18:49:20,Fantasia de fantasma,Fantasia,Web,Maringá,1,79.5,41.34,10,Concluído,Infantil,M,2025-10-20 18:49:20
+302,2024-10-30 11:16:13,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,75,39,5,Concluído,Infantil,M,2024-11-03 11:16:13
+65,2024-10-26 10:16:39,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,0,Concluído,Adulto,M,2024-10-28 10:16:39
+1025,2025-10-10 20:06:02,Mascara assustadora,Acessorio,Web,Cascavel,1,37.1,12.72,0,Devolvido,Todos,Unico,2025-10-12 20:06:02
+42,2024-10-19 14:13:43,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,0,Concluído,Adulto,M,2024-10-23 14:13:43
+1195,2025-10-14 19:17:58,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-16 19:17:58
+598,2024-10-11 10:42:22,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-16 10:42:22
+441,2024-09-30 20:53:40,Fantasia de vampiro,Fantasia,Web,Curitiba,2,125,68,10,Concluído,Adulto,G,2024-10-03 20:53:40
+511,2024-10-24 09:48:19,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,85,44,0,Concluído,Infantil,P,2024-10-27 09:48:19
+1103,2025-10-13 20:01:17,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Cancelado,Adulto,G,
+1290,2025-10-27 10:17:45,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-29 10:17:45
+905,2025-10-14 21:16:43,Fantasia de abobora,Fantasia,Web,Londrina,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-16 21:16:43
+785,2025-10-23 09:39:27,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,79.5,41.34,5,Concluído,Infantil,M,2025-10-25 09:39:27
+532,2024-11-17 09:41:27,Fantasia de fantasma, Fantasia ,Loja física,Cascavel,1,75,39,0,Concluído,Infantil,M,2024-11-21 09:41:27
+394,2024-08-09 18:51:23,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,5,Concluído,Adulto,M,2024-08-15 18:51:23
+794,2025-10-07 18:54:48,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-13 18:54:48
+210,2024-11-06 11:44:46,Fantasia de vampiro,Fantasia,Loja física,Curitiba,-1,125,68,25,Concluído,Adulto,G,2024-11-08 11:44:46
+565,2024-09-22 20:44:26,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,0,Concluído,Infantil,P,2024-09-24 20:44:26
+1496,2025-10-17 20:01:44,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,10,Concluído,Adulto,G,2025-10-20 20:01:44
+288,2024-10-24 21:16:34,Chapeu de bruxa,Acessorio,Web,Cascavel,1,22,8,0,Concluído,Todos,Unico,2024-10-29 21:16:34
+658,2024-10-03 22:47:21,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,0,Concluído,Infantil,P,2024-10-08 22:47:21
+950,2025-09-16 22:45:41,Fantasia de vampiro, Fantasia ,Web,Curitiba,2,132.5,,10,Devolvido,Adulto,G,2025-09-18 22:45:41
+1289,2025-09-21 19:10:50,Mascara assustadora,Acessorio,Loja física,Londrina,2,37.1,12.72,0,Cancelado,Todos,Unico,
+1272,2025-10-13 21:24:33,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-17 21:24:33
+312,2024-10-21 19:34:38,Fantasia de bruxa,Fantasia,Web,Londrina,1,110,57,10,Concluído,Adulto,M,2024-10-25 19:34:38
+1102,2025-08-27 21:20:44,Chapeu de bruxa, Acessorio ,Web,Cascavel,3,23.32,8.48,10,Concluído,Todos,Unico,2025-08-31 21:20:44
+1012,2025-10-03 19:30:10,Fantasia de bruxa,Fantasia,Web,Londrina,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-07 19:30:10
+1079,2025-09-08 22:47:31,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-09-14 22:47:31
+1131,2025-11-09 10:23:06,Mascara assustadora,Acessorio,Loja física,Cascavel,1,37.1,12.72,0,Concluído,Todos,Unico,2025-11-12 10:23:06
+1239,2025-10-12 12:45:03,Mascara assustadora,Acessorio,Mercado,Londrina,6,37.1,12.72,0,Concluído,Todos,Unico,2025-10-18 12:45:03
+1363,2025-10-26 22:42:15,Mascara assustadora,Acessorio,Web,Curitiba,1,37.1,12.72,10,Concluído,Todos,Unico,2025-10-31 22:42:15
+305,2024-10-13 19:25:12,Fantasia de vampiro,Fantasia,Web,Maringá,1,125,68,10,Concluído,Adulto,G,2024-10-15 19:25:12
+1070,2025-10-01 20:56:39,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-03 20:56:39
+1450,2025-11-18 20:46:37,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,10,Cancelado,Adulto,G,
+1069,2025-10-16 18:39:19,Chapeu de bruxa,Acessorio,Web,Cascavel,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-22 18:39:19
+923,2025-11-02 11:25:50,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,90.1,46.64,25,Concluído,Infantil,P,2025-11-07 11:25:50
+761,2025-09-19 10:13:54,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,116.6,60.42,0,Concluído,Adulto,M,2025-09-22 10:13:54
+304,2024-09-30 18:47:28,Fantasia de abobora, Fantasia ,Loja física,Londrina,1,85,44,0,Concluído,Infantil,P,2024-10-06 18:47:28
+948,2025-10-13 19:10:24,Chapeu de bruxa,Acessorio,Web,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-18 19:10:24
+988,2025-11-03 12:36:54,Fantasia de fantasma, Fantasia ,Mercado,Londrina,3,79.5,41.34,10,Concluído,Infantil,M,2025-11-08 12:36:54
+1027,2025-09-26 13:26:49,Fantasia de abobora,Fantasia,Mercado,Cascavel,7,90.1,46.64,0,Concluído,Infantil,P,2025-09-30 13:26:49
+155,2024-10-20 22:04:12,Fantasia de fantasma,Fantasia,Web,Cascavel,2,75,39,10,Concluído,Infantil,M,2024-10-22 22:04:12
+1358,2025-11-25 21:04:40,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,15,Concluído,Adulto,G,2025-11-30 21:04:40
+1142,2025-10-06 20:07:15,Fantasia de fantasma,Fantasia,Web,Cascavel,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-10 20:07:15
+211,2024-10-16 16:25:38,Fantasia de fantasma,Fantasia,Mercado,Londrina,3,75,39,10,Concluído,Infantil,M,2024-10-19 16:25:38
+1426,2025-10-14 14:20:08,Fantasia de vampiro,Fantasia,Loja física,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-17 14:20:08
+667,2024-10-18 16:00:30,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,22,8,0,Concluído,Todos,Unico,2024-10-22 16:00:30
+1089,2025-10-31 17:16:23,Fantasia de fantasma,Fantasia, loja física ,Curitiba,3,79.5,41.34,0,Concluído,Infantil,M,2025-11-06 17:16:23
+1128,2025-08-19 11:52:22,Mascara assustadora,Acessorio,Mercado,Maringá,7,37.1,12.72,0,Concluído,Todos,Unico,2025-08-24 11:52:22
+915,2025-10-13 22:42:53,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Cancelado,Adulto,G,
+1038,2025-10-08 18:16:12,Fantasia de abobora,Fantasia,Web,Londrina,2,90.1,46.64,0,Cancelado,Infantil,P,
+1449,2025-09-30 21:40:24,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,10,Concluído,Infantil,P,2025-10-06 21:40:24
+779,2025-11-05 20:10:09,Fantasia de bruxa, Fantasia ,Web,Londrina,1,116.6,60.42,15,Cancelado,Adulto,M,
+38,2024-09-21 20:47:45,Fantasia de vampiro, Fantasia ,Web,Curitiba,3,125,68,0,Concluído,Adulto,G,2024-09-26 20:47:45
+230,2024-08-08 19:04:50,Fantasia de abobora,Fantasia,Web,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-08-10 19:04:50
+1017,2025-10-07 21:29:25,Fantasia de fantasma,Fantasia,Web,Maringá,3,79.5,41.34,0,Cancelado,Infantil,M,
+702,2024-11-02 13:09:28,Fantasia de bruxa,  FANTASIA!!!  ,Mercado,Curitiba,4,110,57,20,Concluído,Adulto,M,2024-11-06 13:09:28
+560,2024-10-18 12:39:53,Chapeu de bruxa,,Loja física,Curitiba,1,22,8,0,Concluído,Todos,Unico,2024-10-20 12:39:53
+90,2024-09-24 20:14:04,Fantasia de bruxa,Fantasia,Web,Londrina,2,110,57,5,Concluído,Adulto,M,
+109,2024-10-25 19:05:41,Mascara assustadora,Acessorio,Mercado,Cascavel,6,35,12,0,Concluído,Todos,Unico,2024-10-31 19:05:41
+214,2024-11-08 18:56:01,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,22,8,15,Concluído,Todos,Unico,2024-11-14 18:56:01
+803,2025-11-06 12:41:29,Fantasia de fantasma,Fantasia,Loja física,Londrina,2,79.5,41.34,25,Concluído,Infantil,M,2025-11-11 12:41:29
+783,2025-08-25 11:59:02,Mascara assustadora,  ACESSORIO!!!  ,Mercado,Curitiba,5,37.1,12.72,10,Concluído,Todos,Unico,2025-08-30 11:59:02
+92,2024-10-16 19:10:07,Fantasia de bruxa,Fantasia,Web,Maringá,3,110,57,0,Cancelado,Adulto,M,
+1031,2025-11-20 13:52:40,Fantasia de fantasma,Fantasia,Loja física,Londrina,2,79.5,41.34,20,Concluído,Infantil,M,2025-11-23 13:52:40
+695,2024-10-17 15:27:22,Fantasia de abobora,Fantasia,Loja física,Maringá,3,85,44,0,Concluído,Infantil,P,2024-10-19 15:27:22
+252,2024-10-23 17:28:58,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,5,Concluído,Todos,Unico,2024-10-27 17:28:58
+833,2025-10-08 11:58:42,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-13 11:58:42
+956,2025-09-02 15:53:05,Fantasia de vampiro,Fantasia,Mercado,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-09-05 15:53:05
+1081,2025-10-26 22:20:08,Fantasia de vampiro,Fantasia,Web,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-29 22:20:08
+32,2024-09-08 15:05:50,Mascara assustadora,Acessorio,Mercado,Maringá,5,35,12,10,Concluído,Todos,Unico,2024-09-12 15:05:50
+881,2025-10-22 15:52:01,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,79.5,41.34,10,Cancelado,Infantil,M,
+1223,2025-09-05 21:31:06,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,0,Cancelado,Adulto,M,
+1481,2025-11-26 18:35:00,Fantasia de abobora,Fantasia,Web,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-11-29 18:35:00
+884,2025-11-05 14:13:25,Fantasia de vampiro,Fantasia,Loja física,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-11-11 14:13:25
+943,2025-11-04 10:04:27,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,23.32,8.48,10,Concluído,Todos,Unico,2025-11-09 10:04:27
+1098,2025-10-18 19:32:18,Mascara assustadora,Acessorio,Mercado,Londrina,2,37.1,12.72,10,Concluído,Todos,Unico,2025-10-23 19:32:18
+617,2024-10-11 20:46:53,Fantasia de fantasma,Fantasia,Web,Maringá,3,75,39,0,Concluído,Infantil,M,2024-10-15 20:46:53
+232,2024-08-19 12:13:06,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,0,Concluído,Todos,Unico,2024-08-23 12:13:06
+940,2025-08-11 12:35:36,Fantasia de fantasma,Fantasia,Mercado,Maringá,6,79.5,41.34,0,Concluído,Infantil,M,2025-08-13 12:35:36
+936,2025-09-22 21:29:57,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-09-25 21:29:57
+897,2025-10-12 18:33:06,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-16 18:33:06
+485,2024-09-20 13:15:31,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,0,Concluído,Todos,Unico,2024-09-22 13:15:31
+132,2024-10-03 19:22:15,Chapeu de bruxa,Acessorio, loja física ,Londrina,3,22,8,0,Concluído,Todos,Unico,2024-10-07 19:22:15
+1021,2025-11-02 09:57:47,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,20,Concluído,Adulto,G,2025-11-05 09:57:47
+296,2024-09-17 19:46:45,Fantasia de bruxa,Fantasia,Web,Cascavel,1,110,57,5,Concluído,Adulto,M,2024-09-20 19:46:45
+546,2024-10-17 14:26:28,Fantasia de abobora,Fantasia,Loja física,Cascavel,3,85,44,5,Concluído,Infantil,P,2024-10-20 14:26:28
+916,2025-10-27 13:53:12,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-30 13:53:12
+568,2024-09-03 19:10:12,Chapeu de bruxa,Acessorio,Mercado,Cascavel,4,22,8,0,Concluído,Todos,Unico,2024-09-08 19:10:12
+427,2024-10-21 20:05:20,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Concluído,Infantil,M,2024-10-25 20:05:20
+900,2025-10-18 19:55:27,Chapeu de bruxa,Acessorio,Mercado,Londrina,4,23.32,8.48,0,Concluído,Todos,Unico,
+725,2024-11-10 21:56:56,Fantasia de abobora,Fantasia,Web,Cascavel,3,85,44,25,Cancelado,Infantil,P,
+535,2024-10-28 11:30:22,Fantasia de vampiro,Fantasia,Loja física,Maringá,1,125,68,0,Concluído,Adulto,G,2024-10-30 11:30:22
+1068,2025-10-10 16:22:17,Chapeu de bruxa,Acessorio,Mercado,Cascavel,7,23.32,8.48,0,Concluído,Todos,Unico,2025-10-15 16:22:17
+1292,2025-10-20 10:17:22,Chapeu de bruxa, Acessorio ,Mercado,Cascavel,4,23.32,8.48,0,Concluído,Todos,Unico,2025-10-24 10:17:22
+249,2024-10-17 09:07:06,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,75,39,5,Concluído,Infantil,M,2024-10-23 09:07:06
+529,2024-10-01 18:21:48,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,10,Cancelado,Adulto,M,
+1222,2025-10-31 19:30:29,Fantasia de abobora,Fantasia,Web,Maringá,3,90.1,46.64,5,Concluído,Infantil,P,2025-11-04 19:30:29
+1400,2025-10-07 10:34:01,Chapeu de bruxa,Acessorio,Mercado,Cascavel,4,23.32,8.48,5,Concluído,Todos,Unico,2025-10-09 10:34:01
+708,2024-11-16 10:17:37,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,15,Concluído,Todos,Unico,2024-11-21 10:17:37
+1035,2025-10-09 18:07:09,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,0,Concluído,Todos,Unico,
+628,2024-11-01 09:16:10,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,125,68,15,Concluído,Adulto,G,2024-11-06 09:16:10
+1424,2025-10-31 18:31:13,Fantasia de fantasma,Fantasia,Loja física,Londrina,1,79.5,41.34,5,Concluído,Infantil,M,2025-11-06 18:31:13
+98,2024-10-13 18:26:42,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-10-18 18:26:42
+66,2024-11-23 19:37:08,Fantasia de abobora,Fantasia, web ,Maringá,2,85,44,20,Concluído,Infantil,P,2024-11-26 19:37:08
+220,2024-09-25 09:27:11,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,110,57,0,Cancelado,Adulto,M,
+477,2024-10-31 13:46:30,Mascara assustadora,Acessorio,Loja física,Cascavel,1,35,12,5,Concluído,Todos,Unico,2024-11-04 13:46:30
+190,2024-10-15 19:59:52,Fantasia de abobora, Fantasia ,Web,Maringá,1,85,,5,Concluído,Infantil,P,2024-10-17 19:59:52
+21,2024-11-12 22:41:30,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,25,Concluído,Todos,Unico,2024-11-15 22:41:30
+908,2025-10-29 13:56:12,Fantasia de fantasma,Fantasia,Mercado,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-11-03 13:56:12
+1114,2025-11-20 18:20:48,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,23.32,8.48,10,Concluído,Todos,Unico,2025-11-26 18:20:48
+873,2025-10-22 22:00:21,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,10,Concluído,Infantil,P,2025-10-27 22:00:21
+921,2025-11-16 16:03:23,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,23.32,8.48,25,Concluído,Todos,Unico,2025-11-19 16:03:23
+724,2024-10-20 17:52:34,Mascara assustadora,Acessorio,Loja física,Londrina,1,35,12,0,Concluído,Todos,Unico,2024-10-26 17:52:34
+96,2024-09-20 22:14:01,Fantasia de vampiro,Fantasia,Web,Maringá,1,125,68,10,Concluído,Adulto,G,2024-09-23 22:14:01
+784,2025-11-20 21:09:33,Chapeu de bruxa,Acessorio,Web,Londrina,1,23.32,8.48,15,Concluído,Todos,Unico,2025-11-26 21:09:33
+1464,2025-11-16 20:54:48,Fantasia de bruxa,Fantasia,Web,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-11-22 20:54:48
+526,2024-10-01 18:22:20,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,5,Concluído,Adulto,M,2024-10-04 18:22:20
+989,2025-10-01 18:00:26,Fantasia de fantasma,Fantasia,Web,Curitiba,1,79.5,41.34,5,Concluído,Infantil,M,2025-10-07 18:00:26
+650,2024-11-19 17:57:59,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,20,Concluído,Todos,Unico,2024-11-21 17:57:59
+1152,2025-10-10 12:51:11,Fantasia de fantasma,Fantasia,Loja física,Curitiba,3,79.5,41.34,10,Cancelado,Infantil,M,
+1303,2025-10-20 18:39:18,Fantasia de vampiro,Fantasia,Loja física,Cascavel,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-25 18:39:18
+944,2025-10-19 20:56:32,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,10,Concluído,Infantil,M,2025-10-25 20:56:32
+548,2024-11-02 17:26:02,Mascara assustadora,Acessorio,Mercado,Londrina,6,35,12,0,Concluído,Todos,Unico,2024-11-07 17:26:02
+1180,2025-10-19 19:31:34,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Devolvido,Infantil,P,2025-10-21 19:31:34
+1160,2025-10-07 14:18:11,Chapeu de bruxa,Acessorio,Mercado,Curitiba,4,23.32,8.48,0,Concluído,Todos,Unico,2025-10-09 14:18:11
+150,2024-10-03 19:18:51,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,0,Concluído,Adulto,G,2024-10-05 19:18:51
+86,2024-10-17 22:39:58,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-10-20 22:39:58
+798,2025-08-07 19:39:50,Fantasia de vampiro, Fantasia ,Loja física,Curitiba,2,132.5,72.08,0,Concluído,Adulto,G,2025-08-12 19:39:50
+1099,2025-11-04 16:10:12,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-11-10 16:10:12
+1262,2025-10-27 18:00:30,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Concluído,Adulto,G,2025-10-31 18:00:30
+334,2024-10-24 13:43:49,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,75,39,0,Concluído,Infantil,M,2024-10-30 13:43:49
+1093,2025-09-30 09:30:38,Fantasia de abobora,Fantasia,Loja física,Londrina,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-05 09:30:38
+457,2024-09-19 22:00:32,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Concluído,Adulto,M,2024-09-23 22:00:32
+336,2024-10-20 18:50:44,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Concluído,Adulto,M,2024-10-23 18:50:44
+894,2025-08-23 20:29:55,Fantasia de vampiro,Fantasia,Web,Londrina,2,132.5,72.08,0,Concluído,Adulto,G,2025-08-29 20:29:55
+403,2024-10-08 19:02:04,Fantasia de abobora,Fantasia,Web,Maringá,2,85,44,0,Concluído,Infantil,P,2024-10-13 19:02:04
+751,2025-10-24 17:51:49,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-27 17:51:49
+1140,2025-11-15 10:44:59,Fantasia de vampiro, Fantasia ,Loja física,Cascavel,3,132.5,,0,Concluído,Adulto,G,2025-11-17 10:44:59
+763,2025-08-04 16:12:22,Mascara assustadora,Acessorio,Mercado,Maringá,3,37.1,12.72,5,Concluído,Todos,Unico,2025-08-09 16:12:22
+1112,2025-10-13 21:00:24,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,10,Concluído,Adulto,M,2025-10-17 21:00:24
+225,2024-09-16 17:12:35,Fantasia de bruxa,Fantasia,Loja física,Londrina,1,110,57,0,Concluído,Adulto,M,
+3,2024-10-09 20:40:30,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-10-14 20:40:30
+566,2024-11-08 18:17:18,Chapeu de bruxa,Acessorio,Web,Curitiba,3,22,8,20,Concluído,Todos,Unico,2024-11-11 18:17:18
+845,2025-10-03 11:24:53,Fantasia de vampiro,Fantasia,Loja física,Maringá,1,132.5,72.08,5,Concluído,Adulto,G,2025-10-05 11:24:53
+198,2024-10-21 10:33:54,Fantasia de fantasma,Fantasia, loja física ,Maringá,3,75,39,0,Concluído,Infantil,M,2024-10-26 10:33:54
+134,2024-08-09 11:26:19,Fantasia de bruxa,Fantasia,Loja física,Maringá,2,110,57,10,Concluído,Adulto,M,2024-08-15 11:26:19
+383,2024-11-05 22:34:47,Fantasia de vampiro,Fantasia,Web,Londrina,1,125,68,0,Concluído,Adulto,G,2024-11-10 22:34:47
+1328,2025-10-10 17:49:38,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,23.32,8.48,0,Cancelado,Todos,Unico,
+1253,2025-10-12 20:20:46,Fantasia de fantasma,Fantasia,Web,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 20:20:46
+1050,2025-10-23 20:33:54,Fantasia de abobora,Fantasia,Web,Maringá,-1,90.1,46.64,5,Concluído,Infantil,P,2025-10-25 20:33:54
+353,2024-10-23 22:51:51,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,10,Concluído,Adulto,M,2024-10-28 22:51:51
+693,2024-11-19 20:15:06,Fantasia de abobora,Fantasia, web ,Curitiba,3,85,44,20,Concluído,Infantil,P,2024-11-24 20:15:06
+202,2024-10-09 12:26:32,Fantasia de abobora,Fantasia,Mercado,Londrina,4,85,44,5,Concluído,Infantil,P,2024-10-13 12:26:32
+24,2024-08-05 17:55:41,Fantasia de abobora,Fantasia,Mercado,Maringá,3,85,44,5,Concluído,Infantil,P,2024-08-11 17:55:41
+180,2024-11-06 16:50:03,Fantasia de abobora,Fantasia,Loja física,Curitiba,1,85,44,20,Concluído,Infantil,P,
+543,2024-08-25 15:18:05,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,75,39,10,Concluído,Infantil,M,2024-08-30 15:18:05
+847,2025-11-20 13:25:22,Fantasia de bruxa,Fantasia,Mercado,Curitiba,7,116.6,60.42,20,Concluído,Adulto,M,2025-11-24 13:25:22
+52,2024-10-25 10:47:26,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,75,39,0,Concluído,Infantil,M,2024-10-29 10:47:26
+705,2024-10-28 19:54:11,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,22,8,0,Concluído,Todos,Unico,2024-10-30 19:54:11
+110,2024-11-30 20:06:48,Fantasia de abobora,Fantasia,Web,Maringá,1,85,44,25,Concluído,Infantil,P,2024-12-02 20:06:48
+887,2025-08-07 16:29:33,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-08-11 16:29:33
+458,2024-11-18 10:10:10,Chapeu de bruxa,Acessorio,Loja física,Londrina,1,22,8,10,Concluído,Todos,Unico,2024-11-23 10:10:10
+1324,2025-09-16 21:23:21,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-09-22 21:23:21
+517,2024-10-07 18:29:07,Fantasia de abobora,Fantasia,Web,Londrina,3,85,44,0,Concluído,Infantil,P,2024-10-11 18:29:07
+1375,2025-09-18 15:15:55,Fantasia de vampiro,Fantasia,Loja física,Londrina,2,,72.08,0,Concluído,Adulto,G,2025-09-20 15:15:55
+85,2024-11-08 13:03:59,Mascara assustadora,Acessorio,Mercado,Maringá,4,35,12,15,Concluído,Todos,Unico,2024-11-10 13:03:59
+163,2024-11-23 20:15:28,Fantasia de vampiro,Fantasia,Web,Cascavel,3,125,68,20,Cancelado,Adulto,G,
+754,2025-10-19 22:13:05,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-25 22:13:05
+83,2024-10-25 14:16:40,Fantasia de bruxa,Fantasia,Loja física,Cascavel,2,110,57,5,Concluído,Adulto,M,2024-10-30 14:16:40
+920,2025-10-10 19:42:02,Fantasia de abobora,Fantasia,Web,Londrina,1,90.1,46.64,5,Concluído,Infantil,P,2025-10-12 19:42:02
+534,2024-11-01 17:13:09,Chapeu de bruxa,Acessorio,Mercado,Maringá,6,22,8,20,Concluído,Todos,Unico,2024-11-07 17:13:09
+1280,2025-08-16 15:39:42,Fantasia de vampiro,,Loja física,Maringá,2,132.5,72.08,5,Concluído,Adulto,G,2025-08-18 15:39:42
+1384,2025-09-05 18:43:15,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,0,Concluído,Adulto,M,2025-09-11 18:43:15
+104,2024-11-15 13:14:55,Chapeu de bruxa,Acessorio,Mercado,Curitiba,4,22,8,20,Concluído,Todos,Unico,2024-11-21 13:14:55
+967,2025-08-17 19:09:34,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,5,Devolvido,Infantil,M,2025-08-21 19:09:34
+1126,2025-11-02 20:02:56,Fantasia de bruxa,Fantasia,Web,Maringá,1,116.6,60.42,25,Concluído,Adulto,M,2025-11-05 20:02:56
+947,2025-10-06 09:14:58,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,23.32,8.48,10,Concluído,Todos,Unico,2025-10-10 09:14:58
+665,2024-11-19 13:45:29,Fantasia de fantasma, Fantasia ,Loja física,Londrina,2,75,39,25,Concluído,Infantil,M,2024-11-21 13:45:29
+1148,2025-10-29 22:34:16,Chapeu de bruxa,Acessorio,Web,Maringá,3,23.32,8.48,0,Devolvido,Todos,Unico,2025-11-03 22:34:16
+287,2024-11-30 19:50:55,Fantasia de bruxa,Fantasia,Web,Curitiba,3,110,57,20,Concluído,Adulto,M,2024-12-04 19:50:55
+1163,2025-10-21 16:50:24,Chapeu de bruxa,Acessorio,Mercado,Cascavel,7,23.32,8.48,0,Concluído,Todos,Unico,2025-10-26 16:50:24
+444,2024-11-05 16:34:31,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,22,8,0,Concluído,Todos,Unico,2024-11-11 16:34:31
+569,2024-10-20 09:46:01,Mascara assustadora,Acessorio,Mercado,Curitiba,7,35,12,0,Concluído,Todos,Unico,2024-10-26 09:46:01
+1094,2025-10-27 20:39:54,Fantasia de bruxa,Fantasia,Web,Curitiba,3,116.6,60.42,0,Concluído,Adulto,M,2025-11-02 20:39:54
+957,2025-10-18 19:02:16,Fantasia de bruxa,Fantasia, web ,Londrina,1,116.6,60.42,5,Concluído,Adulto,M,2025-10-22 19:02:16
+19,2024-10-13 14:43:17,Chapeu de bruxa, Acessorio ,Mercado,Cascavel,3,22,8,5,Devolvido,Todos,Unico,2024-10-19 14:43:17
+935,2025-10-09 11:25:05,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,10,Concluído,Adulto,M,2025-10-11 11:25:05
+1245,2025-10-23 13:29:23,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-25 13:29:23
+983,2025-10-06 20:05:45,Fantasia de bruxa,Fantasia,Web,Curitiba,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-11 20:05:45
+1349,2025-10-24 10:55:01,Fantasia de fantasma, Fantasia ,Loja física,Londrina,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-30 10:55:01
+1154,2025-08-06 21:35:47,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,5,Concluído,Adulto,G,2025-08-12 21:35:47
+538,2024-10-27 09:30:30,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,22,8,0,Concluído,Todos,Unico,2024-11-01 09:30:30
+131,2024-10-29 12:40:18,Fantasia de bruxa,Fantasia,Loja física,Londrina,2,110,57,5,Cancelado,Adulto,M,
+835,2025-10-14 19:24:18,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-16 19:24:18
+290,2024-10-28 14:49:32,Fantasia de abobora,Fantasia,Loja física,Curitiba,3,85,44,0,Concluído,Infantil,P,2024-10-30 14:49:32
+1167,2025-11-17 21:54:20,Fantasia de vampiro,Fantasia,Web,Cascavel,3,132.5,72.08,10,Concluído,Adulto,G,2025-11-21 21:54:20
+160,2024-10-01 21:19:10,Fantasia de bruxa,,Web,Londrina,2,110,57,10,Concluído,Adulto,M,2024-10-03 21:19:10
+971,2025-09-29 18:09:01,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,10,Concluído,Infantil,P,2025-10-02 18:09:01
+1440,2025-11-16 19:05:21,Fantasia de bruxa,,Web,Cascavel,2,116.6,60.42,15,Cancelado,Adulto,M,
+233,2024-10-19 18:33:22,Fantasia de vampiro,Fantasia,Mercado,Curitiba,3,125,68,0,Concluído,Adulto,G,2024-10-24 18:33:22
+1087,2025-10-13 22:04:28,Fantasia de bruxa,Fantasia,Web,Londrina,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-17 22:04:28
+1125,2025-10-23 12:38:12,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,,60.42,5,Concluído,Adulto,M,
+869,2025-10-10 19:50:22,Chapeu de bruxa,Acessorio,Loja física,Maringá,2,23.32,8.48,10,Concluído,Todos,Unico,2025-10-16 19:50:22
+1489,2025-11-02 12:29:40,Chapeu de bruxa,Acessorio,Mercado,Curitiba,3,23.32,8.48,15,Concluído,Todos,Unico,2025-11-08 12:29:40
+1291,2025-11-14 19:29:45,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,23.32,8.48,15,Concluído,Todos,Unico,2025-11-17 19:29:45
+524,2024-10-18 18:36:17,Fantasia de abobora,Fantasia,Web,Maringá,2,85,44,0,Devolvido,Infantil,P,2024-10-24 18:36:17
+512,2024-10-25 10:17:40,Fantasia de abobora,Fantasia,Loja física,Londrina,1,85,44,0,Concluído,Infantil,P,2024-10-29 10:17:40
+1346,2025-10-22 18:34:32,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,10,Concluído,Infantil,M,2025-10-25 18:34:32
+1100,2025-11-04 09:38:14,Fantasia de fantasma,Fantasia,Loja física,Curitiba,1,79.5,41.34,25,Concluído,Infantil,M,2025-11-06 09:38:14
+167,2024-11-30 16:37:24,Mascara assustadora,Acessorio,Mercado,Londrina,2,35,12,10,Concluído,Todos,Unico,2024-12-04 16:37:24
+262,2024-11-09 19:31:22,Fantasia de abobora,Fantasia,Web,Cascavel,1,85,44,15,Cancelado,Infantil,P,
+1226,2025-11-03 17:54:55,Chapeu de bruxa,Acessorio,Mercado,Curitiba,7,23.32,8.48,20,Concluído,Todos,Unico,2025-11-06 17:54:55
+1228,2025-08-05 20:10:14,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,0,Concluído,Infantil,M,2025-08-10 20:10:14
+231,2024-10-29 12:22:08,Fantasia de abobora,Fantasia, loja física ,Londrina,3,85,44,5,Concluído,Infantil,P,2024-11-01 12:22:08
+1106,2025-10-28 19:19:18,Fantasia de abobora,Fantasia,Web,Cascavel,2,90.1,46.64,0,Concluído,Infantil,P,2025-10-31 19:19:18
+327,2024-08-04 18:18:47,Fantasia de vampiro,Fantasia,Web,Cascavel,3,125,68,10,Concluído,Adulto,G,2024-08-08 18:18:47
+866,2025-10-28 12:44:28,Chapeu de bruxa,Acessorio,Mercado,Maringá,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-31 12:44:28
+113,2024-08-15 09:48:38,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,110,57,5,Concluído,Adulto,M,2024-08-20 09:48:38
+1282,2025-10-13 19:00:20,Fantasia de fantasma,Fantasia,Loja física,Curitiba,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-17 19:00:20
+44,2024-10-16 21:16:52,Mascara assustadora,Acessorio,Web,Curitiba,2,35,12,5,Concluído,Todos,Unico,2024-10-22 21:16:52
+1408,2025-11-01 17:29:46,Chapeu de bruxa,Acessorio,Mercado,Curitiba,2,23.32,8.48,10,Cancelado,Todos,Unico,
+1215,2025-11-21 21:23:17,Fantasia de abobora,  FANTASIA!!!  ,Web,Curitiba,1,90.1,46.64,10,Concluído,Infantil,P,
+140,2024-10-14 22:19:54,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,0,Concluído,Adulto,M,2024-10-16 22:19:54
+1466,2025-11-16 14:32:52,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,23.32,8.48,0,Concluído,Todos,Unico,2025-11-19 14:32:52
+1251,2025-10-13 18:59:12,Chapeu de bruxa,Acessorio,Web,Maringá,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-16 18:59:12
+482,2024-10-01 17:37:43,Mascara assustadora,Acessorio,Mercado,Maringá,7,35,12,10,Concluído,Todos,Unico,2024-10-05 17:37:43
+846,2025-10-20 18:25:30,Mascara assustadora,Acessorio,Mercado,Londrina,5,37.1,12.72,0,Concluído,Todos,Unico,2025-10-23 18:25:30
+326,2024-11-08 21:50:59,Fantasia de bruxa,Fantasia,Web,Londrina,3,110,57,10,Concluído,Adulto,M,2024-11-11 21:50:59
+1032,2025-10-29 21:27:10,Fantasia de bruxa,Fantasia,Web,Cascavel,3,116.6,60.42,10,Concluído,Adulto,M,2025-11-02 21:27:10
+771,2025-10-19 17:53:21,Fantasia de bruxa,Fantasia,Loja física,Londrina,3,116.6,60.42,0,Concluído,Adulto,M,2025-10-22 17:53:21
+197,2024-09-24 20:00:33,Fantasia de bruxa,Fantasia,Web,Curitiba,2,110,57,0,Concluído,Adulto,M,2024-09-28 20:00:33
+1460,2025-10-08 20:27:23,Mascara assustadora,Acessorio,Web,Maringá,1,37.1,12.72,10,Concluído,Todos,Unico,2025-10-10 20:27:23
+1284,2025-10-13 18:15:57,Fantasia de fantasma,Fantasia,Web,Londrina,2,79.5,41.34,0,Concluído,Infantil,M,2025-10-19 18:15:57
+129,2024-09-18 21:25:20,Fantasia de vampiro,Fantasia,Web,Maringá,1,125,68,0,Concluído,Adulto,G,2024-09-24 21:25:20
+1287,2025-11-04 22:32:27,Fantasia de bruxa,Fantasia, web ,Curitiba,1,116.6,60.42,15,Concluído,Adulto,M,2025-11-08 22:32:27
+964,2025-08-16 21:38:04,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-08-22 21:38:04
+1497,2025-11-01 13:53:00,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,116.6,60.42,20,Concluído,Adulto,M,2025-11-05 13:53:00
+281,2024-09-03 09:49:34,Fantasia de vampiro,Fantasia,Loja física,Cascavel,1,125,68,0,Concluído,Adulto,G,2024-09-06 09:49:34
+368,2024-10-07 22:58:31,Fantasia de bruxa,Fantasia,Web,Cascavel,2,110,57,10,Concluído,Adulto,M,2024-10-12 22:58:31
+1188,2025-10-30 14:09:03,Fantasia de abobora,  FANTASIA!!!  , loja física ,Maringá,3,90.1,46.64,5,Concluído,Infantil,P,2025-11-04 14:09:03
+453,2024-10-19 19:36:54,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-10-24 19:36:54
+854,2025-10-16 20:55:01,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,5,Cancelado,Adulto,G,
+1091,2025-11-01 13:27:39,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,79.5,41.34,20,Concluído,Infantil,M,2025-11-04 13:27:39
+886,2025-10-15 12:17:42,Mascara assustadora,Acessorio,Mercado,Curitiba,6,37.1,12.72,0,Concluído,Todos,Unico,2025-10-18 12:17:42
+578,2024-10-12 19:56:03,Fantasia de abobora,Fantasia,Web,Curitiba,3,85,44,0,Cancelado,Infantil,P,
+148,2024-11-06 14:36:26,Mascara assustadora,Acessorio,Loja física,Curitiba,1,35,12,0,Concluído,Todos,Unico,2024-11-11 14:36:26
+1127,2025-10-21 13:29:09,Chapeu de bruxa,Acessorio,Loja física,Cascavel,1,23.32,8.48,0,Concluído,Todos,Unico,2025-10-25 13:29:09
+715,2024-11-13 10:40:16,Mascara assustadora,Acessorio,Mercado,Cascavel,6,35,12,10,Concluído,Todos,Unico,2024-11-15 10:40:16
+284,2024-09-28 19:21:45,Chapeu de bruxa,Acessorio,Mercado,Cascavel,3,22,8,0,Concluído,Todos,Unico,2024-10-04 19:21:45
+1277,2025-11-03 14:34:27,Mascara assustadora,Acessorio,Loja física,Londrina,3,37.1,12.72,20,Concluído,Todos,Unico,2025-11-07 14:34:27
+331,2024-10-21 15:58:20,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,22,8,0,Concluído,Todos,Unico,2024-10-24 15:58:20
+121,2024-10-20 18:17:06,Fantasia de bruxa,Fantasia,Web,Londrina,2,110,57,0,Concluído,Adulto,M,2024-10-23 18:17:06
+483,2024-08-28 13:41:25,Fantasia de fantasma,Fantasia,Loja física,Curitiba,3,75,39,0,Concluído,Infantil,M,2024-09-02 13:41:25
+843,2025-09-23 21:31:58,Fantasia de vampiro,Fantasia,Web,Curitiba,1,132.5,72.08,5,Concluído,Adulto,G,2025-09-28 21:31:58
+1246,2025-10-02 12:44:16,Chapeu de bruxa,Acessorio,Mercado,Cascavel,6,23.32,8.48,10,Concluído,Todos,Unico,2025-10-05 12:44:16
+1307,2025-08-31 20:47:26,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,0,Concluído,Adulto,M,2025-09-04 20:47:26
+1429,2025-09-15 21:52:09,Fantasia de vampiro,Fantasia,Web,Maringá,3,132.5,72.08,0,Concluído,Adulto,G,2025-09-21 21:52:09
+1124,2025-10-27 18:44:43,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,5,Concluído,Todos,Unico,2025-11-02 18:44:43
+1422,2025-11-15 13:11:31,Fantasia de fantasma,Fantasia,Loja física,Curitiba,3,79.5,41.34,25,Concluído,Infantil,M,2025-11-19 13:11:31
+581,2024-11-11 19:33:43,Fantasia de bruxa,Fantasia,Mercado,Londrina,4,110,57,15,Concluído,Adulto,M,2024-11-14 19:33:43
+58,2024-10-27 18:35:18,Fantasia de vampiro,Fantasia,Loja física,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-11-01 18:35:18
+1333,2025-10-12 20:27:04,Fantasia de vampiro,Fantasia,Web,Maringá,2,132.5,72.08,0,Cancelado,Adulto,G,
+1067,2025-10-18 12:18:30,Chapeu de bruxa,Acessorio,Loja física,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-10-22 12:18:30
+1266,2025-09-28 19:30:58,Mascara assustadora,Acessorio,Mercado,Curitiba,4,37.1,12.72,0,Concluído,Todos,Unico,2025-10-01 19:30:58
+438,2024-08-30 12:48:12,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,125,68,0,Concluído,Adulto,G,2024-09-04 12:48:12
+683,2024-10-10 15:20:57,Chapeu de bruxa,Acessorio,Loja física,Maringá,3,22,8,0,Cancelado,Todos,Unico,
+857,2025-11-13 16:04:03,Mascara assustadora,Acessorio,Loja física,Cascavel,2,37.1,12.72,10,Concluído,Todos,Unico,2025-11-17 16:04:03
+733,2024-09-10 18:57:52,Mascara assustadora,Acessorio,Loja física,Cascavel,3,35,12,0,Concluído,Todos,Unico,2024-09-15 18:57:52
+1022,2025-09-16 09:11:20,Fantasia de bruxa,Fantasia,Loja física,Maringá,3,116.6,60.42,0,Cancelado,Adulto,M,
+1059,2025-08-27 14:34:31,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,5,Concluído,Infantil,M,2025-09-02 14:34:31
+208,2024-08-19 16:15:36,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,22,8,5,Cancelado,Todos,Unico,
+995,2025-10-12 11:59:37,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,23.32,8.48,10,Concluído,Todos,Unico,2025-10-14 11:59:37
+1073,2025-10-28 18:48:17,Mascara assustadora,Acessorio,Mercado,Cascavel,3,37.1,12.72,0,Concluído,Todos,Unico,2025-11-02 18:48:17
+1230,2025-11-14 14:27:19,Fantasia de vampiro,Fantasia,Loja física,Curitiba,2,132.5,72.08,25,Concluído,Adulto,G,2025-11-16 14:27:19
+645,2024-10-07 22:21:08,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,10,Cancelado,Todos,Unico,
+1404,2025-10-19 22:52:27,Mascara assustadora,  ACESSORIO!!!  ,Web,Curitiba,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-25 22:52:27
+1412,2025-10-25 18:24:19,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-29 18:24:19
+1185,2025-11-16 13:08:42,Fantasia de fantasma,Fantasia,Loja física,Cascavel,1,79.5,41.34,20,Concluído,Infantil,M,2025-11-18 13:08:42
+1005,2025-10-21 20:48:56,Fantasia de bruxa,Fantasia,Web,Maringá,2,116.6,60.42,5,Concluído,Adulto,M,2025-10-23 20:48:56
+476,2024-11-02 09:09:50,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,110,57,20,Concluído,Adulto,M,2024-11-05 09:09:50
+1229,2025-09-27 13:21:15,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-03 13:21:15
+691,2024-09-05 12:12:10,Chapeu de bruxa,Acessorio,Mercado,Maringá,7,22,8,0,Concluído,Todos,Unico,2024-09-08 12:12:10
+1218,2025-10-14 14:57:38,Mascara assustadora,Acessorio,Mercado,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-19 14:57:38
+385,2024-08-30 11:18:47,Mascara assustadora,Acessorio,Mercado,Maringá,3,35,12,0,Concluído,Todos,Unico,2024-09-01 11:18:47
+941,2025-10-08 20:40:30,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,10,Concluído,Infantil,P,2025-10-11 20:40:30
+877,2025-11-09 18:38:12,Fantasia de vampiro,Fantasia,Loja física,Londrina,1,132.5,72.08,20,Concluído,Adulto,G,2025-11-13 18:38:12
+1334,2025-09-11 13:22:24,Fantasia de fantasma,Fantasia,Loja física,Maringá,2,79.5,41.34,0,Concluído,Infantil,M,2025-09-17 13:22:24
+463,2024-10-10 22:59:41,Fantasia de bruxa,Fantasia,Web,Curitiba,1,110,57,5,Concluído,Adulto,M,2024-10-15 22:59:41
+1361,2025-10-30 19:40:33,Chapeu de bruxa,Acessorio,Web,Curitiba,2,23.32,8.48,0,Concluído,Todos,Unico,2025-11-02 19:40:33
+734,2024-10-13 20:49:56,Fantasia de abobora,Fantasia,Web,Cascavel,2,85,44,10,Concluído,Infantil,P,2024-10-19 20:49:56
+49,2024-10-04 13:36:42,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,75,39,10,Concluído,Infantil,M,2024-10-10 13:36:42
+906,2025-10-18 20:48:49,Mascara assustadora,Acessorio,Web,Maringá,1,37.1,12.72,5,Cancelado,Todos,Unico,
+744,2024-11-11 17:14:29,Fantasia de fantasma,Fantasia,Loja física,Londrina,3,75,39,15,Concluído,Infantil,M,2024-11-17 17:14:29
+171,2024-10-01 20:41:30,Fantasia de bruxa, Fantasia ,Web,Cascavel,3,110,57,0,Cancelado,Adulto,M,
+682,2024-10-18 11:23:52,Chapeu de bruxa,Acessorio,Mercado,Londrina,5,22,8,5,Concluído,Todos,Unico,2024-10-22 11:23:52
+1149,2025-10-12 12:19:00,Fantasia de bruxa,Fantasia,Mercado,Londrina,2,116.6,60.42,10,Concluído,Adulto,M,2025-10-18 12:19:00
+362,2024-10-12 18:55:48,Fantasia de vampiro,Fantasia,Web,Maringá,3,125,68,5,Concluído,Adulto,G,2024-10-16 18:55:48
+1065,2025-10-23 12:57:24,Fantasia de fantasma,Fantasia,Loja física,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-25 12:57:24
+72,2024-10-06 20:41:47,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-10-10 20:41:47
+201,2024-10-17 18:34:28,Fantasia de abobora,Fantasia,Web,Londrina,1,85,44,0,Concluído,Infantil,P,2024-10-20 18:34:28
+1132,2025-11-05 09:08:44,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,20,Concluído,Adulto,M,2025-11-09 09:08:44
+643,2024-08-15 21:05:10,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,5,Concluído,Infantil,M,2024-08-20 21:05:10
+413,2024-08-03 13:40:02,Chapeu de bruxa,Acessorio,Mercado,Londrina,3,22,8,5,Concluído,Todos,Unico,2024-08-08 13:40:02
+766,2025-10-22 22:41:28,Fantasia de vampiro,Fantasia,Web,Londrina,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-25 22:41:28
+1122,2025-11-09 14:29:57,Fantasia de vampiro,Fantasia, loja física ,Cascavel,1,132.5,72.08,15,Concluído,Adulto,G,2025-11-13 14:29:57
+1252,2025-08-11 22:09:40,Fantasia de fantasma,Fantasia,Web,Cascavel,2,79.5,41.34,5,Concluído,Infantil,M,2025-08-15 22:09:40
+789,2025-10-28 13:04:28,Fantasia de abobora,Fantasia,Loja física,Maringá,2,90.1,46.64,0,Concluído,Infantil,P,2025-11-03 13:04:28
+1119,2025-10-06 15:04:12,Fantasia de vampiro,Fantasia,Loja física,Maringá,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-12 15:04:12
+1345,2025-10-04 20:26:31,Fantasia de abobora,Fantasia,Web,Curitiba,1,90.1,46.64,0,Concluído,Infantil,P,2025-10-06 20:26:31
+997,2025-11-24 14:20:04,Mascara assustadora,Acessorio,Loja física,Cascavel,3,37.1,12.72,25,Concluído,Todos,Unico,2025-11-28 14:20:04
+765,2025-10-03 21:47:16,Fantasia de vampiro,Fantasia,Web,Curitiba,2,132.5,72.08,0,Concluído,Adulto,G,
+976,2025-11-03 14:56:23,Chapeu de bruxa,Acessorio,Loja física,Cascavel,3,23.32,8.48,20,Concluído,Todos,Unico,2025-11-06 14:56:23
+793,2025-11-05 10:26:16,Chapeu de bruxa,Acessorio,Loja física,Londrina,3,23.32,8.48,25,Concluído,Todos,Unico,2025-11-10 10:26:16
+479,2024-10-20 22:35:45,Fantasia de abobora,Fantasia,Web,Cascavel,1,85,44,0,Concluído,Infantil,P,2024-10-26 22:35:45
+189,2024-10-27 16:52:34,Mascara assustadora,  ACESSORIO!!!  ,Loja física,Cascavel,1,35,12,0,Concluído,Todos,Unico,2024-11-02 16:52:34
+322,2024-10-27 16:08:13,Fantasia de abobora,Fantasia,Loja física,Londrina,2,85,44,0,Concluído,Infantil,P,2024-10-31 16:08:13
+1454,2025-10-20 19:43:49,Fantasia de bruxa,Fantasia,Web,Curitiba,2,116.6,60.42,0,Concluído,Adulto,M,2025-10-26 19:43:49
+1364,2025-10-19 22:11:21,Chapeu de bruxa,Acessorio,Web,Curitiba,3,23.32,8.48,0,Devolvido,Todos,Unico,2025-10-25 22:11:21
+1343,2025-08-30 16:40:47,Fantasia de abobora,Fantasia,Loja física,Londrina,3,90.1,46.64,0,Concluído,Infantil,P,2025-09-04 16:40:47
+75,2024-11-21 22:26:37,Fantasia de fantasma,Fantasia,Web,Curitiba,1,75,39,20,Concluído,Infantil,M,2024-11-23 22:26:37
+572,2024-08-28 11:08:41,Chapeu de bruxa,Acessorio,Loja física,Curitiba,3,22,8,10,Concluído,Todos,Unico,2024-09-01 11:08:41
+712,2024-10-18 10:21:56,Chapeu de bruxa,Acessorio,Loja física,Maringá,1,22,8,5,Concluído,Todos,Unico,2024-10-22 10:21:56
+814,2025-10-31 14:16:56,Fantasia de abobora,Fantasia,Loja física,Maringá,1,90.1,46.64,10,Concluído,Infantil,P,2025-11-06 14:16:56
+301,2024-10-31 18:44:50,Mascara assustadora,Acessorio,Loja física,Londrina,2,35,12,10,Concluído,Todos,Unico,2024-11-03 18:44:50
+323,2024-08-03 13:25:53,Mascara assustadora, Acessorio ,Loja física,Maringá,2,35,12,0,Concluído,Todos,Unico,2024-08-08 13:25:53
+586,2024-10-11 18:43:26,Fantasia de fantasma,Fantasia,Web,Curitiba,2,75,39,0,Devolvido,Infantil,M,2024-10-14 18:43:26
+46,2024-10-28 18:59:09,Mascara assustadora,Acessorio,Mercado,Londrina,7,35,12,0,Concluído,Todos,Unico,2024-10-31 18:59:09
+564,2024-10-15 18:41:32,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-10-21 18:41:32
+330,2024-10-01 21:12:30,Fantasia de fantasma,Fantasia, web ,Maringá,1,75,39,0,Concluído,Infantil,M,2024-10-03 21:12:30
+518,2024-10-12 14:47:52,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,0,Concluído,Todos,Unico,2024-10-17 14:47:52
+256,2024-10-23 19:42:58,Fantasia de bruxa,Fantasia,Loja física,Cascavel,1,110,57,0,Cancelado,Adulto,M,
+439,2024-10-28 18:17:00,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,125,68,0,Concluído,Adulto,G,2024-11-03 18:17:00
+373,2024-10-19 20:22:29,Fantasia de vampiro,Fantasia,Web,Curitiba,1,125,68,0,Concluído,Adulto,G,2024-10-24 20:22:29
+191,2024-08-14 20:46:33,Fantasia de abobora,Fantasia,Web,Londrina,2,85,44,0,Concluído,Infantil,P,2024-08-17 20:46:33
+1161,2025-10-22 17:08:25,Fantasia de vampiro,  FANTASIA!!!  ,Loja física,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-25 17:08:25
+1451,2025-10-16 22:37:23,Fantasia de fantasma,Fantasia,Web,Londrina,3,79.5,41.34,10,Concluído,Infantil,M,2025-10-19 22:37:23
+70,2024-11-07 18:36:51,Fantasia de vampiro,Fantasia,Web,Londrina,2,125,68,20,Concluído,Adulto,G,2024-11-09 18:36:51
+1260,2025-10-06 11:49:25,Chapeu de bruxa,Acessorio,Loja física,Maringá,-1,23.32,8.48,0,Concluído,Todos,Unico,
+1314,2025-09-29 18:29:36,Mascara assustadora,Acessorio,Loja física,Maringá,1,37.1,12.72,0,Concluído,Todos,Unico,2025-10-05 18:29:36
+199,2024-10-28 15:19:36,Fantasia de abobora,Fantasia,Loja física,Maringá,1,85,44,0,Concluído,Infantil,P,2024-11-03 15:19:36
+1367,2025-10-24 22:19:52,Fantasia de abobora,Fantasia,Web,Cascavel,3,90.1,46.64,10,Concluído,Infantil,P,2025-10-28 22:19:52
+138,2024-09-08 21:55:46,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-09-13 21:55:46
+298,2024-09-27 19:58:41,Fantasia de bruxa,Fantasia,Web,Maringá,1,110,57,10,Cancelado,Adulto,M,
+1217,2025-11-03 19:50:32,Fantasia de vampiro,Fantasia,Web,Cascavel,1,132.5,72.08,0,Concluído,Adulto,G,2025-11-07 19:50:32
+831,2025-08-03 18:25:59,Mascara assustadora,Acessorio,Mercado,Curitiba,7,37.1,12.72,0,Concluído,Todos,Unico,2025-08-06 18:25:59
+570,2024-10-18 11:46:36,Chapeu de bruxa, Acessorio ,Loja física,Maringá,2,22,,0,Concluído,Todos,Unico,2024-10-20 11:46:36
+974,2025-10-17 13:54:43,Fantasia de vampiro,Fantasia,Loja física,Maringá,3,132.5,72.08,0,Concluído,Adulto,G,2025-10-23 13:54:43
+102,2024-08-12 21:24:49,Mascara assustadora,Acessorio,Web,Londrina,3,35,12,0,Cancelado,Todos,Unico,
+966,2025-09-28 11:06:42,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,116.6,60.42,0,Concluído,Adulto,M,2025-10-01 11:06:42
+221,2024-11-08 19:44:11,Chapeu de bruxa,Acessorio,Mercado,Londrina,7,22,8,15,Concluído,Todos,Unico,2024-11-11 19:44:11
+465,2024-11-27 09:00:19,Fantasia de abobora,Fantasia,Loja física,Curitiba,2,85,44,0,Concluído,Infantil,P,2024-11-29 09:00:19
+63,2024-11-11 22:45:22,Mascara assustadora,Acessorio,Web,Cascavel,1,35,12,25,Concluído,Todos,Unico,2024-11-16 22:45:22
+259,2024-08-07 22:26:38,Fantasia de fantasma,Fantasia,Web,Cascavel,1,75,39,10,Concluído,Infantil,M,2024-08-13 22:26:38
+1055,2025-09-30 19:25:20,Chapeu de bruxa,Acessorio,Web,Curitiba,3,23.32,8.48,0,Concluído,Todos,Unico,2025-10-02 19:25:20
+1296,2025-10-21 20:39:15,Fantasia de fantasma,  FANTASIA!!!  ,Web,Maringá,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-24 20:39:15
+490,2024-10-05 22:17:17,Fantasia de abobora,Fantasia,Web,Curitiba,2,85,44,5,Concluído,Infantil,P,2024-10-07 22:17:17
+963,2025-11-09 12:14:41,Fantasia de abobora,Fantasia,Loja física,Cascavel,1,90.1,46.64,10,Concluído,Infantil,P,2025-11-14 12:14:41
+1064,2025-10-08 20:04:17,Chapeu de bruxa, Acessorio ,Web,Curitiba,2,23.32,8.48,5,Concluído,Todos,Unico,2025-10-14 20:04:17
+184,2024-08-12 18:54:48,Mascara assustadora,Acessorio,Mercado,Londrina,4,35,12,0,Concluído,Todos,Unico,2024-08-18 18:54:48
+16,2024-10-25 14:40:52,Fantasia de bruxa,Fantasia,Loja física,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-10-28 14:40:52
+347,2024-08-31 13:56:31,Fantasia de vampiro,Fantasia,Loja física,Maringá,3,125,68,5,Concluído,Adulto,G,2024-09-04 13:56:31
+640,2024-10-31 10:44:42,Fantasia de vampiro,,Loja física,Londrina,2,125,68,10,Concluído,Adulto,G,2024-11-02 10:44:42
+919,2025-10-11 22:00:19,Fantasia de vampiro,Fantasia,Web,Londrina,1,132.5,72.08,0,Concluído,Adulto,G,2025-10-17 22:00:19
+639,2024-10-16 18:05:44,Fantasia de abobora,Fantasia,Web,Maringá,1,85,44,0,Concluído,Infantil,P,2024-10-22 18:05:44
+1463,2025-10-25 11:20:10,Fantasia de fantasma, Fantasia ,Loja física,Londrina,3,79.5,41.34,0,Concluído,Infantil,M,2025-10-30 11:20:10
+157,2024-11-04 15:10:15,Chapeu de bruxa,Acessorio,Loja física,Londrina,2,22,8,15,Concluído,Todos,Unico,2024-11-08 15:10:15
+1015,2025-11-07 16:10:25,Fantasia de bruxa,Fantasia,Loja física,Cascavel,3,116.6,60.42,15,Concluído,Adulto,M,2025-11-09 16:10:25
+181,2024-11-04 22:56:31,Fantasia de vampiro,Fantasia,Web,Cascavel,2,125,68,10,Concluído,Adulto,G,2024-11-07 22:56:31
+174,2024-10-02 19:14:07,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,10,Concluído,Infantil,M,2024-10-08 19:14:07
+1490,2025-09-09 21:25:18,Chapeu de bruxa,Acessorio,Web,Curitiba,3,23.32,8.48,0,Cancelado,Todos,Unico,
+1470,2025-10-12 19:01:44,Fantasia de vampiro,Fantasia,Web,Curitiba,-1,132.5,72.08,5,Concluído,Adulto,G,2025-10-14 19:01:44
+616,2024-10-09 18:57:21,Fantasia de bruxa,Fantasia,Mercado,Curitiba,3,110,57,0,Concluído,Adulto,M,2024-10-12 18:57:21
+451,2024-10-03 22:11:05,Fantasia de fantasma,Fantasia,Web,Londrina,2,75,39,0,Concluído,Infantil,M,2024-10-06 22:11:05
+599,2024-11-28 14:50:15,Fantasia de vampiro,Fantasia,Loja física,Curitiba,3,125,68,20,Concluído,Adulto,G,2024-12-04 14:50:15
+223,2024-10-15 19:08:13,Fantasia de fantasma,Fantasia,Web,Londrina,1,75,39,0,Concluído,Infantil,M,2024-10-20 19:08:13
+381,2024-08-18 10:51:44,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,75,39,5,Concluído,Infantil,M,2024-08-21 10:51:44
+282,2024-11-03 14:50:06,Mascara assustadora,Acessorio,Loja física,Maringá,2,35,12,10,Cancelado,Todos,Unico,
+1366,2025-10-20 21:03:24,Fantasia de vampiro,Fantasia,Web,Curitiba,3,132.5,72.08,5,Concluído,Adulto,G,2025-10-23 21:03:24
+619,2024-10-30 15:51:20,Fantasia de fantasma,Fantasia,Loja física,Curitiba,2,75,39,5,Concluído,Infantil,M,2024-11-05 15:51:20
+1425,2025-10-03 22:28:50,Mascara assustadora, Acessorio ,Web,Cascavel,2,37.1,12.72,0,Concluído,Todos,Unico,2025-10-05 22:28:50
+1402,2025-10-27 18:43:13,Fantasia de abobora,Fantasia,Web,Cascavel,1,90.1,46.64,5,Concluído,Infantil,P,2025-10-31 18:43:13
+781,2025-10-18 09:10:41,Mascara assustadora,Acessorio,Mercado,Londrina,6,37.1,12.72,0,Concluído,Todos,Unico,2025-10-21 09:10:41
+1310,2025-11-03 15:52:27,Mascara assustadora,Acessorio,Mercado,Cascavel,7,37.1,12.72,0,Concluído,Todos,Unico,2025-11-05 15:52:27
+1196,2025-10-21 09:09:51,Fantasia de fantasma,Fantasia,Loja física,Maringá,1,79.5,41.34,0,Concluído,Infantil,M,2025-10-24 09:09:51
+660,2024-11-09 09:13:34,Mascara assustadora,Acessorio, loja física ,Maringá,2,35,12,0,Concluído,Todos,Unico,2024-11-11 09:13:34
+772,2025-10-21 15:40:35,Fantasia de bruxa,Fantasia,Loja física,Maringá,1,116.6,60.42,5,Concluído,Adulto,M,2025-10-25 15:40:35
+25,2024-09-22 19:03:42,Chapeu de bruxa,Acessorio,Web,Maringá,3,22,8,5,Concluído,Todos,Unico,2024-09-24 19:03:42
+1147,2025-10-22 16:00:11,Chapeu de bruxa,Acessorio,Mercado,Cascavel,5,23.32,8.48,0,Concluído,Todos,Unico,2025-10-26 16:00:11
+271,2024-09-11 14:55:09,Chapeu de bruxa,Acessorio,Mercado,Londrina,2,22,8,0,Concluído,Todos,Unico,2024-09-14 14:55:09
