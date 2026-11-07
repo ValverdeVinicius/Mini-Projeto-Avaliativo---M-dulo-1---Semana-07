@@ -523,8 +523,10 @@ def imprimir_relatorio(df: pd.DataFrame, nulos: dict[str, int]) -> None:
         f"de {stats_texto['categorias_nao_vazias']}"
     )
     print(
-        "  Obs.: .lower() foi aplicado a todas as categorias nao vazias; "
-        "a contagem acima destaca apenas as que tinham espacos ou pontuacao."
+        "  Obs.: .lower() foi aplicado a todas as categorias nao vazias "
+        f"({stats_texto['categorias_mudanca_textual']} tiveram texto final "
+        "diferente do original); a contagem acima destaca apenas as que "
+        "tinham espacos ou pontuacao."
     )
     print("\nCategorias apos a padronizacao:")
     contagem_categorias = (
