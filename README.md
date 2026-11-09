@@ -122,7 +122,7 @@ Como existem 34 pedidos sem entrega e com outro status, a hipótese é **FALSA**
 
 ## 4. Como executar
 
-### Requisitos
+### Requisitos da aplicação
 
 - Python 3.10 ou superior (testado com Python 3.14.10);
 - Pandas (testado com 3.1.1);
@@ -141,11 +141,11 @@ sctech/
 
 ### Passo a passo
 
-No terminal, a partir da pasta do projeto:
+No terminal, a partir do diretório do projeto:
 
 ```bash
 python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+source .venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python main.py
@@ -154,7 +154,7 @@ python main.py
 O script procura `halloween_vendas.csv` na mesma pasta do `main.py`. Também é possível informar outro caminho:
 
 ```bash
-python main.py /caminho/para/halloween_vendas.csv
+python main.py {qualquer_caminho}/halloween_vendas.csv
 ```
 
 Para ver as opções:
@@ -286,8 +286,6 @@ O repositório foi organizado com a branch `main` para a versão estável, a bra
 
 ## 10. Fonte dos dados
 
-A base `halloween_vendas.csv` é fictícia e foi disponibilizada na atividade:
+A base `halloween_vendas.csv` foi disponibilizada na atividade:
 
 <https://github.com/Machine-Learning-Visao-Computacional-T5/python_exercises/tree/main/data_analysis/arquivo_mini_projeto>
-
-Ela não representa o mercado real e não deve ser usada para decisões comerciais fora do exercício.

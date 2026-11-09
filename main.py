@@ -3,15 +3,16 @@
 Mini-Projeto Avaliativo - Modulo 1 - Semana 07
 Festa em Cena - analise exploratoria dos pedidos de Halloween.
 
-O programa le halloween_vendas.csv com Pandas, preserva o arquivo original,
-padroniza textos, valida quantidade/preco, converte datas com datetime.strptime,
+O programa lê o arquivo halloween_vendas.csv com a biblioteca pandas,
+preserva o arquivo original, padroniza textos,
+valida quantidade/preço, converte datas com datetime.strptime,
 investiga a regra de entrega e gera um relatorio manual no terminal.
 
 Uso:
-    python main.py
-    python main.py caminho/para/halloween_vendas.csv
+    ./main.py
+    ./main.py halloween_vendas.csv
 
-Requisitos: Python 3.10+ e pandas.
+Para a aplicação foi utilizado o interpretador Python 3.14 e a biblioteca pandas.
 """
 
 from __future__ import annotations
